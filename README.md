@@ -6,4 +6,4 @@ This is a simple [GitHub scraper](https://simonwillison.net/2020/Oct/9/git-scrap
 
 If the Fediverse is your thing, there is a [fun account](https://bne.social/@BNELights) made by [Ash Kyd](https://ash.ms/) to follow which posts about the lights each day.
 
-Data is stored in [data.xml].
+Data is stored in [data.xml](data.xml).
