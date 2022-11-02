@@ -1,15 +1,9 @@
-# Simple GitHub scraper
+# Light Up Brisbane data
 
-This is a template repository for a simple [GitHub scraper](https://simonwillison.net/2020/Oct/9/git-scraping/) pioneered by Simon Wilson.
+This repository fetches and stores a history of the [Light Up Brisbane calendar]([url](https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane)). 
 
-## The 'simple' part
+This is a simple [GitHub scraper](https://simonwillison.net/2020/Oct/9/git-scraping/) using a technique pioneered by pioneered by Simon Willison.
 
-At this point the template only supports very simple fetching and committing of a JSON data file from somewhere on the internet.
+If the Fediverse is your thing, there is a [fun account](https://bne.social/@BNELights) made by [Ash Kyd](https://ash.ms/) to follow which posts about the lights each day.
 
-Replace `https://www.example.com/data.json` in the [.github/workflows/scrape.yaml] file with the URL of the data you want to scrape.
-
-Commit and push the repo to GitHub and you're ready to go.
-
-By default the scraper will run [once per week](https://crontab.guru/#6_16_*_*_0), but you can change the cron schedule in the [.github/workflows/scrape.yaml] file.
-
-Data is stored in [data.json].
+Data is stored in [data.xml].
