@@ -11,296 +11,36 @@
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.21704//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.21711//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
 		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Sunday, January 8, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852032</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/chy68p8mmzxxsw6mdnp7bca880</x-trumba:ealink>
-			<category>2023/01/08 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852032</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-01-07T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-08T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 8, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-08T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852032</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Sunday, January 8, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852019</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/warxs4c2zczwg8ughkxfgagz7d</x-trumba:ealink>
-			<category>2023/01/08 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852019</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-01-07T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-08T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 8, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-08T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852019</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Sunday, January 8, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852042</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/semkbs5m1ym3x48z4j3020hbpe</x-trumba:ealink>
-			<category>2023/01/08 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852042</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-01-07T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-08T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 8, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-08T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852042</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Sunday, January 8, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852008</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4spa909j3fsakfkd2sp9g5pmhu</x-trumba:ealink>
-			<category>2023/01/08 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852008</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-01-07T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-08T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 8, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-08T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852008</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Sunday, January 8, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852061</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/grdcwnsuxhtnhb5p61dvtuenyc</x-trumba:ealink>
-			<category>2023/01/08 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852061</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-01-07T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-08T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 8, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-08T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852061</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Monday, January 9, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852043</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sjypryddhy9w3v699zk6xcr0sr</x-trumba:ealink>
-			<category>2023/01/09 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852043</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-01-08T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, January 9, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-09T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-10T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852043</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Monday, January 9, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852033</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wzvrf7j773wfujek5wrccw31ba</x-trumba:ealink>
-			<category>2023/01/09 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852033</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-01-08T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, January 9, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-09T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-10T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852033</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Monday, January 9, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852062</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/46jznmzkfkgppr694tyvbpxr9j</x-trumba:ealink>
-			<category>2023/01/09 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852062</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-01-08T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, January 9, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-09T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-10T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852062</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Monday, January 9, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852020</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cw6h5kj1zv6p0uwp8affrdk7wd</x-trumba:ealink>
-			<category>2023/01/09 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852020</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-01-08T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, January 9, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-09T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-10T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852020</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian Indoor Hockey Championships</title>
-			<description>Monday, January 9, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Teal to support the Australian Indoor Hockey Championships.&lt;br /&gt;&lt;br /&gt;The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;#8217; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852009</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4f9a6rfx88hb2y4v6pgtaarjjs</x-trumba:ealink>
-			<category>2023/01/09 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852009</guid>
-			<xCal:summary>Australian Indoor Hockey Championships</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-01-08T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-09T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, January 9, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-01-09T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-10T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Teal to support the Australian Indoor Hockey Championships.
-
-The Australian Indoor Hockey Championships is an annual Event comprised of five age groups; U13, U15, U18, U21 &amp;amp; Opens across Male and Female competitions. This Indoor Age Championships is the second biggest championships event hosted by Hockey Australia after the Masters&amp;rsquo; event. This event will be at the Brisbane Sports Entertainment Centre Boondall from the 3rd to the 25th January, 2023.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852009</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
 			<title>2023 National Corrections Day</title>
-			<description>Friday, January 20, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue and White to support 2023 National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852010</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sjc3wdv4htzaut73u6ba3dyhpd</x-trumba:ealink>
+			<description>Friday, January 20, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue &amp;#160;to support 2023 National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852034</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sd2dmsdnxtjn8h6ghy3r80686n</x-trumba:ealink>
 			<category>2023/01/20 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852010</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/163852034</guid>
 			<xCal:summary>2023 National Corrections Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
 			<xCal:dtstart>2023-01-19T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-20T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Friday, January 20, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-01-20T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-21T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Blue and White to support 2023 National Corrections Day.
+			<xCal:description>The Reddacliff Place sculptures will be lit Blue &amp;nbsp;to support 2023 National Corrections Day.
 
 Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.
 
 This Light Up is organised by: Queensland Corrective Services</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852010</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/163852034</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -357,28 +97,28 @@ This Light Up is organised by: Queensland Corrective Services</xCal:description>
 		</item>
 		<item>
 			<title>2023 National Corrections Day</title>
-			<description>Friday, January 20, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue &amp;#160;to support 2023 National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852034</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sd2dmsdnxtjn8h6ghy3r80686n</x-trumba:ealink>
+			<description>Friday, January 20, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue and White to support 2023 National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852010</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sjc3wdv4htzaut73u6ba3dyhpd</x-trumba:ealink>
 			<category>2023/01/20 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852034</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/163852010</guid>
 			<xCal:summary>2023 National Corrections Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
 			<xCal:dtstart>2023-01-19T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-20T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Friday, January 20, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-01-20T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-21T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Blue &amp;nbsp;to support 2023 National Corrections Day.
+			<xCal:description>The Story Bridge will be lit Blue and White to support 2023 National Corrections Day.
 
 Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.
 
 This Light Up is organised by: Queensland Corrective Services</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852034</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/163852010</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -437,28 +177,28 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>Australia Day</title>
-			<description>Thursday, January 26, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Green to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;The Story Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852035</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cbtdmzb6f9tugfwzdahaaewkvy</x-trumba:ealink>
+			<description>Thursday, January 26, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Green to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;The Story Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852045</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wcwmkxj8x4kajkyrp5e71em7zj</x-trumba:ealink>
 			<category>2023/01/26 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852035</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/163852045</guid>
 			<xCal:summary>Australia Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
 			<xCal:dtstart>2023-01-25T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-26T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Thursday, January 26, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-01-26T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-27T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Green to celebrate Australia Day.
+			<xCal:description>The Tropical Dome will be lit Green to celebrate Australia Day.
 
 The Story Bridge will be lit Green and Gold to celebrate Australia Day.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852035</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/163852045</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -489,28 +229,28 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>Australia Day</title>
-			<description>Thursday, January 26, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Green to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;The Story Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852045</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wcwmkxj8x4kajkyrp5e71em7zj</x-trumba:ealink>
+			<description>Thursday, January 26, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Green to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;The Story Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d163852035</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cbtdmzb6f9tugfwzdahaaewkvy</x-trumba:ealink>
 			<category>2023/01/26 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/163852045</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/163852035</guid>
 			<xCal:summary>Australia Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
 			<xCal:dtstart>2023-01-25T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-01-26T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Thursday, January 26, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-01-26T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-01-27T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Green to celebrate Australia Day.
+			<xCal:description>The Reddacliff Place sculptures will be lit Green to celebrate Australia Day.
 
 The Story Bridge will be lit Green and Gold to celebrate Australia Day.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/163852045</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/163852035</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 	</channel>
