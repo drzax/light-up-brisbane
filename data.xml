@@ -5,522 +5,18 @@
 		<link>https://www.brisbane.qld.gov.au/</link>
 		<description>This calendar includes scheduled lights ups of Council assets including Story Bridge, Reddacliff Place sculptures, Victoria Bridge, Brisbane City Hall, King George Square, William Jolly Bridge and Tropical Dome at Brisbane Botanic Gardens Mt Coot-tha.</description>
 		<language>en-us</language>
-		<lastBuildDate>25 Jan 2023 04:21:39 GMT</lastBuildDate>
+		<lastBuildDate>31 Jan 2023 04:03:25 GMT</lastBuildDate>
 		<image>
 			<title>Calendar Feed powered by Trumba</title>
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.21725//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.21802//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Wednesday, February 1, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures&amp;#160;will be lit Red to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270957</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sfkk8pdw5r5h32d54juegr7eng</x-trumba:ealink>
-			<category>2023/02/01 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270957</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270956</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-01-31T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-01T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, February 1, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-01T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-02T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures&amp;nbsp;will be lit Red to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270957</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Wednesday, February 1, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270893</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mcceuxjh9b7vkvdhxu9706m6k9</x-trumba:ealink>
-			<category>2023/02/01 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270893</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270892</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-01-31T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-01T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, February 1, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-01T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-02T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270893</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Wednesday, February 1, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome&amp;#160;will be lit Red to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270930</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mfp7n8130thzp27btvx75ghe68</x-trumba:ealink>
-			<category>2023/02/01 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270930</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270929</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-01-31T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-01T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, February 1, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-01T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-02T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome&amp;nbsp;will be lit Red to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270930</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Wednesday, February 1, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270861</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cc82awka2nnrfr1zs5wcseh6z5</x-trumba:ealink>
-			<category>2023/02/01 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270861</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270860</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-01-31T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-01T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, February 1, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-01T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-02T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270861</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Thursday, February 2, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270862</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8jfkuzha4ptgdbmtxfm857261m</x-trumba:ealink>
-			<category>2023/02/02 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270862</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270860</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-02-01T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-02T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, February 2, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-02T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-03T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270862</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Thursday, February 2, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270894</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sy6616bjbyk9yfhz7urp5bz8wg</x-trumba:ealink>
-			<category>2023/02/02 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270894</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270892</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-01T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-02T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, February 2, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-02T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-03T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270894</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Thursday, February 2, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome&amp;#160;will be lit Red to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270931</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cnbn1k7b769vxvmpfy77pcsdwc</x-trumba:ealink>
-			<category>2023/02/02 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270931</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270929</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-02-01T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-02T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, February 2, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-02T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-03T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome&amp;nbsp;will be lit Red to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270931</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Thursday, February 2, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures&amp;#160;will be lit Red to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270958</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8w5we377tu2rygfts3sn840h8m</x-trumba:ealink>
-			<category>2023/02/02 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270958</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270956</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-01T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-02T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, February 2, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-02T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-03T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures&amp;nbsp;will be lit Red to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270958</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Friday, February 3, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270895</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wa3wa2ehg33dwj3fmd9rdha6s1</x-trumba:ealink>
-			<category>2023/02/03 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270895</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270892</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-02T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-03T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, February 3, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-03T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-04T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270895</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Friday, February 3, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome&amp;#160;will be lit Red to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270932</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wpmwpedvph3va5ku8fkmf5xssv</x-trumba:ealink>
-			<category>2023/02/03 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270932</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270929</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-02-02T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-03T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, February 3, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-03T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-04T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome&amp;nbsp;will be lit Red to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270932</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Friday, February 3, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270863</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8r9adehhygupcujsdu2zgx4ajc</x-trumba:ealink>
-			<category>2023/02/03 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270863</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270860</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-02-02T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-03T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, February 3, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-03T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-04T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270863</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Friday, February 3, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures&amp;#160;will be lit Red to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270959</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gdpvnwmn3yun0s5us26wy6hbv3</x-trumba:ealink>
-			<category>2023/02/03 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270959</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/164270956</x-trumba:masterid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-02T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-03T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, February 3, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-03T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-04T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures&amp;nbsp;will be lit Red to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270959</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Sri Lanka's 75th Independence Day</title>
-			<description>Saturday, February 4, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Orange, Maroon and Green to recognise Sri Lanka&amp;#39;s 75th Independence Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Honorary Consulate of Sri Lanka &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164339223</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cp25gw4ths6ayc7bcs1ygetttj</x-trumba:ealink>
-			<category>2023/02/04 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164339223</guid>
-			<xCal:summary>Sri Lanka's 75th Independence Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-03T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-04T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, February 4, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-04T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Orange, Maroon and Green to recognise Sri Lanka&amp;#39;s 75th Independence Day.
-
-This Light Up is organised by: The Honorary Consulate of Sri Lanka</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164339223</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Cancer Day</title>
-			<description>Saturday, February 4, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to support World Cancer Day.&lt;br /&gt;&lt;br /&gt;Cancer Council Queensland the Icon Group is dedicated to improving quality of life for people living with cancer, through research, patient care, prevention and early detection. Our mission is to reduce the burden of cancer on Queenslanders.World Cancer Day encourages education and awareness about cancer and invites people to donate to life saving cancer research.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Icon Group &amp;amp; Cancer Council Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270960</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ccgche099b7epg73jnp08rxrjk</x-trumba:ealink>
-			<category>2023/02/04 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270960</guid>
-			<xCal:summary>World Cancer Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-03T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-04T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, February 4, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-04T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Blue to support World Cancer Day.
-
-Cancer Council Queensland the Icon Group is dedicated to improving quality of life for people living with cancer, through research, patient care, prevention and early detection. Our mission is to reduce the burden of cancer on Queenslanders.World Cancer Day encourages education and awareness about cancer and invites people to donate to life saving cancer research.
-
-This Light Up is organised by: Icon Group &amp;amp; Cancer Council Qld</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270960</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Cancer Day</title>
-			<description>Saturday, February 4, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Blue and orange to support World Cancer Day.&lt;br /&gt;&lt;br /&gt;Cancer Council Queensland the Icon Group is dedicated to improving quality of life for people living with cancer, through research, patient care, prevention and early detection. Our mission is to reduce the burden of cancer on Queenslanders.World Cancer Day encourages education and awareness about cancer and invites people to donate to life saving cancer research.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Icon Group &amp;amp; Cancer Council Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270898</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0590t4jr57ap21dtsr7aptchrk</x-trumba:ealink>
-			<category>2023/02/04 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270898</guid>
-			<xCal:summary>World Cancer Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-03T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-04T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, February 4, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-04T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Blue and orange to support World Cancer Day.
-
-Cancer Council Queensland the Icon Group is dedicated to improving quality of life for people living with cancer, through research, patient care, prevention and early detection. Our mission is to reduce the burden of cancer on Queenslanders.World Cancer Day encourages education and awareness about cancer and invites people to donate to life saving cancer research.
-
-This Light Up is organised by: Icon Group &amp;amp; Cancer Council Qld</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270898</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Cancer Day</title>
-			<description>Saturday, February 4, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue and orange to support World Cancer Day.&lt;br /&gt;&lt;br /&gt;Cancer Council Queensland the Icon Group is dedicated to improving quality of life for people living with cancer, through research, patient care, prevention and early detection. Our mission is to reduce the burden of cancer on Queenslanders.World Cancer Day encourages education and awareness about cancer and invites people to donate to life saving cancer research.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Icon Group &amp;amp; Cancer Council Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270869</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w45ghf0dcs0hbn1cfza8jkssju</x-trumba:ealink>
-			<category>2023/02/04 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270869</guid>
-			<xCal:summary>World Cancer Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-02-03T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-04T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, February 4, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-04T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Blue and orange to support World Cancer Day.
-
-Cancer Council Queensland the Icon Group is dedicated to improving quality of life for people living with cancer, through research, patient care, prevention and early detection. Our mission is to reduce the burden of cancer on Queenslanders.World Cancer Day encourages education and awareness about cancer and invites people to donate to life saving cancer research.
-
-This Light Up is organised by: Icon Group &amp;amp; Cancer Council Qld</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270869</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Cancer Day</title>
-			<description>Saturday, February 4, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Blue to support World Cancer Day.&lt;br /&gt;&lt;br /&gt;Cancer Council Queensland the Icon Group is dedicated to improving quality of life for people living with cancer, through research, patient care, prevention and early detection. Our mission is to reduce the burden of cancer on Queenslanders.World Cancer Day encourages education and awareness about cancer and invites people to donate to life saving cancer research.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Icon Group &amp;amp; Cancer Council Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270934</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gsy3tgej8vj9ugrt5zwzp0x6mz</x-trumba:ealink>
-			<category>2023/02/04 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270934</guid>
-			<xCal:summary>World Cancer Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-02-03T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-04T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, February 4, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-04T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Blue to support World Cancer Day.
-
-Cancer Council Queensland the Icon Group is dedicated to improving quality of life for people living with cancer, through research, patient care, prevention and early detection. Our mission is to reduce the burden of cancer on Queenslanders.World Cancer Day encourages education and awareness about cancer and invites people to donate to life saving cancer research.
-
-This Light Up is organised by: Icon Group &amp;amp; Cancer Council Qld</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270934</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Sunday, February 5, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270864</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mvykkxy9zr43020vutun3kd4b4</x-trumba:ealink>
-			<category>2023/02/05 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270864</guid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-02-04T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, February 5, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-05T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-06T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270864</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
 		<item>
 			<title>2023 BrisAsia Festival</title>
 			<description>Sunday, February 5, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Red to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
@@ -547,6 +43,34 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2023 BrisAsia Festival</title>
+			<description>Sunday, February 5, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270899</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8v4td71nj1v1u2hfagswb1dkk3</x-trumba:ealink>
+			<category>2023/02/05 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270899</guid>
+			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-02-04T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, February 5, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-05T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-06T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
+
+BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
+
+Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
+
+This Light Up is organised by: Brisbane City Council</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270899</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -579,58 +103,30 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>2023 BrisAsia Festival</title>
-			<description>Sunday, February 5, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270899</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8v4td71nj1v1u2hfagswb1dkk3</x-trumba:ealink>
+			<description>Sunday, February 5, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270864</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mvykkxy9zr43020vutun3kd4b4</x-trumba:ealink>
 			<category>2023/02/05 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270899</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270864</guid>
 			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
 			<xCal:dtstart>2023-02-04T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Sunday, February 5, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-02-05T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-06T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
+			<xCal:description>The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
 
 BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
 
 Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270899</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/164270864</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>National Tube Feeding Week</title>
-			<description>Sunday, February 5, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Town Hall will be lit Purple and Blue to support National Tube Feeding Week.&lt;br /&gt;&lt;br /&gt;Australia&amp;#8217;s Feeding Tube Awareness Week (FTAW), which will be marked nationally, 5-11 February 2023, to increase awareness and understanding in the community by raising some of the challenges faced and highlighting the day-to-day impact of tube feeding on individuals, carers and families. Importantly, FTAW unites the tube feeding community.&lt;br /&gt;&lt;br /&gt;Founded in 2009, ausEE Inc. is Australia&amp;#8217;s peak national support and patient advocacy organisation representing Australians living with an eosinophilic disease including eosinophilic gastrointestinal diseases (EGIDs). Since 2015 we have run Australia&amp;#8217;s Feeding Tube Awareness Week (FTAW) campaign, as an EGID is one of many conditions and reasons that may require tube feeding. FTAW is about bringing everyone together who has a feeding tube, whatever the reason may be.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: ausEE Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164284788</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0z00va0mjx0utx15yztt21zte7</x-trumba:ealink>
-			<category>2023/02/05 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164284788</guid>
-			<xCal:summary>National Tube Feeding Week</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-02-04T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, February 5, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-05T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-06T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Town Hall will be lit Purple and Blue to support National Tube Feeding Week.
-
-Australia&amp;rsquo;s Feeding Tube Awareness Week (FTAW), which will be marked nationally, 5-11 February 2023, to increase awareness and understanding in the community by raising some of the challenges faced and highlighting the day-to-day impact of tube feeding on individuals, carers and families. Importantly, FTAW unites the tube feeding community.
-
-Founded in 2009, ausEE Inc. is Australia&amp;rsquo;s peak national support and patient advocacy organisation representing Australians living with an eosinophilic disease including eosinophilic gastrointestinal diseases (EGIDs). Since 2015 we have run Australia&amp;rsquo;s Feeding Tube Awareness Week (FTAW) campaign, as an EGID is one of many conditions and reasons that may require tube feeding. FTAW is about bringing everyone together who has a feeding tube, whatever the reason may be.
-
-This Light Up is organised by: ausEE Incorporated</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164284788</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -662,31 +158,31 @@ This Light Up is organised by: ausEE Incorporated</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>2023 BrisAsia Festival</title>
-			<description>Monday, February 6, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270866</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4e4emhzhac3fxs9eagxvnektmr</x-trumba:ealink>
-			<category>2023/02/06 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270866</guid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-02-05T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-06T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, February 6, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-06T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-07T00:00:00</x-trumba:localend>
+			<title>National Tube Feeding Week</title>
+			<description>Sunday, February 5, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Town Hall will be lit Purple and Blue to support National Tube Feeding Week.&lt;br /&gt;&lt;br /&gt;Australia&amp;#8217;s Feeding Tube Awareness Week (FTAW), which will be marked nationally, 5-11 February 2023, to increase awareness and understanding in the community by raising some of the challenges faced and highlighting the day-to-day impact of tube feeding on individuals, carers and families. Importantly, FTAW unites the tube feeding community.&lt;br /&gt;&lt;br /&gt;Founded in 2009, ausEE Inc. is Australia&amp;#8217;s peak national support and patient advocacy organisation representing Australians living with an eosinophilic disease including eosinophilic gastrointestinal diseases (EGIDs). Since 2015 we have run Australia&amp;#8217;s Feeding Tube Awareness Week (FTAW) campaign, as an EGID is one of many conditions and reasons that may require tube feeding. FTAW is about bringing everyone together who has a feeding tube, whatever the reason may be.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: ausEE Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164284788</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0z00va0mjx0utx15yztt21zte7</x-trumba:ealink>
+			<category>2023/02/05 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164284788</guid>
+			<xCal:summary>National Tube Feeding Week</xCal:summary>
+			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
+			<xCal:dtstart>2023-02-04T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-05T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, February 5, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-05T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-06T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
+			<xCal:description>Sandgate Town Hall will be lit Purple and Blue to support National Tube Feeding Week.
 
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
+Australia&amp;rsquo;s Feeding Tube Awareness Week (FTAW), which will be marked nationally, 5-11 February 2023, to increase awareness and understanding in the community by raising some of the challenges faced and highlighting the day-to-day impact of tube feeding on individuals, carers and families. Importantly, FTAW unites the tube feeding community.
 
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
+Founded in 2009, ausEE Inc. is Australia&amp;rsquo;s peak national support and patient advocacy organisation representing Australians living with an eosinophilic disease including eosinophilic gastrointestinal diseases (EGIDs). Since 2015 we have run Australia&amp;rsquo;s Feeding Tube Awareness Week (FTAW) campaign, as an EGID is one of many conditions and reasons that may require tube feeding. FTAW is about bringing everyone together who has a feeding tube, whatever the reason may be.
 
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270866</xCal:uid>
+This Light Up is organised by: ausEE Incorporated</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164284788</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -719,34 +215,6 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>2023 BrisAsia Festival</title>
-			<description>Monday, February 6, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270939</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g4s79ym5zuaj3ez158bcc14h2p</x-trumba:ealink>
-			<category>2023/02/06 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270939</guid>
-			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-05T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-06T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, February 6, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-06T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-07T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to celebrate the 2023 BrisAsia Festival.
-
-BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
-
-Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270939</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 BrisAsia Festival</title>
 			<description>Monday, February 6, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270900</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w78ankebgu69ydhpn6j73kyhfg</x-trumba:ealink>
@@ -771,6 +239,62 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2023 BrisAsia Festival</title>
+			<description>Monday, February 6, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270866</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4e4emhzhac3fxs9eagxvnektmr</x-trumba:ealink>
+			<category>2023/02/06 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270866</guid>
+			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2023-02-05T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-06T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, February 6, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-06T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-07T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Red, Blue and Pink to celebrate the 2023 BrisAsia Festival.
+
+BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
+
+Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
+
+This Light Up is organised by: Brisbane City Council</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270866</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2023 BrisAsia Festival</title>
+			<description>Monday, February 6, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to celebrate the 2023 BrisAsia Festival.&lt;br /&gt;&lt;br /&gt;BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.&lt;br /&gt;&lt;br /&gt;Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270939</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g4s79ym5zuaj3ez158bcc14h2p</x-trumba:ealink>
+			<category>2023/02/06 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270939</guid>
+			<xCal:summary>2023 BrisAsia Festival</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-02-05T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-06T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, February 6, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-06T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-07T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Red to celebrate the 2023 BrisAsia Festival.
+
+BrisAsia Festival returns from 1-19 February 2023 to celebrate Lunar New Year and celebrate the Year of the Rabbit, an animal that represents luck, good fortune, peace, beauty and creativity. What better way to kick start your year than to connect with culture at BrisAsia Festival, with something on offer for the whole family.
+
+Over the three weeks audiences can experience the transformative power of live performance, learn and grow through immersive experiences and travel the length and breadth of Asia across the incredibly packed festival program that has something for everyone.
+
+This Light Up is organised by: Brisbane City Council</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270939</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -885,6 +409,32 @@ This Light Up is organised by: ausEE Incorporated</xCal:description>
 		</item>
 		<item>
 			<title>International Angelman Day</title>
+			<description>Saturday, February 11, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to support International Angelman Day.&lt;br /&gt;&lt;br /&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman&amp;#160;syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected&amp;#160;by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of Angelman syndrome, which is a rare disease effecting approximately 1:20,000 live births. Iconic buildings and landmarks are lit up in blue to mark the day - &lt;a href="https://www.angelmanday.info/general-7" target="_blank" rel="noopener"&gt;https://www.angelmanday.info/general-7&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Angelman Syndrome Association Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270965</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cf7dwtbtb65dpawtmh149jwhrx</x-trumba:ealink>
+			<category>2023/02/11 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270965</guid>
+			<xCal:summary>International Angelman Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-02-10T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-11T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, February 11, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-11T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-12T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Blue to support International Angelman Day.
+
+Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman&amp;nbsp;syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected&amp;nbsp;by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of Angelman syndrome, which is a rare disease effecting approximately 1:20,000 live births. Iconic buildings and landmarks are lit up in blue to mark the day - &lt;a href="https://www.angelmanday.info/general-7" target="_blank"&gt;https://www.angelmanday.info/general-7&lt;/a&gt;
+
+This Light Up is organised by: Angelman Syndrome Association Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270965</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>International Angelman Day</title>
 			<description>Saturday, February 11, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Blue to support International Angelman Day.&lt;br /&gt;&lt;br /&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman&amp;#160;syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected&amp;#160;by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of Angelman syndrome, which is a rare disease effecting approximately 1:20,000 live births. Iconic buildings and landmarks are lit up in blue to mark the day - &lt;a href="https://www.angelmanday.info/general-7" target="_blank" rel="noopener"&gt;https://www.angelmanday.info/general-7&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Angelman Syndrome Association Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270903</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0y6pr4k725stc9pn1p0f6bmcm0</x-trumba:ealink>
@@ -936,26 +486,52 @@ This Light Up is organised by: Angelman Syndrome Association Australia</xCal:des
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>International Angelman Day</title>
-			<description>Saturday, February 11, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to support International Angelman Day.&lt;br /&gt;&lt;br /&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman&amp;#160;syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected&amp;#160;by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of Angelman syndrome, which is a rare disease effecting approximately 1:20,000 live births. Iconic buildings and landmarks are lit up in blue to mark the day - &lt;a href="https://www.angelmanday.info/general-7" target="_blank" rel="noopener"&gt;https://www.angelmanday.info/general-7&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Angelman Syndrome Association Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270965</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cf7dwtbtb65dpawtmh149jwhrx</x-trumba:ealink>
-			<category>2023/02/11 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270965</guid>
-			<xCal:summary>International Angelman Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, February 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-12T00:00:00</x-trumba:localend>
+			<title>Memorial Service for the Anniversary of the Fall of Singapore</title>
+			<description>Sunday, February 12, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to recognise the Memorial Service for the Anniversary of the Fall of Singapore.&lt;br /&gt;&lt;br /&gt;2/10th Field Regiment Association remembers the thousands of Australian soldiers, sailors airmen and nurses who lost their lives in the World War Two battle for Malaya and Singapore. Those who survived the battle were taken prisoner of war at the Fall of Singapore on 15 February 1942. One third of those captured died as POWs. The Memorial Service remembers the 81st anniversary of that day, and the thousands of lives lost in World War II or that have passed since.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: 2/10th Field Regiment Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270876</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wbch423tn56yeffatu3md6dguv</x-trumba:ealink>
+			<category>2023/02/12 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270876</guid>
+			<xCal:summary>Memorial Service for the Anniversary of the Fall of Singapore</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2023-02-11T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-12T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, February 12, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-12T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-13T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Blue to support International Angelman Day.
+			<xCal:description>The Story Bridge will be lit Red to recognise the Memorial Service for the Anniversary of the Fall of Singapore.
 
-Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman&amp;nbsp;syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected&amp;nbsp;by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of Angelman syndrome, which is a rare disease effecting approximately 1:20,000 live births. Iconic buildings and landmarks are lit up in blue to mark the day - &lt;a href="https://www.angelmanday.info/general-7" target="_blank"&gt;https://www.angelmanday.info/general-7&lt;/a&gt;
+2/10th Field Regiment Association remembers the thousands of Australian soldiers, sailors airmen and nurses who lost their lives in the World War Two battle for Malaya and Singapore. Those who survived the battle were taken prisoner of war at the Fall of Singapore on 15 February 1942. One third of those captured died as POWs. The Memorial Service remembers the 81st anniversary of that day, and the thousands of lives lost in World War II or that have passed since.
 
-This Light Up is organised by: Angelman Syndrome Association Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270965</xCal:uid>
+This Light Up is organised by: 2/10th Field Regiment Association</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270876</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Memorial Service for the Anniversary of the Fall of Singapore</title>
+			<description>Sunday, February 12, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to recognise the Memorial Service for the Anniversary of the Fall of Singapore.&lt;br /&gt;&lt;br /&gt;2/10th Field Regiment Association remembers the thousands of Australian soldiers, sailors airmen and nurses who lost their lives in the World War Two battle for Malaya and Singapore. Those who survived the battle were taken prisoner of war at the Fall of Singapore on 15 February 1942. One third of those captured died as POWs. The Memorial Service remembers the 81st anniversary of that day, and the thousands of lives lost in World War II or that have passed since.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: 2/10th Field Regiment Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270966</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0dp3wajd0vdwznwmhhhfp8z4cr</x-trumba:ealink>
+			<category>2023/02/12 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270966</guid>
+			<xCal:summary>Memorial Service for the Anniversary of the Fall of Singapore</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-02-11T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-12T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, February 12, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-12T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-13T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Red to recognise the Memorial Service for the Anniversary of the Fall of Singapore.
+
+2/10th Field Regiment Association remembers the thousands of Australian soldiers, sailors airmen and nurses who lost their lives in the World War Two battle for Malaya and Singapore. Those who survived the battle were taken prisoner of war at the Fall of Singapore on 15 February 1942. One third of those captured died as POWs. The Memorial Service remembers the 81st anniversary of that day, and the thousands of lives lost in World War II or that have passed since.
+
+This Light Up is organised by: 2/10th Field Regiment Association</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270966</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
@@ -988,58 +564,6 @@ This Light Up is organised by: 2/10th Field Regiment Association</xCal:descripti
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>Memorial Service for the Anniversary of the Fall of Singapore</title>
-			<description>Sunday, February 12, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to recognise the Memorial Service for the Anniversary of the Fall of Singapore.&lt;br /&gt;&lt;br /&gt;2/10th Field Regiment Association remembers the thousands of Australian soldiers, sailors airmen and nurses who lost their lives in the World War Two battle for Malaya and Singapore. Those who survived the battle were taken prisoner of war at the Fall of Singapore on 15 February 1942. One third of those captured died as POWs. The Memorial Service remembers the 81st anniversary of that day, and the thousands of lives lost in World War II or that have passed since.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: 2/10th Field Regiment Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270966</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0dp3wajd0vdwznwmhhhfp8z4cr</x-trumba:ealink>
-			<category>2023/02/12 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270966</guid>
-			<xCal:summary>Memorial Service for the Anniversary of the Fall of Singapore</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-11T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-12T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, February 12, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to recognise the Memorial Service for the Anniversary of the Fall of Singapore.
-
-2/10th Field Regiment Association remembers the thousands of Australian soldiers, sailors airmen and nurses who lost their lives in the World War Two battle for Malaya and Singapore. Those who survived the battle were taken prisoner of war at the Fall of Singapore on 15 February 1942. One third of those captured died as POWs. The Memorial Service remembers the 81st anniversary of that day, and the thousands of lives lost in World War II or that have passed since.
-
-This Light Up is organised by: 2/10th Field Regiment Association</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270966</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Memorial Service for the Anniversary of the Fall of Singapore</title>
-			<description>Sunday, February 12, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to recognise the Memorial Service for the Anniversary of the Fall of Singapore.&lt;br /&gt;&lt;br /&gt;2/10th Field Regiment Association remembers the thousands of Australian soldiers, sailors airmen and nurses who lost their lives in the World War Two battle for Malaya and Singapore. Those who survived the battle were taken prisoner of war at the Fall of Singapore on 15 February 1942. One third of those captured died as POWs. The Memorial Service remembers the 81st anniversary of that day, and the thousands of lives lost in World War II or that have passed since.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: 2/10th Field Regiment Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270876</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wbch423tn56yeffatu3md6dguv</x-trumba:ealink>
-			<category>2023/02/12 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270876</guid>
-			<xCal:summary>Memorial Service for the Anniversary of the Fall of Singapore</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-02-11T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-12T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, February 12, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to recognise the Memorial Service for the Anniversary of the Fall of Singapore.
-
-2/10th Field Regiment Association remembers the thousands of Australian soldiers, sailors airmen and nurses who lost their lives in the World War Two battle for Malaya and Singapore. Those who survived the battle were taken prisoner of war at the Fall of Singapore on 15 February 1942. One third of those captured died as POWs. The Memorial Service remembers the 81st anniversary of that day, and the thousands of lives lost in World War II or that have passed since.
-
-This Light Up is organised by: 2/10th Field Regiment Association</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270876</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
 			<title>Sweetheart Day</title>
 			<description>Tuesday, February 14, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red and Blue to support Sweetheart Day.&lt;br /&gt;&lt;br /&gt;HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia. Sweetheart Day is our national awareness day of the disease and aims to raise funds to support families and children affected.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Heartkids Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270877</link>
@@ -1067,32 +591,6 @@ This Light Up is organised by: Heartkids Limited</xCal:description>
 		</item>
 		<item>
 			<title>Sweetheart Day</title>
-			<description>Tuesday, February 14, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red and Blue to support Sweetheart Day.&lt;br /&gt;&lt;br /&gt;HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia. Sweetheart Day is our national awareness day of the disease and aims to raise funds to support families and children affected.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Heartkids Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270967</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w1md7wen8pevfynr82x1mgz4xj</x-trumba:ealink>
-			<category>2023/02/14 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270967</guid>
-			<xCal:summary>Sweetheart Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, February 14, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red and Blue to support Sweetheart Day.
-
-HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia. Sweetheart Day is our national awareness day of the disease and aims to raise funds to support families and children affected.
-
-This Light Up is organised by: Heartkids Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270967</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Sweetheart Day</title>
 			<description>Tuesday, February 14, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red and Blue to support Sweetheart Day.&lt;br /&gt;&lt;br /&gt;HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia. Sweetheart Day is our national awareness day of the disease and aims to raise funds to support families and children affected.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Heartkids Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270905</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s92k1dxu4zwdvcz67w7gtkzhbt</x-trumba:ealink>
@@ -1115,6 +613,32 @@ This Light Up is organised by: Heartkids Limited</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Sweetheart Day</title>
+			<description>Tuesday, February 14, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red and Blue to support Sweetheart Day.&lt;br /&gt;&lt;br /&gt;HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia. Sweetheart Day is our national awareness day of the disease and aims to raise funds to support families and children affected.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Heartkids Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270967</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w1md7wen8pevfynr82x1mgz4xj</x-trumba:ealink>
+			<category>2023/02/14 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270967</guid>
+			<xCal:summary>Sweetheart Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-02-13T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-14T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, February 14, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-14T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-15T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Red and Blue to support Sweetheart Day.
+
+HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia. Sweetheart Day is our national awareness day of the disease and aims to raise funds to support families and children affected.
+
+This Light Up is organised by: Heartkids Limited</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270967</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1223,62 +747,6 @@ This Light Up is organised by: Melody Tafaghodi</xCal:description>
 		</item>
 		<item>
 			<title>Small Steps For Hannah - In Memory of Hannah Clarke and her children</title>
-			<description>Sunday, February 19, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Pink to support Small Steps For Hannah - In Memory of Hannah Clarke and her children.&lt;br /&gt;&lt;br /&gt;In loving memory of Hannah Clarke and her three children, Aaliyah, Laianah and Trey who tragically died two years ago. Their legacy lives on through the Small Steps 4 Hannah Foundation which exists to HALT the cycle of domestic violence so that everyone can feel respected, informed, confident to act, and safe. By taking small steps together, we can achieve giant leaps to HALT domestic violence.&lt;br /&gt;&lt;br /&gt;The Foundation will also be running a campaign of 19 days of Handstands - from February 1 - February 19. Hannah and the kids loved handstands and they ask the community to attempt/do a handstand upload to social media and share with us.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Small Steps for Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270969</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/495yrgwdnzsnh3mannzbkxd8yy</x-trumba:ealink>
-			<category>2023/02/19 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270969</guid>
-			<xCal:summary>Small Steps For Hannah - In Memory of Hannah Clarke and her children</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, February 19, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Pink to support Small Steps For Hannah - In Memory of Hannah Clarke and her children.
-
-In loving memory of Hannah Clarke and her three children, Aaliyah, Laianah and Trey who tragically died two years ago. Their legacy lives on through the Small Steps 4 Hannah Foundation which exists to HALT the cycle of domestic violence so that everyone can feel respected, informed, confident to act, and safe. By taking small steps together, we can achieve giant leaps to HALT domestic violence.
-
-The Foundation will also be running a campaign of 19 days of Handstands - from February 1 - February 19. Hannah and the kids loved handstands and they ask the community to attempt/do a handstand upload to social media and share with us.
-
-This Light Up is organised by: Small Steps for Hannah Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270969</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Small Steps For Hannah - In Memory of Hannah Clarke and her children</title>
-			<description>Sunday, February 19, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Pink to support Small Steps For Hannah - In Memory of Hannah Clarke and her children.&lt;br /&gt;&lt;br /&gt;In loving memory of Hannah Clarke and her three children, Aaliyah, Laianah and Trey who tragically died two years ago. Their legacy lives on through the Small Steps 4 Hannah Foundation which exists to HALT the cycle of domestic violence so that everyone can feel respected, informed, confident to act, and safe. By taking small steps together, we can achieve giant leaps to HALT domestic violence.&lt;br /&gt;&lt;br /&gt;The Foundation will also be running a campaign of 19 days of Handstands - from February 1 - February 19. Hannah and the kids loved handstands and they ask the community to attempt/do a handstand upload to social media and share with us.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Small Steps for Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270940</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ghyuf67ks2ruuvzm8a9mnr4aeb</x-trumba:ealink>
-			<category>2023/02/19 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270940</guid>
-			<xCal:summary>Small Steps For Hannah - In Memory of Hannah Clarke and her children</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-02-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, February 19, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Pink to support Small Steps For Hannah - In Memory of Hannah Clarke and her children.
-
-In loving memory of Hannah Clarke and her three children, Aaliyah, Laianah and Trey who tragically died two years ago. Their legacy lives on through the Small Steps 4 Hannah Foundation which exists to HALT the cycle of domestic violence so that everyone can feel respected, informed, confident to act, and safe. By taking small steps together, we can achieve giant leaps to HALT domestic violence.
-
-The Foundation will also be running a campaign of 19 days of Handstands - from February 1 - February 19. Hannah and the kids loved handstands and they ask the community to attempt/do a handstand upload to social media and share with us.
-
-This Light Up is organised by: Small Steps for Hannah Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270940</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Small Steps For Hannah - In Memory of Hannah Clarke and her children</title>
 			<description>Sunday, February 19, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Pink to support Small Steps For Hannah - In Memory of Hannah Clarke and her children.&lt;br /&gt;&lt;br /&gt;In loving memory of Hannah Clarke and her three children, Aaliyah, Laianah and Trey who tragically died two years ago. Their legacy lives on through the Small Steps 4 Hannah Foundation which exists to HALT the cycle of domestic violence so that everyone can feel respected, informed, confident to act, and safe. By taking small steps together, we can achieve giant leaps to HALT domestic violence.&lt;br /&gt;&lt;br /&gt;The Foundation will also be running a campaign of 19 days of Handstands - from February 1 - February 19. Hannah and the kids loved handstands and they ask the community to attempt/do a handstand upload to social media and share with us.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Small Steps for Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270923</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gk2tegdm1vrkyfb3ffjuj9rz2p</x-trumba:ealink>
@@ -1334,55 +802,85 @@ This Light Up is organised by: Small Steps for Hannah Foundation</xCal:descripti
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>2023 Heart Valve Disease Awareness Week</title>
-			<description>Monday, February 20, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red to support 2023 Heart Valve Disease Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&amp;#160; Heart Valve Disease Awareness Week (Feb 20 &amp;#8211; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270925</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g6jma3d6ypmgm1cwxj8chu52u0</x-trumba:ealink>
-			<category>2023/02/20 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270925</guid>
-			<xCal:summary>2023 Heart Valve Disease Awareness Week</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-02-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, February 20, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-02-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-21T00:00:00</x-trumba:localend>
+			<title>Small Steps For Hannah - In Memory of Hannah Clarke and her children</title>
+			<description>Sunday, February 19, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Pink to support Small Steps For Hannah - In Memory of Hannah Clarke and her children.&lt;br /&gt;&lt;br /&gt;In loving memory of Hannah Clarke and her three children, Aaliyah, Laianah and Trey who tragically died two years ago. Their legacy lives on through the Small Steps 4 Hannah Foundation which exists to HALT the cycle of domestic violence so that everyone can feel respected, informed, confident to act, and safe. By taking small steps together, we can achieve giant leaps to HALT domestic violence.&lt;br /&gt;&lt;br /&gt;The Foundation will also be running a campaign of 19 days of Handstands - from February 1 - February 19. Hannah and the kids loved handstands and they ask the community to attempt/do a handstand upload to social media and share with us.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Small Steps for Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270969</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/495yrgwdnzsnh3mannzbkxd8yy</x-trumba:ealink>
+			<category>2023/02/19 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270969</guid>
+			<xCal:summary>Small Steps For Hannah - In Memory of Hannah Clarke and her children</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-02-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, February 19, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-20T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red to support 2023 Heart Valve Disease Awareness Week.
+			<xCal:description>The Reddacliff Place sculptures will be lit Pink to support Small Steps For Hannah - In Memory of Hannah Clarke and her children.
 
-hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit hearts4heart.org.au.&amp;nbsp; Heart Valve Disease Awareness Week (Feb 20 &amp;ndash; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.
+In loving memory of Hannah Clarke and her three children, Aaliyah, Laianah and Trey who tragically died two years ago. Their legacy lives on through the Small Steps 4 Hannah Foundation which exists to HALT the cycle of domestic violence so that everyone can feel respected, informed, confident to act, and safe. By taking small steps together, we can achieve giant leaps to HALT domestic violence.
 
-This Light Up is organised by: hearts4heart</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270925</xCal:uid>
+The Foundation will also be running a campaign of 19 days of Handstands - from February 1 - February 19. Hannah and the kids loved handstands and they ask the community to attempt/do a handstand upload to social media and share with us.
+
+This Light Up is organised by: Small Steps for Hannah Foundation</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270969</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Small Steps For Hannah - In Memory of Hannah Clarke and her children</title>
+			<description>Sunday, February 19, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Pink to support Small Steps For Hannah - In Memory of Hannah Clarke and her children.&lt;br /&gt;&lt;br /&gt;In loving memory of Hannah Clarke and her three children, Aaliyah, Laianah and Trey who tragically died two years ago. Their legacy lives on through the Small Steps 4 Hannah Foundation which exists to HALT the cycle of domestic violence so that everyone can feel respected, informed, confident to act, and safe. By taking small steps together, we can achieve giant leaps to HALT domestic violence.&lt;br /&gt;&lt;br /&gt;The Foundation will also be running a campaign of 19 days of Handstands - from February 1 - February 19. Hannah and the kids loved handstands and they ask the community to attempt/do a handstand upload to social media and share with us.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Small Steps for Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270940</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ghyuf67ks2ruuvzm8a9mnr4aeb</x-trumba:ealink>
+			<category>2023/02/19 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270940</guid>
+			<xCal:summary>Small Steps For Hannah - In Memory of Hannah Clarke and her children</xCal:summary>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:dtstart>2023-02-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, February 19, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Tropical Dome will be lit Pink to support Small Steps For Hannah - In Memory of Hannah Clarke and her children.
+
+In loving memory of Hannah Clarke and her three children, Aaliyah, Laianah and Trey who tragically died two years ago. Their legacy lives on through the Small Steps 4 Hannah Foundation which exists to HALT the cycle of domestic violence so that everyone can feel respected, informed, confident to act, and safe. By taking small steps together, we can achieve giant leaps to HALT domestic violence.
+
+The Foundation will also be running a campaign of 19 days of Handstands - from February 1 - February 19. Hannah and the kids loved handstands and they ask the community to attempt/do a handstand upload to social media and share with us.
+
+This Light Up is organised by: Small Steps for Hannah Foundation</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270940</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
 			<title>2023 Heart Valve Disease Awareness Week</title>
-			<description>Monday, February 20, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support 2023 Heart Valve Disease Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&amp;#160; Heart Valve Disease Awareness Week (Feb 20 &amp;#8211; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270889</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/chbpc6v7aket2cxj3n8t6btr71</x-trumba:ealink>
+			<description>Monday, February 20, 2023 &lt;br/&gt;&lt;br/&gt;The&amp;#160;Tropical Dome will be lit Red to support 2023 Heart Valve Disease Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&amp;#160; Heart Valve Disease Awareness Week (Feb 20 &amp;#8211; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270941</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c8ks12tp4gx3vt9scfksyvephb</x-trumba:ealink>
 			<category>2023/02/20 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270889</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270941</guid>
 			<xCal:summary>2023 Heart Valve Disease Awareness Week</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
 			<xCal:dtstart>2023-02-19T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-20T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Monday, February 20, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-02-20T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-21T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to support 2023 Heart Valve Disease Awareness Week.
+			<xCal:description>The&amp;nbsp;Tropical Dome will be lit Red to support 2023 Heart Valve Disease Awareness Week.
 
 hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit hearts4heart.org.au.&amp;nbsp; Heart Valve Disease Awareness Week (Feb 20 &amp;ndash; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.
 
 This Light Up is organised by: hearts4heart</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270889</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/164270941</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1413,28 +911,54 @@ This Light Up is organised by: hearts4heart</xCal:description>
 		</item>
 		<item>
 			<title>2023 Heart Valve Disease Awareness Week</title>
-			<description>Monday, February 20, 2023 &lt;br/&gt;&lt;br/&gt;The&amp;#160;Tropical Dome will be lit Red to support 2023 Heart Valve Disease Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&amp;#160; Heart Valve Disease Awareness Week (Feb 20 &amp;#8211; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270941</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c8ks12tp4gx3vt9scfksyvephb</x-trumba:ealink>
+			<description>Monday, February 20, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support 2023 Heart Valve Disease Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&amp;#160; Heart Valve Disease Awareness Week (Feb 20 &amp;#8211; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270889</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/chbpc6v7aket2cxj3n8t6btr71</x-trumba:ealink>
 			<category>2023/02/20 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/164270941</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270889</guid>
 			<xCal:summary>2023 Heart Valve Disease Awareness Week</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
 			<xCal:dtstart>2023-02-19T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-20T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Monday, February 20, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-02-20T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-21T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The&amp;nbsp;Tropical Dome will be lit Red to support 2023 Heart Valve Disease Awareness Week.
+			<xCal:description>The Story Bridge will be lit Red to support 2023 Heart Valve Disease Awareness Week.
 
 hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit hearts4heart.org.au.&amp;nbsp; Heart Valve Disease Awareness Week (Feb 20 &amp;ndash; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.
 
 This Light Up is organised by: hearts4heart</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/164270941</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/164270889</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2023 Heart Valve Disease Awareness Week</title>
+			<description>Monday, February 20, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red to support 2023 Heart Valve Disease Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&amp;#160; Heart Valve Disease Awareness Week (Feb 20 &amp;#8211; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d164270925</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g6jma3d6ypmgm1cwxj8chu52u0</x-trumba:ealink>
+			<category>2023/02/20 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/164270925</guid>
+			<xCal:summary>2023 Heart Valve Disease Awareness Week</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-02-19T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-02-20T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, February 20, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-02-20T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-02-21T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Victoria Bridge will be lit Red to support 2023 Heart Valve Disease Awareness Week.
+
+hearts4heart is a leading health promotion charity supporting, educating, and advocating for people living with heart disease. For more information visit hearts4heart.org.au.&amp;nbsp; Heart Valve Disease Awareness Week (Feb 20 &amp;ndash; Feb 26, 2023) helps raise awareness of this serious but treatable disease and encourages Australians aged over 65 to start a conversation with their doctors.
+
+This Light Up is organised by: hearts4heart</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/164270925</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
