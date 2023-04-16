@@ -5,342 +5,18 @@
 		<link>https://www.brisbane.qld.gov.au/</link>
 		<description>This calendar includes scheduled lights ups of Council assets including Story Bridge, Reddacliff Place sculptures, Victoria Bridge, Brisbane City Hall, King George Square, William Jolly Bridge and Tropical Dome at Brisbane Botanic Gardens Mt Coot-tha.</description>
 		<language>en-us</language>
-		<lastBuildDate>27 Mar 2023 23:52:17 GMT</lastBuildDate>
+		<lastBuildDate>13 Apr 2023 22:09:15 GMT</lastBuildDate>
 		<image>
 			<title>Calendar Feed powered by Trumba</title>
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22005//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22013//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
-		<item>
-			<title>2023 FIFA World Cup Unity Pitch</title>
-			<description>Monday, April 10, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.&lt;br /&gt;&lt;br /&gt;FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;#8217;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;#8217;s commitment to leaving a lasting legacy in each region.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164438</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gr78jjuufeshgxrx215jbt7kct</x-trumba:ealink>
-			<category>2023/04/10 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164438</guid>
-			<xCal:summary>2023 FIFA World Cup Unity Pitch</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-09T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-10T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, April 10, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-10T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-11T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.
-
-FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;rsquo;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;rsquo;s commitment to leaving a lasting legacy in each region.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164438</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Parkinson's Day</title>
-			<description>Tuesday, April 11, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Purple to support World Parkinson&amp;#39;s Day.&lt;br /&gt;&lt;br /&gt;Parkinson&amp;#8217;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;#8217;s so they can live their best lives while managing a&amp;#160;progressive and degenerative condition. Parkinson&amp;#8217;s Queensland provides information, support, and education. Parkinson&amp;#8217;s impacts over 18,500 Queenslanders, many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;#8217;s as carers, families, friends and colleagues.&lt;br /&gt;&lt;br /&gt;World Parkinson&amp;#8217;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;#8217;s and educate people about the realities of this disease. Parkinson&amp;#8217;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;#8217;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;#8217;s and over 700,000 Australians are impacted.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164272</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/00gsgncwgmae3m2gypzyxr5nxt</x-trumba:ealink>
-			<category>2023/04/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164272</guid>
-			<xCal:summary>World Parkinson's Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-04-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Purple to support World Parkinson&amp;#39;s Day.
-
-Parkinson&amp;rsquo;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;rsquo;s so they can live their best lives while managing a&amp;nbsp;progressive and degenerative condition. Parkinson&amp;rsquo;s Queensland provides information, support, and education. Parkinson&amp;rsquo;s impacts over 18,500 Queenslanders, many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;rsquo;s as carers, families, friends and colleagues.
-
-World Parkinson&amp;rsquo;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;rsquo;s and educate people about the realities of this disease. Parkinson&amp;rsquo;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;rsquo;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;rsquo;s and over 700,000 Australians are impacted.
-
-This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164272</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Parkinson's Day</title>
-			<description>Tuesday, April 11, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Purple to support World Parkinson&amp;#39;s Day.&lt;br /&gt;&lt;br /&gt;Parkinson&amp;#8217;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;#8217;s so they can live their best lives while managing a&amp;#160;progressive and degenerative condition. Parkinson&amp;#8217;s Queensland provides information, support, and education. Parkinson&amp;#8217;s impacts over 18,500 Queenslanders, many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;#8217;s as carers, families, friends and colleagues.&lt;br /&gt;&lt;br /&gt;World Parkinson&amp;#8217;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;#8217;s and educate people about the realities of this disease. Parkinson&amp;#8217;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;#8217;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;#8217;s and over 700,000 Australians are impacted.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164172</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g4j27k3pprrsw3bcf0hj377mfz</x-trumba:ealink>
-			<category>2023/04/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164172</guid>
-			<xCal:summary>World Parkinson's Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Purple to support World Parkinson&amp;#39;s Day.
-
-Parkinson&amp;rsquo;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;rsquo;s so they can live their best lives while managing a&amp;nbsp;progressive and degenerative condition. Parkinson&amp;rsquo;s Queensland provides information, support, and education. Parkinson&amp;rsquo;s impacts over 18,500 Queenslanders, many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;rsquo;s as carers, families, friends and colleagues.
-
-World Parkinson&amp;rsquo;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;rsquo;s and educate people about the realities of this disease. Parkinson&amp;rsquo;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;rsquo;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;rsquo;s and over 700,000 Australians are impacted.
-
-This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164172</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Parkinson's Day</title>
-			<description>Tuesday, April 11, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Purple to support World Parkinson&amp;#39;s Day.&lt;br /&gt;&lt;br /&gt;Parkinson&amp;#8217;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;#8217;s so they can live their best lives while managing a&amp;#160;progressive and degenerative condition. Parkinson&amp;#8217;s Queensland provides information, support, and education. Parkinson&amp;#8217;s impacts over 18,500 Queenslanders, many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;#8217;s as carers, families, friends and colleagues.&lt;br /&gt;&lt;br /&gt;World Parkinson&amp;#8217;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;#8217;s and educate people about the realities of this disease. Parkinson&amp;#8217;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;#8217;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;#8217;s and over 700,000 Australians are impacted.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164384</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gtp9g8kzhzwnnmnb9d43n4k83m</x-trumba:ealink>
-			<category>2023/04/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164384</guid>
-			<xCal:summary>World Parkinson's Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Purple to support World Parkinson&amp;#39;s Day.
-
-Parkinson&amp;rsquo;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;rsquo;s so they can live their best lives while managing a&amp;nbsp;progressive and degenerative condition. Parkinson&amp;rsquo;s Queensland provides information, support, and education. Parkinson&amp;rsquo;s impacts over 18,500 Queenslanders, many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;rsquo;s as carers, families, friends and colleagues.
-
-World Parkinson&amp;rsquo;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;rsquo;s and educate people about the realities of this disease. Parkinson&amp;rsquo;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;rsquo;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;rsquo;s and over 700,000 Australians are impacted.
-
-This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164384</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Parkinson's Day</title>
-			<description>Tuesday, April 11, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Purple to support World Parkinson&amp;#39;s Day.&lt;br /&gt;&lt;br /&gt;Parkinson&amp;#8217;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;#8217;s so they can live their best lives while managing a&amp;#160;progressive and degenerative condition. Parkinson&amp;#8217;s Queensland provides information, support, and education. Parkinson&amp;#8217;s impacts over 18,500 Queenslanders,&amp;#160;many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;#8217;s as carers, families, friends and colleagues.&lt;br /&gt;&lt;br /&gt;World Parkinson&amp;#8217;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;#8217;s and educate people about the realities of this disease. Parkinson&amp;#8217;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;#8217;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;#8217;s and over 700,000 Australians are impacted.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164464</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c74fawgey97xp03fp9pacejdg9</x-trumba:ealink>
-			<category>2023/04/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164464</guid>
-			<xCal:summary>World Parkinson's Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Purple to support World Parkinson&amp;#39;s Day.
-
-Parkinson&amp;rsquo;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;rsquo;s so they can live their best lives while managing a&amp;nbsp;progressive and degenerative condition. Parkinson&amp;rsquo;s Queensland provides information, support, and education. Parkinson&amp;rsquo;s impacts over 18,500 Queenslanders,&amp;nbsp;many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;rsquo;s as carers, families, friends and colleagues.
-
-World Parkinson&amp;rsquo;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;rsquo;s and educate people about the realities of this disease. Parkinson&amp;rsquo;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;rsquo;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;rsquo;s and over 700,000 Australians are impacted.
-
-This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164464</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Parkinson's Day</title>
-			<description>Tuesday, April 11, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Town Hall will be lit Purple to support World Parkinson&amp;#39;s Day.&lt;br /&gt;&lt;br /&gt;Parkinson&amp;#8217;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;#8217;s so they can live their best lives while managing a&amp;#160;progressive and degenerative condition. Parkinson&amp;#8217;s Queensland provides information, support, and education. Parkinson&amp;#8217;s impacts over 18,500 Queenslanders,&amp;#160;many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;#8217;s as carers, families, friends and colleagues.&lt;br /&gt;&lt;br /&gt;World Parkinson&amp;#8217;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;#8217;s and educate people about the realities of this disease. Parkinson&amp;#8217;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;#8217;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;#8217;s and over 700,000 Australians are impacted.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166239715</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g3g8r1xmrs89g0xefh1bb7c8uj</x-trumba:ealink>
-			<category>2023/04/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166239715</guid>
-			<xCal:summary>World Parkinson's Day</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-04-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Town Hall will be lit Purple to support World Parkinson&amp;#39;s Day.
-
-Parkinson&amp;rsquo;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;rsquo;s so they can live their best lives while managing a&amp;nbsp;progressive and degenerative condition. Parkinson&amp;rsquo;s Queensland provides information, support, and education. Parkinson&amp;rsquo;s impacts over 18,500 Queenslanders,&amp;nbsp;many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;rsquo;s as carers, families, friends and colleagues.
-
-World Parkinson&amp;rsquo;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;rsquo;s and educate people about the realities of this disease. Parkinson&amp;rsquo;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;rsquo;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;rsquo;s and over 700,000 Australians are impacted.
-
-This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166239715</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Parkinson's Day</title>
-			<description>Tuesday, April 11, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Purple to support World Parkinson&amp;#39;s Day.&lt;br /&gt;&lt;br /&gt;Parkinson&amp;#8217;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;#8217;s so they can live their best lives while managing a&amp;#160;progressive and degenerative condition. Parkinson&amp;#8217;s Queensland provides information, support, and education. Parkinson&amp;#8217;s impacts over 18,500 Queenslanders, many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;#8217;s as carers, families, friends and colleagues.&lt;br /&gt;&lt;br /&gt;World Parkinson&amp;#8217;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;#8217;s and educate people about the realities of this disease. Parkinson&amp;#8217;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;#8217;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;#8217;s and over 700,000 Australians are impacted.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164075</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cz2fmw7cf1aammj0r72ntd60vb</x-trumba:ealink>
-			<category>2023/04/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164075</guid>
-			<xCal:summary>World Parkinson's Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-04-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Purple to support World Parkinson&amp;#39;s Day.
-
-Parkinson&amp;rsquo;s Queensland exists to improve the wellbeing of people impacted by Parkinson&amp;rsquo;s so they can live their best lives while managing a&amp;nbsp;progressive and degenerative condition. Parkinson&amp;rsquo;s Queensland provides information, support, and education. Parkinson&amp;rsquo;s impacts over 18,500 Queenslanders, many who reside in Brisbane. Thousands more Queenslanders are impacted by Parkinson&amp;rsquo;s as carers, families, friends and colleagues.
-
-World Parkinson&amp;rsquo;s Day is held every year on April 11, observed to raise awareness of Parkinson&amp;rsquo;s and educate people about the realities of this disease. Parkinson&amp;rsquo;s is the fastest growing neurological condition globally. The Day falls during the national Parkinson&amp;rsquo;s Awareness Month which raises awareness across Australia about Parkinson&amp;#39;s. Sharing facts such as that over 130,000 Australians are diagnosed with Parkinson&amp;rsquo;s and over 700,000 Australians are impacted.
-
-This Light Up is organised by: Parkinson&amp;#39;s Queensland Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164075</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 FIFA World Cup Unity Pitch</title>
-			<description>Wednesday, April 12, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.&lt;br /&gt;&lt;br /&gt;FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;#8217;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;#8217;s commitment to leaving a lasting legacy in each region.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164466</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8xwdfp6ghjyvga1tjkffj5px0e</x-trumba:ealink>
-			<category>2023/04/12 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164466</guid>
-			<xCal:summary>2023 FIFA World Cup Unity Pitch</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-11T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-12T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, April 12, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.
-
-FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;rsquo;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;rsquo;s commitment to leaving a lasting legacy in each region.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164466</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 FIFA World Cup Unity Pitch</title>
-			<description>Thursday, April 13, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.&lt;br /&gt;&lt;br /&gt;FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;#8217;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;#8217;s commitment to leaving a lasting legacy in each region.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164467</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/86bz6rven1k3wpsxdk51f84efm</x-trumba:ealink>
-			<category>2023/04/13 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164467</guid>
-			<xCal:summary>2023 FIFA World Cup Unity Pitch</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, April 13, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.
-
-FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;rsquo;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;rsquo;s commitment to leaving a lasting legacy in each region.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164467</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 FIFA World Cup Unity Pitch</title>
-			<description>Friday, April 14, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.&lt;br /&gt;&lt;br /&gt;FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;#8217;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;#8217;s commitment to leaving a lasting legacy in each region.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164468</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wcv9am8nnf8t4647m8bafftmjd</x-trumba:ealink>
-			<category>2023/04/14 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164468</guid>
-			<xCal:summary>2023 FIFA World Cup Unity Pitch</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, April 14, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.
-
-FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;rsquo;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;rsquo;s commitment to leaving a lasting legacy in each region.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164468</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 FIFA World Cup Unity Pitch</title>
-			<description>Saturday, April 15, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.&lt;br /&gt;&lt;br /&gt;FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;#8217;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;#8217;s commitment to leaving a lasting legacy in each region.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164469</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4rfanne7spd3j3rsp24y93xh1d</x-trumba:ealink>
-			<category>2023/04/15 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164469</guid>
-			<xCal:summary>2023 FIFA World Cup Unity Pitch</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, April 15, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-16T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Rainbow to celebrate 2023 FIFA World Cup Unity Pitch.
-
-FIFA Women&amp;#39;s World Cup Unity Pitch installation and significant 100 days to go milestone for the 2023 FIFA WWC. - Largest global women&amp;#39;s sporting event - Once-in-a-generation legacy for women&amp;rsquo;s sport in Queensland. - The Unity Pitch is to encourage the committee to engage with the FIFA WWC . The Unity Pitch will be open for use by local football groups and other members of the public, and will then be taken on tour to the nine host cities in the next 12 months. FIFA will also give a Unity Pitch to both Australia and New Zealand &amp;quot;as part of FIFA&amp;rsquo;s commitment to leaving a lasting legacy in each region.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164469</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Voice Day</title>
-			<description>Sunday, April 16, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164387</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0734x9fbdw0dnhucmc2krj02cg</x-trumba:ealink>
-			<category>2023/04/16 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164387</guid>
-			<xCal:summary>World Voice Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, April 16, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to support World Voice Day.
-
-World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.
-
-This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164387</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
 		<item>
 			<title>World Voice Day</title>
 			<description>Sunday, April 16, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
@@ -369,54 +45,28 @@ This Light Up is organised by: Australian Dysphonia Network Inc</xCal:descriptio
 		</item>
 		<item>
 			<title>World Voice Day</title>
-			<description>Sunday, April 16, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164076</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wub4xsxhturx2vh3gmfshcymvz</x-trumba:ealink>
+			<description>Sunday, April 16, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164174</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g2xhv7hayfxgbkk6n486nk3hhw</x-trumba:ealink>
 			<category>2023/04/16 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164076</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164174</guid>
 			<xCal:summary>World Voice Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
 			<xCal:dtstart>2023-04-15T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-16T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Sunday, April 16, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-04-16T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to support World Voice Day.
+			<xCal:description>The Victoria Bridge will be lit Red to support World Voice Day.
 
 World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.
 
 This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164076</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/166164174</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Voice Day</title>
-			<description>Sunday, April 16, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Town Hall will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166239716</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gmt481grk78zdkhfpxn1vkhdey</x-trumba:ealink>
-			<category>2023/04/16 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166239716</guid>
-			<xCal:summary>World Voice Day</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-04-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, April 16, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Town Hall will be lit Red to support World Voice Day.
-
-World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.
-
-This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166239716</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -447,28 +97,136 @@ This Light Up is organised by: Australian Dysphonia Network Inc</xCal:descriptio
 		</item>
 		<item>
 			<title>World Voice Day</title>
-			<description>Sunday, April 16, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164174</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g2xhv7hayfxgbkk6n486nk3hhw</x-trumba:ealink>
+			<description>Sunday, April 16, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164387</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0734x9fbdw0dnhucmc2krj02cg</x-trumba:ealink>
 			<category>2023/04/16 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164174</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164387</guid>
 			<xCal:summary>World Voice Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
 			<xCal:dtstart>2023-04-15T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-16T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Sunday, April 16, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-04-16T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red to support World Voice Day.
+			<xCal:description>The Reddacliff Place sculptures will be lit Red to support World Voice Day.
 
 World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.
 
 This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164174</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/166164387</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Voice Day</title>
+			<description>Sunday, April 16, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Town Hall will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166239716</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gmt481grk78zdkhfpxn1vkhdey</x-trumba:ealink>
+			<category>2023/04/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166239716</guid>
+			<xCal:summary>World Voice Day</xCal:summary>
+			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
+			<xCal:dtstart>2023-04-15T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-16T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, April 16, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-16T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Sandgate Town Hall will be lit Red to support World Voice Day.
+
+World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.
+
+This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166239716</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Voice Day</title>
+			<description>Sunday, April 16, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164076</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wub4xsxhturx2vh3gmfshcymvz</x-trumba:ealink>
+			<category>2023/04/16 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164076</guid>
+			<xCal:summary>World Voice Day</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2023-04-15T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-16T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, April 16, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-16T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Red to support World Voice Day.
+
+World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April.
+
+This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166164076</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Haemophilia Day</title>
+			<description>Monday, April 17, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Red to support World Haemophilia Day.&lt;br /&gt;&lt;br /&gt;World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.&lt;br /&gt;&lt;br /&gt;The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Haemophilia Foundation Queensland Inc. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164279</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0jcz9d0ngj6fz76zud8geu2s8p</x-trumba:ealink>
+			<category>2023/04/17 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164279</guid>
+			<xCal:summary>World Haemophilia Day</xCal:summary>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:dtstart>2023-04-16T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, April 17, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-17T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-18T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Tropical Dome will be lit Red to support World Haemophilia Day.
+
+World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.
+
+The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.
+
+This Light Up is organised by: Haemophilia Foundation Queensland Inc.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166164279</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Haemophilia Day</title>
+			<description>Monday, April 17, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support World Haemophilia Day.&lt;br /&gt;&lt;br /&gt;World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.&lt;br /&gt;&lt;br /&gt;The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Haemophilia Foundation Queensland Inc. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164078</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c9cvm88kczkbuz02g7cgbv9nre</x-trumba:ealink>
+			<category>2023/04/17 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164078</guid>
+			<xCal:summary>World Haemophilia Day</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2023-04-16T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, April 17, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-17T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-18T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Red to support World Haemophilia Day.
+
+World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.
+
+The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.
+
+This Light Up is organised by: Haemophilia Foundation Queensland Inc.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166164078</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -501,30 +259,30 @@ This Light Up is organised by: Haemophilia Foundation Queensland Inc.</xCal:desc
 		</item>
 		<item>
 			<title>World Haemophilia Day</title>
-			<description>Monday, April 17, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Red to support World Haemophilia Day.&lt;br /&gt;&lt;br /&gt;World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.&lt;br /&gt;&lt;br /&gt;The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Haemophilia Foundation Queensland Inc. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164279</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0jcz9d0ngj6fz76zud8geu2s8p</x-trumba:ealink>
+			<description>Monday, April 17, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support World Haemophilia Day.&lt;br /&gt;&lt;br /&gt;World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.&lt;br /&gt;&lt;br /&gt;The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Haemophilia Foundation Queensland Inc. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164489</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0k53p4ymz8h788ew0m8ftd172u</x-trumba:ealink>
 			<category>2023/04/17 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164279</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164489</guid>
 			<xCal:summary>World Haemophilia Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
 			<xCal:dtstart>2023-04-16T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Monday, April 17, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-04-17T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-18T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Red to support World Haemophilia Day.
+			<xCal:description>City Hall will be lit Red to support World Haemophilia Day.
 
 World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.
 
 The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.
 
 This Light Up is organised by: Haemophilia Foundation Queensland Inc.</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164279</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/166164489</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -584,62 +342,6 @@ This Light Up is organised by: Haemophilia Foundation Queensland Inc.</xCal:desc
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>World Haemophilia Day</title>
-			<description>Monday, April 17, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support World Haemophilia Day.&lt;br /&gt;&lt;br /&gt;World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.&lt;br /&gt;&lt;br /&gt;The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Haemophilia Foundation Queensland Inc. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164489</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0k53p4ymz8h788ew0m8ftd172u</x-trumba:ealink>
-			<category>2023/04/17 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164489</guid>
-			<xCal:summary>World Haemophilia Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, April 17, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red to support World Haemophilia Day.
-
-World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.
-
-The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.
-
-This Light Up is organised by: Haemophilia Foundation Queensland Inc.</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164489</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Haemophilia Day</title>
-			<description>Monday, April 17, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support World Haemophilia Day.&lt;br /&gt;&lt;br /&gt;World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.&lt;br /&gt;&lt;br /&gt;The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Haemophilia Foundation Queensland Inc. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164078</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c9cvm88kczkbuz02g7cgbv9nre</x-trumba:ealink>
-			<category>2023/04/17 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164078</guid>
-			<xCal:summary>World Haemophilia Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-04-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, April 17, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to support World Haemophilia Day.
-
-World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms but they all share the ability to support and advocate.
-
-The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.
-
-This Light Up is organised by: Haemophilia Foundation Queensland Inc.</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164078</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
 			<title>THETA Gala Dinner</title>
 			<description>Tuesday, April 18, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Blue and Green to celebrate the THETA Gala Dinner.&lt;br /&gt;&lt;br /&gt;The Higher Education Technology Agenda) Conference Gala Dinner being held in City Hall.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Leishman Associates &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164491</link>
@@ -667,28 +369,28 @@ This Light Up is organised by: Leishman Associates</xCal:description>
 		</item>
 		<item>
 			<title>Eve of Anzac Day</title>
-			<description>Monday, April 24, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green and Gold Turning to Red at 3am, for the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164177</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g9jj43tdj7ez0hgbrv8vvg5wph</x-trumba:ealink>
+			<description>Monday, April 24, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green and Gold for the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164493</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cwc33t0dbnexrbe5bct9s9wcz3</x-trumba:ealink>
 			<category>2023/04/24 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164177</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164493</guid>
 			<xCal:summary>Eve of Anzac Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
 			<xCal:dtstart>2023-04-23T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-24T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Monday, April 24, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-04-24T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-25T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Green and Gold Turning to Red at 3am, for the Eve of Anzac Day.
+			<xCal:description>City Hall will be lit Green and Gold for the Eve of Anzac Day.
 
 As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.
 
 This Light Up is organised by: RSL South Eastern District</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164177</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/166164493</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -719,32 +421,6 @@ This Light Up is organised by: RSL South Eastern District</xCal:description>
 		</item>
 		<item>
 			<title>Eve of Anzac Day</title>
-			<description>Monday, April 24, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Green and Gold Turning to Red at 3am, for the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164080</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/szswb2mkpz9d9ynh7nepb89yuh</x-trumba:ealink>
-			<category>2023/04/24 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164080</guid>
-			<xCal:summary>Eve of Anzac Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-04-23T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-24T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, April 24, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-24T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-25T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Green and Gold Turning to Red at 3am, for the Eve of Anzac Day.
-
-As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.
-
-This Light Up is organised by: RSL South Eastern District</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164080</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of Anzac Day</title>
 			<description>Monday, April 24, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Green and Gold to support Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164297</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c2fcy3ztudxkm9ehuzax7ffsvt</x-trumba:ealink>
@@ -771,28 +447,84 @@ This Light Up is organised by: RSL South Eastern District</xCal:description>
 		</item>
 		<item>
 			<title>Eve of Anzac Day</title>
-			<description>Monday, April 24, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green and Gold for the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164493</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cwc33t0dbnexrbe5bct9s9wcz3</x-trumba:ealink>
+			<description>Monday, April 24, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green and Gold Turning to Red at 3am, for the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164177</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g9jj43tdj7ez0hgbrv8vvg5wph</x-trumba:ealink>
 			<category>2023/04/24 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164493</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164177</guid>
 			<xCal:summary>Eve of Anzac Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
 			<xCal:dtstart>2023-04-23T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-24T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Monday, April 24, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-04-24T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-25T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Green and Gold for the Eve of Anzac Day.
+			<xCal:description>The Victoria Bridge will be lit Green and Gold Turning to Red at 3am, for the Eve of Anzac Day.
 
 As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.
 
 This Light Up is organised by: RSL South Eastern District</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164493</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/166164177</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Eve of Anzac Day</title>
+			<description>Monday, April 24, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Green and Gold Turning to Red at 3am, for the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164080</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/szswb2mkpz9d9ynh7nepb89yuh</x-trumba:ealink>
+			<category>2023/04/24 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164080</guid>
+			<xCal:summary>Eve of Anzac Day</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2023-04-23T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-24T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, April 24, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-24T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-25T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Green and Gold Turning to Red at 3am, for the Eve of Anzac Day.
+
+As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.
+
+This Light Up is organised by: RSL South Eastern District</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166164080</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Anzac Day</title>
+			<description>Tuesday, April 25, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 107th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and still continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9:45am to 12:30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164392</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w6bhppa70znsnj8a4vtx6rdv24</x-trumba:ealink>
+			<category>2023/04/25 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164392</guid>
+			<xCal:summary>Anzac Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-04-24T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-25T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, April 25, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-25T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-26T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Red to support Anzac Day.
+
+As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.
+
+The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 107th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and still continue to serve our country.
+
+The parade will be held on Adelaide Street, between George Street and Creek Street, from 9:45am to 12:30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.
+
+This Light Up is organised by: RSL South Eastern District</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166164392</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -887,6 +619,36 @@ This Light Up is organised by: RSL South Eastern District</xCal:description>
 		</item>
 		<item>
 			<title>Anzac Day</title>
+			<description>Tuesday, April 25, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to commemmorate Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 107th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and still continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9:45am to 12:30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164083</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mhtnrff9yaybktakpysv304a1r</x-trumba:ealink>
+			<category>2023/04/25 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164083</guid>
+			<xCal:summary>Anzac Day</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2023-04-24T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-25T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, April 25, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-25T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-26T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Red to commemmorate Anzac Day.
+
+As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.
+
+The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 107th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and still continue to serve our country.
+
+The parade will be held on Adelaide Street, between George Street and Creek Street, from 9:45am to 12:30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.
+
+This Light Up is organised by: RSL South Eastern District</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166164083</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Anzac Day</title>
 			<description>Tuesday, April 25, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red to commemmorate Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 107th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and still continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9:45am to 12:30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164186</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8j6d05uyr5d2z6dn5u7w7x20gv</x-trumba:ealink>
@@ -916,63 +678,29 @@ This Light Up is organised by: RSL South Eastern District</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>Anzac Day</title>
-			<description>Tuesday, April 25, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 107th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and still continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9:45am to 12:30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164392</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w6bhppa70znsnj8a4vtx6rdv24</x-trumba:ealink>
-			<category>2023/04/25 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164392</guid>
-			<xCal:summary>Anzac Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 25, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-26T00:00:00</x-trumba:localend>
+			<title>Harcourts Queensland Annual Awards</title>
+			<description>Thursday, April 27, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Blue to celebrate Harcourts Queensland Annual Awards.&lt;br /&gt;&lt;br /&gt;The Harcourts Queensland Annual Awards is being held in City Hall.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Harcourt Queensland Pty Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166478217</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/86p7aesgy4xw7sz2n4y28g00bd</x-trumba:ealink>
+			<category>2023/04/27 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166478217</guid>
+			<xCal:summary>Harcourts Queensland Annual Awards</xCal:summary>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-04-26T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-27T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, April 27, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-27T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-28T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to support Anzac Day.
+			<xCal:description>City Hall will be lit Blue to celebrate Harcourts Queensland Annual Awards.
 
-As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.
+The Harcourts Queensland Annual Awards is being held in City Hall.
 
-The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 107th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and still continue to serve our country.
-
-The parade will be held on Adelaide Street, between George Street and Creek Street, from 9:45am to 12:30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.
-
-This Light Up is organised by: RSL South Eastern District</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164392</xCal:uid>
+This Light Up is organised by: Harcourt Queensland Pty Ltd</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166478217</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Anzac Day</title>
-			<description>Tuesday, April 25, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to commemmorate Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 107th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and still continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9:45am to 12:30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: RSL South Eastern District &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164083</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mhtnrff9yaybktakpysv304a1r</x-trumba:ealink>
-			<category>2023/04/25 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164083</guid>
-			<xCal:summary>Anzac Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-04-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 25, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to commemmorate Anzac Day.
-
-As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.
-
-The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 107th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and still continue to serve our country.
-
-The parade will be held on Adelaide Street, between George Street and Creek Street, from 9:45am to 12:30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.
-
-This Light Up is organised by: RSL South Eastern District</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164083</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1003,32 +731,6 @@ This Light Up is organised by: Brisbane Powerhouse</xCal:description>
 		</item>
 		<item>
 			<title>2023 Brisbane Comedy Festival</title>
-			<description>Friday, April 28, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support 2023 Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164394</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/803b4y6kys1cc1e8nrz4faw7tb</x-trumba:ealink>
-			<category>2023/04/28 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164394</guid>
-			<xCal:summary>2023 Brisbane Comedy Festival</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-27T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-28T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, April 28, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-28T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-29T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Yellow to support 2023 Brisbane Comedy Festival.
-
-Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.
-
-This Light Up is organised by: Brisbane Powerhouse</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164394</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 Brisbane Comedy Festival</title>
 			<description>Friday, April 28, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red Blue and Yellow movement to celebrate 2023 Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164084</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4mp3ujznw7zj071dcsb7cwddw9</x-trumba:ealink>
@@ -1051,6 +753,32 @@ This Light Up is organised by: Brisbane Powerhouse</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2023 Brisbane Comedy Festival</title>
+			<description>Friday, April 28, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support 2023 Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164394</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/803b4y6kys1cc1e8nrz4faw7tb</x-trumba:ealink>
+			<category>2023/04/28 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164394</guid>
+			<xCal:summary>2023 Brisbane Comedy Festival</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-04-27T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-28T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, April 28, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-28T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-04-29T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Yellow to support 2023 Brisbane Comedy Festival.
+
+Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.
+
+This Light Up is organised by: Brisbane Powerhouse</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166164394</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1133,6 +861,32 @@ This Light Up is organised by: Make-A-Wish Foundation Australia</xCal:descriptio
 		</item>
 		<item>
 			<title>2023 Brisbane Comedy Festival</title>
+			<description>Sunday, April 30, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red Blue and Yellow movement to celebrate 2023 Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164191</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/st8hpwt6p6vut1unn8h150vj2k</x-trumba:ealink>
+			<category>2023/04/30 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/166164191</guid>
+			<xCal:summary>2023 Brisbane Comedy Festival</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-04-29T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-30T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, April 30, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-04-30T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-05-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Victoria Bridge will be lit Red Blue and Yellow movement to celebrate 2023 Brisbane Comedy Festival.
+
+Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.
+
+This Light Up is organised by: Brisbane Powerhouse</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/166164191</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2023 Brisbane Comedy Festival</title>
 			<description>Sunday, April 30, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support 2023 Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164406</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gyktzkvnzz4rg614awhwbknhv1</x-trumba:ealink>
@@ -1181,32 +935,6 @@ This Light Up is organised by: Brisbane Powerhouse</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 Brisbane Comedy Festival</title>
-			<description>Sunday, April 30, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red Blue and Yellow movement to celebrate 2023 Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d166164191</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/st8hpwt6p6vut1unn8h150vj2k</x-trumba:ealink>
-			<category>2023/04/30 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/166164191</guid>
-			<xCal:summary>2023 Brisbane Comedy Festival</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-04-29T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-04-30T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, April 30, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-04-30T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-05-01T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red Blue and Yellow movement to celebrate 2023 Brisbane Comedy Festival.
-
-Brisbane Powerhouse brings people together to create and experience adventurous arts. Our vision is clear: we act as a creative powerhouse for work authentically made in Brisbane, facilitating the collaborations and conversations between that work and the rest of the world. Brisbane Comedy Festival returns in 2023, bursting at the seams to host a hand-picked selection of the funniest folk in the country. Held from 28 April to 28 May 2023, this multi-venue laughter extravaganza held across Brisbane Powerhouse, The Tivoli and The Fortitude Music Hall, plays host to one-liners, whimsy and tall tales from some of the most hilarious comedians around. From stand-up to improv and sketch comedy, and everything in between.
-
-This Light Up is organised by: Brisbane Powerhouse</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/166164191</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 	</channel>
