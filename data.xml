@@ -5,824 +5,18 @@
 		<link>https://www.brisbane.qld.gov.au/</link>
 		<description>This calendar includes scheduled lights ups of Council assets including Story Bridge, Reddacliff Place sculptures, Victoria Bridge, Brisbane City Hall, King George Square, William Jolly Bridge and Tropical Dome at Brisbane Botanic Gardens Mt Coot-tha.</description>
 		<language>en-us</language>
-		<lastBuildDate>08 Jun 2023 21:40:16 GMT</lastBuildDate>
+		<lastBuildDate>13 Jun 2023 05:56:18 GMT</lastBuildDate>
 		<image>
 			<title>Calendar Feed powered by Trumba</title>
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22209//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22214//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
-		<item>
-			<title>Fight MND and 2023 Big Freeze</title>
-			<description>Sunday, June 11, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to support Fight MND and 2023 Big Freeze.&lt;br /&gt;&lt;br /&gt;This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cure for MND Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084942</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wuudspjcsaad75ntsew3r27byu</x-trumba:ealink>
-			<category>2023/06/11 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084942</guid>
-			<xCal:summary>Fight MND and 2023 Big Freeze</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, June 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Blue to support Fight MND and 2023 Big Freeze.
-
-This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.
-
-This Light Up is organised by: Cure for MND Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084942</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Fight MND and 2023 Big Freeze</title>
-			<description>Sunday, June 11, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Blue to support Fight MND and 2023 Big Freeze.&lt;br /&gt;&lt;br /&gt;This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cure for MND Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084909</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c541x2je9bm7332wwm9uu7n72f</x-trumba:ealink>
-			<category>2023/06/11 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084909</guid>
-			<xCal:summary>Fight MND and 2023 Big Freeze</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, June 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Blue to support Fight MND and 2023 Big Freeze.
-
-This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.
-
-This Light Up is organised by: Cure for MND Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084909</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Fight MND and 2023 Big Freeze</title>
-			<description>Sunday, June 11, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Blue to support Fight MND and 2023 Big Freeze.&lt;br /&gt;&lt;br /&gt;This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cure for MND Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084486</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gk9mkddyhyhxsywbka4t382bvc</x-trumba:ealink>
-			<category>2023/06/11 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084486</guid>
-			<xCal:summary>Fight MND and 2023 Big Freeze</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, June 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Blue to support Fight MND and 2023 Big Freeze.
-
-This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.
-
-This Light Up is organised by: Cure for MND Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084486</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Fight MND and 2023 Big Freeze</title>
-			<description>Sunday, June 11, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue to support Fight MND and 2023 Big Freeze.&lt;br /&gt;&lt;br /&gt;This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cure for MND Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084399</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4f791kakm6kcjk2m47mz5yx3c1</x-trumba:ealink>
-			<category>2023/06/11 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084399</guid>
-			<xCal:summary>Fight MND and 2023 Big Freeze</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-06-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, June 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Blue to support Fight MND and 2023 Big Freeze.
-
-This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.
-
-This Light Up is organised by: Cure for MND Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084399</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Fight MND and 2023 Big Freeze</title>
-			<description>Sunday, June 11, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Town Hall will be lit Blue to support Fight MND and 2023 Big Freeze.&lt;br /&gt;&lt;br /&gt;This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cure for MND Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167146364</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w8dtvun8vefdaz7p8s876e623e</x-trumba:ealink>
-			<category>2023/06/11 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167146364</guid>
-			<xCal:summary>Fight MND and 2023 Big Freeze</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-06-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, June 11, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-11T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-12T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Town Hall will be lit Blue to support Fight MND and 2023 Big Freeze.
-
-This campaign aims to shine a light on the battle being fought by thousands of people across Australia who are diagnosed with MND. Currently there are no viable treatments and no cure for MND, and with continued research we aim to eventually make MND a thing of the past.
-
-This Light Up is organised by: Cure for MND Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167146364</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Philippine Independence Day</title>
-			<description>Monday, June 12, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Town Hall will be lit Red, White and Blue to support Philippine Independence Day.&lt;br /&gt;&lt;br /&gt;To ensure an audience of at least 100,000+ worldwide (through social media) will focus on Brisbane as the City and its Filipino-Australians residents join together to recognise the Philippines 125th Independence Day. Last year&amp;#39;s Light Up for the 124th Philippines Independence Day (on its 3rd year) attracted 18,000+ views in the Chamber&amp;#39;s FB page. This year&amp;#39;s 125th anniversary will have a much larger audience as the anniversary dinner is planned to be held at one of the function areas at the Sandgate Town Hall.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Chamber of Commerce and Industry Australia Philippines Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167146373</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cuv08a2ueh9s3uh611ys94pucm</x-trumba:ealink>
-			<category>2023/06/12 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167146373</guid>
-			<xCal:summary>Philippine Independence Day</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-06-11T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-12T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, June 12, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Town Hall will be lit Red, White and Blue to support Philippine Independence Day.
-
-To ensure an audience of at least 100,000+ worldwide (through social media) will focus on Brisbane as the City and its Filipino-Australians residents join together to recognise the Philippines 125th Independence Day. Last year&amp;#39;s Light Up for the 124th Philippines Independence Day (on its 3rd year) attracted 18,000+ views in the Chamber&amp;#39;s FB page. This year&amp;#39;s 125th anniversary will have a much larger audience as the anniversary dinner is planned to be held at one of the function areas at the Sandgate Town Hall.
-
-This Light Up is organised by: Chamber of Commerce and Industry Australia Philippines Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167146373</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Philippine Independence Day</title>
-			<description>Monday, June 12, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red, White and Blue to recognise Philippine Independence Day.&lt;br /&gt;&lt;br /&gt;The Philippine Declaration of Independence was proclamied on June 12th 1898. Today the Chamber of Commerce and Industry Australia Philippines Incorporated would like to focus on Brisbane as the City and its Filipino-Australians residents, joining together to recognise the Philippines 125th Independence Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Chamber of Commerce and Industry Australia Philippines Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084487</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cnj7e5mhz1vy41v4g6u9as1e0k</x-trumba:ealink>
-			<category>2023/06/12 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084487</guid>
-			<xCal:summary>Philippine Independence Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-11T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-12T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, June 12, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red, White and Blue to recognise Philippine Independence Day.
-
-The Philippine Declaration of Independence was proclamied on June 12th 1898. Today the Chamber of Commerce and Industry Australia Philippines Incorporated would like to focus on Brisbane as the City and its Filipino-Australians residents, joining together to recognise the Philippines 125th Independence Day.
-
-This Light Up is organised by: Chamber of Commerce and Industry Australia Philippines Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084487</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Philippine Independence Day</title>
-			<description>Monday, June 12, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red, White and Blue to recognise Philippine Independence Day.&lt;br /&gt;&lt;br /&gt;The Philippine Declaration of Independence was proclamied on June 12th 1898. Today the Chamber of Commerce and Industry Australia Philippines Incorporated would like to focus on Brisbane as the City and its Filipino-Australians residents, joining together to recognise the Philippines 125th Independence Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Chamber of Commerce and Industry Australia Philippines Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084910</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w0nnu8n7bgbxxcsgdrd2r92gjm</x-trumba:ealink>
-			<category>2023/06/12 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084910</guid>
-			<xCal:summary>Philippine Independence Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-11T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-12T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, June 12, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red, White and Blue to recognise Philippine Independence Day.
-
-The Philippine Declaration of Independence was proclamied on June 12th 1898. Today the Chamber of Commerce and Industry Australia Philippines Incorporated would like to focus on Brisbane as the City and its Filipino-Australians residents, joining together to recognise the Philippines 125th Independence Day.
-
-This Light Up is organised by: Chamber of Commerce and Industry Australia Philippines Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084910</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Philippine Independence Day</title>
-			<description>Monday, June 12, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, White and Blue to recognise Philippine Independence Day.&lt;br /&gt;&lt;br /&gt;The Philippine Declaration of Independence was proclamied on June 12th 1898. Today the Chamber of Commerce and Industry Australia Philippines Incorporated would like to focus on Brisbane as the City and its Filipino-Australians residents, joining together to recognise the Philippines 125th Independence Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Chamber of Commerce and Industry Australia Philippines Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084413</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/806ybznfs2ypeyxmjwz7n6479t</x-trumba:ealink>
-			<category>2023/06/12 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084413</guid>
-			<xCal:summary>Philippine Independence Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-06-11T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-12T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, June 12, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red, White and Blue to recognise Philippine Independence Day.
-
-The Philippine Declaration of Independence was proclamied on June 12th 1898. Today the Chamber of Commerce and Industry Australia Philippines Incorporated would like to focus on Brisbane as the City and its Filipino-Australians residents, joining together to recognise the Philippines 125th Independence Day.
-
-This Light Up is organised by: Chamber of Commerce and Industry Australia Philippines Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084413</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>National Blood Donor Week</title>
-			<description>Tuesday, June 13, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red to support National Blood Donor Week.&lt;br /&gt;&lt;br /&gt;Australian Red Cross Lifeblood is committed to providing life-giving essence to support the everyday wellbeing of all Australians &amp;#8212; through blood, plasma, transplantation and biological products. National Blood Donor Week celebrates the Lifeblood donor community and acknowledges the amazing efforts of our donors and the people who receive blood products. The week also gives Lifeblood an opportunity to inspire others to become donors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Red Cross Lifeblood &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084488</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c3wrks29tkk8eydsf1dscmbzbt</x-trumba:ealink>
-			<category>2023/06/13 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084488</guid>
-			<xCal:summary>National Blood Donor Week</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, June 13, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red to support National Blood Donor Week.
-
-Australian Red Cross Lifeblood is committed to providing life-giving essence to support the everyday wellbeing of all Australians &amp;mdash; through blood, plasma, transplantation and biological products. National Blood Donor Week celebrates the Lifeblood donor community and acknowledges the amazing efforts of our donors and the people who receive blood products. The week also gives Lifeblood an opportunity to inspire others to become donors.
-
-This Light Up is organised by: Australian Red Cross Lifeblood</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084488</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>National Blood Donor Week</title>
-			<description>Tuesday, June 13, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Red to support National Blood Donor Week.&lt;br /&gt;&lt;br /&gt;Australian Red Cross Lifeblood is committed to providing life-giving essence to support the everyday wellbeing of all Australians &amp;#8212; through blood, plasma, transplantation and biological products. National Blood Donor Week celebrates the Lifeblood donor community and acknowledges the amazing efforts of our donors and the people who receive blood products. The week also gives Lifeblood an opportunity to inspire others to become donors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Red Cross Lifeblood &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167085003</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cwwv8n8u6h19j1daw3xhewvg0t</x-trumba:ealink>
-			<category>2023/06/13 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167085003</guid>
-			<xCal:summary>National Blood Donor Week</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-06-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, June 13, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Red to support National Blood Donor Week.
-
-Australian Red Cross Lifeblood is committed to providing life-giving essence to support the everyday wellbeing of all Australians &amp;mdash; through blood, plasma, transplantation and biological products. National Blood Donor Week celebrates the Lifeblood donor community and acknowledges the amazing efforts of our donors and the people who receive blood products. The week also gives Lifeblood an opportunity to inspire others to become donors.
-
-This Light Up is organised by: Australian Red Cross Lifeblood</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167085003</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>National Blood Donor Week</title>
-			<description>Tuesday, June 13, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support National Blood Donor Week.&lt;br /&gt;&lt;br /&gt;Australian Red Cross Lifeblood is committed to providing life-giving essence to support the everyday wellbeing of all Australians &amp;#8212; through blood, plasma, transplantation and biological products. National Blood Donor Week celebrates the Lifeblood donor community and acknowledges the amazing efforts of our donors and the people who receive blood products. The week also gives Lifeblood an opportunity to inspire others to become donors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Red Cross Lifeblood &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084419</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mnp0gp5b11t7wsj0h0puxhsnsd</x-trumba:ealink>
-			<category>2023/06/13 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084419</guid>
-			<xCal:summary>National Blood Donor Week</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-06-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, June 13, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to support National Blood Donor Week.
-
-Australian Red Cross Lifeblood is committed to providing life-giving essence to support the everyday wellbeing of all Australians &amp;mdash; through blood, plasma, transplantation and biological products. National Blood Donor Week celebrates the Lifeblood donor community and acknowledges the amazing efforts of our donors and the people who receive blood products. The week also gives Lifeblood an opportunity to inspire others to become donors.
-
-This Light Up is organised by: Australian Red Cross Lifeblood</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084419</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>National Blood Donor Week</title>
-			<description>Tuesday, June 13, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support National Blood Donor Week.&lt;br /&gt;&lt;br /&gt;Australian Red Cross Lifeblood is committed to providing life-giving essence to support the everyday wellbeing of all Australians &amp;#8212; through blood, plasma, transplantation and biological products. National Blood Donor Week celebrates the Lifeblood donor community and acknowledges the amazing efforts of our donors and the people who receive blood products. The week also gives Lifeblood an opportunity to inspire others to become donors.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Red Cross Lifeblood &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084943</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4cjcw4v5wdz9wrxxyx3syf5daf</x-trumba:ealink>
-			<category>2023/06/13 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084943</guid>
-			<xCal:summary>National Blood Donor Week</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, June 13, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to support National Blood Donor Week.
-
-Australian Red Cross Lifeblood is committed to providing life-giving essence to support the everyday wellbeing of all Australians &amp;mdash; through blood, plasma, transplantation and biological products. National Blood Donor Week celebrates the Lifeblood donor community and acknowledges the amazing efforts of our donors and the people who receive blood products. The week also gives Lifeblood an opportunity to inspire others to become donors.
-
-This Light Up is organised by: Australian Red Cross Lifeblood</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084943</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 Migraine Awareness Month</title>
-			<description>Wednesday, June 14, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Purple to support 2023 Migraine Awareness Month.&lt;br /&gt;&lt;br /&gt;Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Migraine Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084911</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0k06xtxsyka5vxhpxpk3h39p71</x-trumba:ealink>
-			<category>2023/06/14 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084911</guid>
-			<xCal:summary>2023 Migraine Awareness Month</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, June 14, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Purple to support 2023 Migraine Awareness Month.
-
-Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.
-
-This Light Up is organised by: Migraine Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084911</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 Migraine Awareness Month</title>
-			<description>Wednesday, June 14, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Purple to support 2023 Migraine Awareness Month.&lt;br /&gt;&lt;br /&gt;Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Migraine Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084489</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/83jj0nxfu382608gj1j8uu6u6m</x-trumba:ealink>
-			<category>2023/06/14 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084489</guid>
-			<xCal:summary>2023 Migraine Awareness Month</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, June 14, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Purple to support 2023 Migraine Awareness Month.
-
-Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.
-
-This Light Up is organised by: Migraine Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084489</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 Migraine Awareness Month</title>
-			<description>Wednesday, June 14, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Purple to support 2023 Migraine Awareness Month.&lt;br /&gt;&lt;br /&gt;Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Migraine Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084420</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0x33ugp98fj04mud5443cuj697</x-trumba:ealink>
-			<category>2023/06/14 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084420</guid>
-			<xCal:summary>2023 Migraine Awareness Month</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-06-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, June 14, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Purple to support 2023 Migraine Awareness Month.
-
-Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.
-
-This Light Up is organised by: Migraine Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084420</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 Migraine Awareness Month</title>
-			<description>Wednesday, June 14, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Town Hall will be lit Purple to support 2023 Migraine Awareness Month.&lt;br /&gt;&lt;br /&gt;Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Migraine Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167146374</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cf80u3ktz8cn7f8chssedcj5h6</x-trumba:ealink>
-			<category>2023/06/14 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167146374</guid>
-			<xCal:summary>2023 Migraine Awareness Month</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-06-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, June 14, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Town Hall will be lit Purple to support 2023 Migraine Awareness Month.
-
-Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.
-
-This Light Up is organised by: Migraine Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167146374</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 Migraine Awareness Month</title>
-			<description>Wednesday, June 14, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Purple to support 2023 Migraine Awareness Month.&lt;br /&gt;&lt;br /&gt;Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Migraine Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084944</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/49ftcdjs2dvg1uezx3670xu3xc</x-trumba:ealink>
-			<category>2023/06/14 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084944</guid>
-			<xCal:summary>2023 Migraine Awareness Month</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, June 14, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Purple to support 2023 Migraine Awareness Month.
-
-Migraine Australia runs Migraine Awareness Month in June to raise awareness of migraine and advocate for better services and support for people living with migraine.
-
-This Light Up is organised by: Migraine Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084944</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Red Frogs Gala Dinner</title>
-			<description>Thursday, June 15, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support Red Frogs Gala Dinner.&lt;br /&gt;&lt;br /&gt;Red Frogs exists to safeguard the next generation. We are a support network activated in Festivals, Universities, Schoolies, Sporting venues, Schools and Skate parks. The Gala Dinner raises awareness and finances for the work of Red Frogs throughout the year.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Red Frogs Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084912</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gfnby49vctc3dm9ufkvej0hnza</x-trumba:ealink>
-			<category>2023/06/15 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084912</guid>
-			<xCal:summary>Red Frogs Gala Dinner</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, June 15, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-16T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red to support Red Frogs Gala Dinner.
-
-Red Frogs exists to safeguard the next generation. We are a support network activated in Festivals, Universities, Schoolies, Sporting venues, Schools and Skate parks. The Gala Dinner raises awareness and finances for the work of Red Frogs throughout the year.
-
-This Light Up is organised by: Red Frogs Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084912</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Elder Abuse Awareness Day</title>
-			<description>Thursday, June 15, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Purple to support World Elder Abuse Awareness Day.&lt;br /&gt;&lt;br /&gt;WEAAD- World Elder Abuse Awareness Day, aims to raise awareness surrounding elder abuse, recognise the signs of elder abuse and identify the supports available to people experiencing elder abuse.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Caxton Legal Centre Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167085005</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wx3ax79uu0n6d3uwjrbdua9edb</x-trumba:ealink>
-			<category>2023/06/15 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167085005</guid>
-			<xCal:summary>World Elder Abuse Awareness Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-06-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, June 15, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-16T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Purple to support World Elder Abuse Awareness Day.
-
-WEAAD- World Elder Abuse Awareness Day, aims to raise awareness surrounding elder abuse, recognise the signs of elder abuse and identify the supports available to people experiencing elder abuse.
-
-This Light Up is organised by: Caxton Legal Centre Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167085005</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Elder Abuse Awareness Day</title>
-			<description>Thursday, June 15, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Purple to support World Elder Abuse Awareness Day.&lt;br /&gt;&lt;br /&gt;WEAAD- World Elder Abuse Awareness Day, aims to raise awareness surrounding elder abuse, recognise the signs of elder abuse and identify the supports available to people experiencing elder abuse.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Caxton Legal Centre Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084421</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/82hym65cgjd2h4rarfc26s18u4</x-trumba:ealink>
-			<category>2023/06/15 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084421</guid>
-			<xCal:summary>World Elder Abuse Awareness Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-06-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, June 15, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-16T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Purple to support World Elder Abuse Awareness Day.
-
-WEAAD- World Elder Abuse Awareness Day, aims to raise awareness surrounding elder abuse, recognise the signs of elder abuse and identify the supports available to people experiencing elder abuse.
-
-This Light Up is organised by: Caxton Legal Centre Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084421</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Elder Abuse Awareness Day</title>
-			<description>Thursday, June 15, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Purple to support World Elder Abuse Awareness Day.&lt;br /&gt;&lt;br /&gt;WEAAD- World Elder Abuse Awareness Day, aims to raise awareness surrounding elder abuse, recognise the signs of elder abuse and identify the supports available to people experiencing elder abuse.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Caxton Legal Centre Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084490</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/01pmt0ud2v05pp9pstrheuj3ff</x-trumba:ealink>
-			<category>2023/06/15 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084490</guid>
-			<xCal:summary>World Elder Abuse Awareness Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, June 15, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-16T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Purple to support World Elder Abuse Awareness Day.
-
-WEAAD- World Elder Abuse Awareness Day, aims to raise awareness surrounding elder abuse, recognise the signs of elder abuse and identify the supports available to people experiencing elder abuse.
-
-This Light Up is organised by: Caxton Legal Centre Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084490</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Elder Abuse Awareness Day</title>
-			<description>Thursday, June 15, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Purple to support World Elder Abuse Awareness Day.&lt;br /&gt;&lt;br /&gt;WEAAD- World Elder Abuse Awareness Day, aims to raise awareness surrounding elder abuse, recognise the signs of elder abuse and identify the supports available to people experiencing elder abuse.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Caxton Legal Centre Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084947</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g31mefeprd4jh10pnwyctzjh41</x-trumba:ealink>
-			<category>2023/06/15 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084947</guid>
-			<xCal:summary>World Elder Abuse Awareness Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, June 15, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-16T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Purple to support World Elder Abuse Awareness Day.
-
-WEAAD- World Elder Abuse Awareness Day, aims to raise awareness surrounding elder abuse, recognise the signs of elder abuse and identify the supports available to people experiencing elder abuse.
-
-This Light Up is organised by: Caxton Legal Centre Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084947</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Hero for Heartkids</title>
-			<description>Friday, June 16, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red and Blue to support Hero for Heartkids.&lt;br /&gt;&lt;br /&gt;HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia.Hero for HeartKids is our annual awareness and fundraising campaign that motivates people to be heroes for heart kids!&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Heartkids Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084422</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4ys7rf0w0ykp57huzyzbkh80fb</x-trumba:ealink>
-			<category>2023/06/16 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084422</guid>
-			<xCal:summary>Hero for Heartkids</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-06-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, June 16, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red and Blue to support Hero for Heartkids.
-
-HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia.Hero for HeartKids is our annual awareness and fundraising campaign that motivates people to be heroes for heart kids!
-
-This Light Up is organised by: Heartkids Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084422</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Hero for Heartkids</title>
-			<description>Friday, June 16, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red and Blue to support Hero for Heartkids.&lt;br /&gt;&lt;br /&gt;HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia.Hero for HeartKids is our annual awareness and fundraising campaign that motivates people to be heroes for heart kids!&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Heartkids Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084491</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8sxvc9vhkmy8rakbub0sbsrxx4</x-trumba:ealink>
-			<category>2023/06/16 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084491</guid>
-			<xCal:summary>Hero for Heartkids</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, June 16, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red and Blue to support Hero for Heartkids.
-
-HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia.Hero for HeartKids is our annual awareness and fundraising campaign that motivates people to be heroes for heart kids!
-
-This Light Up is organised by: Heartkids Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084491</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Hero for Heartkids</title>
-			<description>Friday, June 16, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support Hero for Heartkids.&lt;br /&gt;&lt;br /&gt;HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia.Hero for HeartKids is our annual awareness and fundraising campaign that motivates people to be heroes for heart kids!&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Heartkids Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084948</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mzxxyw2xk0f9tv3daw5p6ans7d</x-trumba:ealink>
-			<category>2023/06/16 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084948</guid>
-			<xCal:summary>Hero for Heartkids</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, June 16, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to support Hero for Heartkids.
-
-HeartKids is the only national not-for-profit organisation solely focused on supporting and advocating for all people impacted by childhood heart disease, one of the largest causes of infant death in Australia.Hero for HeartKids is our annual awareness and fundraising campaign that motivates people to be heroes for heart kids!
-
-This Light Up is organised by: Heartkids Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084948</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2023 Queens Ball Awards</title>
-			<description>Saturday, June 17, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red, Purple, Orange, Blue, Yellow and Green to support 2023 Queens Ball Awards.&lt;br /&gt;&lt;br /&gt;The 2023 Queens Ball Awards being held at City Hall celebrates 62 years of celebrating and recognising LGBTIQ+ people achievements. This event serves as a major fundraiser for Brisbane Pride Festival.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Pride Festival &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084913</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mku8s40zv1yam9mcded1cj86sr</x-trumba:ealink>
-			<category>2023/06/17 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084913</guid>
-			<xCal:summary>2023 Queens Ball Awards</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, June 17, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red, Purple, Orange, Blue, Yellow and Green to support 2023 Queens Ball Awards.
-
-The 2023 Queens Ball Awards being held at City Hall celebrates 62 years of celebrating and recognising LGBTIQ+ people achievements. This event serves as a major fundraiser for Brisbane Pride Festival.
-
-This Light Up is organised by: Brisbane Pride Festival</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084913</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>You Are Not Alone Fun Run</title>
-			<description>Saturday, June 17, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Yellow to support You Are Not Alone Fun Run.&lt;br /&gt;&lt;br /&gt;The You Are Not Alone Fun Run and Festival raises awareness around youth mental health and suicide. The event aims to be a conversation starter amongst family and friends.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: You Are Not Alone and Lifeline &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084492</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wtv918jc9zd7taff7n0bxe0ba3</x-trumba:ealink>
-			<category>2023/06/17 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084492</guid>
-			<xCal:summary>You Are Not Alone Fun Run</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, June 17, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Yellow to support You Are Not Alone Fun Run.
-
-The You Are Not Alone Fun Run and Festival raises awareness around youth mental health and suicide. The event aims to be a conversation starter amongst family and friends.
-
-This Light Up is organised by: You Are Not Alone and Lifeline</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084492</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>You Are Not Alone Fun Run</title>
-			<description>Saturday, June 17, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Yellow to support You Are Not Alone Fun Run.&lt;br /&gt;&lt;br /&gt;The You Are Not Alone Fun Run and Festival raises awareness around youth mental health and suicide. The event aims to be a conversation starter amongst family and friends.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: You Are Not Alone and Lifeline &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084439</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cfwrfhp2tw9rh1d0jg4mzf94vg</x-trumba:ealink>
-			<category>2023/06/17 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084439</guid>
-			<xCal:summary>You Are Not Alone Fun Run</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-06-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, June 17, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Yellow to support You Are Not Alone Fun Run.
-
-The You Are Not Alone Fun Run and Festival raises awareness around youth mental health and suicide. The event aims to be a conversation starter amongst family and friends.
-
-This Light Up is organised by: You Are Not Alone and Lifeline</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084439</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>You Are Not Alone Fun Run</title>
-			<description>Saturday, June 17, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support You Are Not Alone Fun Run.&lt;br /&gt;&lt;br /&gt;The You Are Not Alone Fun Run and Festival raises awareness around youth mental health and suicide. The event aims to be a conversation starter amongst family and friends.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: You Are Not Alone and Lifeline &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084950</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0e6zhhe10f6t2cvjh2rsuhtwkk</x-trumba:ealink>
-			<category>2023/06/17 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084950</guid>
-			<xCal:summary>You Are Not Alone Fun Run</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, June 17, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Yellow to support You Are Not Alone Fun Run.
-
-The You Are Not Alone Fun Run and Festival raises awareness around youth mental health and suicide. The event aims to be a conversation starter amongst family and friends.
-
-This Light Up is organised by: You Are Not Alone and Lifeline</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084950</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of Heart Failure Awareness Week</title>
-			<description>Sunday, June 18, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support Eve of Heart Failure Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart, have joined forces to launch the first Australian Heart Failure Patient Journey Guide on the 21st June 2023. The launch will coincide with Australia&amp;#8217;s second annual Heart Failure Awareness Week (June 19 &amp;#8211; 25). The national campaign aims to raise awareness about the prevalence of heart failure, increase understanding of heart failure symptoms, and highlight the importance of early detection to improve patient outcomes. To find out more visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084442</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m06gzctk7kyj3jar6zwhfrza6p</x-trumba:ealink>
-			<category>2023/06/18 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084442</guid>
-			<xCal:summary>Eve of Heart Failure Awareness Week</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-06-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, June 18, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to support Eve of Heart Failure Awareness Week.
-
-hearts4heart, have joined forces to launch the first Australian Heart Failure Patient Journey Guide on the 21st June 2023. The launch will coincide with Australia&amp;rsquo;s second annual Heart Failure Awareness Week (June 19 &amp;ndash; 25). The national campaign aims to raise awareness about the prevalence of heart failure, increase understanding of heart failure symptoms, and highlight the importance of early detection to improve patient outcomes. To find out more visit hearts4heart.org.au.
-
-This Light Up is organised by: hearts4heart</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084442</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
 		<item>
 			<title>Eve of Heart Failure Awareness Week</title>
 			<description>Sunday, June 18, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support Eve of Heart Failure Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart, have joined forces to launch the first Australian Heart Failure Patient Journey Guide on the 21st June 2023. The launch will coincide with Australia&amp;#8217;s second annual Heart Failure Awareness Week (June 19 &amp;#8211; 25). The national campaign aims to raise awareness about the prevalence of heart failure, increase understanding of heart failure symptoms, and highlight the importance of early detection to improve patient outcomes. To find out more visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
@@ -847,6 +41,32 @@ This Light Up is organised by: hearts4heart</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Eve of Heart Failure Awareness Week</title>
+			<description>Sunday, June 18, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Red to support Eve of Heart Failure Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart, have joined forces to launch the first Australian Heart Failure Patient Journey Guide on the 21st June 2023. The launch will coincide with Australia&amp;#8217;s second annual Heart Failure Awareness Week (June 19 &amp;#8211; 25). The national campaign aims to raise awareness about the prevalence of heart failure, increase understanding of heart failure symptoms, and highlight the importance of early detection to improve patient outcomes. To find out more visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167085006</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s9hbekav33knf918enhm54mx04</x-trumba:ealink>
+			<category>2023/06/18 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167085006</guid>
+			<xCal:summary>Eve of Heart Failure Awareness Week</xCal:summary>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:dtstart>2023-06-17T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-18T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, June 18, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-06-18T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-19T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Tropical Dome will be lit Red to support Eve of Heart Failure Awareness Week.
+
+hearts4heart, have joined forces to launch the first Australian Heart Failure Patient Journey Guide on the 21st June 2023. The launch will coincide with Australia&amp;rsquo;s second annual Heart Failure Awareness Week (June 19 &amp;ndash; 25). The national campaign aims to raise awareness about the prevalence of heart failure, increase understanding of heart failure symptoms, and highlight the importance of early detection to improve patient outcomes. To find out more visit hearts4heart.org.au.
+
+This Light Up is organised by: hearts4heart</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/167085006</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -877,28 +97,54 @@ This Light Up is organised by: hearts4heart</xCal:description>
 		</item>
 		<item>
 			<title>Eve of Heart Failure Awareness Week</title>
-			<description>Sunday, June 18, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Red to support Eve of Heart Failure Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart, have joined forces to launch the first Australian Heart Failure Patient Journey Guide on the 21st June 2023. The launch will coincide with Australia&amp;#8217;s second annual Heart Failure Awareness Week (June 19 &amp;#8211; 25). The national campaign aims to raise awareness about the prevalence of heart failure, increase understanding of heart failure symptoms, and highlight the importance of early detection to improve patient outcomes. To find out more visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167085006</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s9hbekav33knf918enhm54mx04</x-trumba:ealink>
+			<description>Sunday, June 18, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support Eve of Heart Failure Awareness Week.&lt;br /&gt;&lt;br /&gt;hearts4heart, have joined forces to launch the first Australian Heart Failure Patient Journey Guide on the 21st June 2023. The launch will coincide with Australia&amp;#8217;s second annual Heart Failure Awareness Week (June 19 &amp;#8211; 25). The national campaign aims to raise awareness about the prevalence of heart failure, increase understanding of heart failure symptoms, and highlight the importance of early detection to improve patient outcomes. To find out more visit &lt;a href="http://hearts4heart.org.au/" target="_blank" rel="noopener"&gt;hearts4heart.org.au&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: hearts4heart &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084442</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m06gzctk7kyj3jar6zwhfrza6p</x-trumba:ealink>
 			<category>2023/06/18 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167085006</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167084442</guid>
 			<xCal:summary>Eve of Heart Failure Awareness Week</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
 			<xCal:dtstart>2023-06-17T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-18T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Sunday, June 18, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-06-18T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-19T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Red to support Eve of Heart Failure Awareness Week.
+			<xCal:description>The Story Bridge will be lit Red to support Eve of Heart Failure Awareness Week.
 
 hearts4heart, have joined forces to launch the first Australian Heart Failure Patient Journey Guide on the 21st June 2023. The launch will coincide with Australia&amp;rsquo;s second annual Heart Failure Awareness Week (June 19 &amp;ndash; 25). The national campaign aims to raise awareness about the prevalence of heart failure, increase understanding of heart failure symptoms, and highlight the importance of early detection to improve patient outcomes. To find out more visit hearts4heart.org.au.
 
 This Light Up is organised by: hearts4heart</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167085006</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/167084442</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Sickle Cell Day</title>
+			<description>Monday, June 19, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support World Sickle Cell Day.&lt;br /&gt;&lt;br /&gt;World Sickle Cell Day is on the 19th June, 2023 and is an internationally recognised awareness day promoting equitable access to treatment of those living with sickle cell disease and to break down stigma in the community.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Thalaessmia and Sickle Cell Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084952</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/413tnjt73kvdnvjr0cd5wm8gmb</x-trumba:ealink>
+			<category>2023/06/19 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167084952</guid>
+			<xCal:summary>World Sickle Cell Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-06-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, June 19, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-06-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Red to support World Sickle Cell Day.
+
+World Sickle Cell Day is on the 19th June, 2023 and is an internationally recognised awareness day promoting equitable access to treatment of those living with sickle cell disease and to break down stigma in the community.
+
+This Light Up is organised by: Thalaessmia and Sickle Cell Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/167084952</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -954,26 +200,26 @@ This Light Up is organised by: Thalaessmia and Sickle Cell Australia</xCal:descr
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>World Sickle Cell Day</title>
-			<description>Monday, June 19, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support World Sickle Cell Day.&lt;br /&gt;&lt;br /&gt;World Sickle Cell Day is on the 19th June, 2023 and is an internationally recognised awareness day promoting equitable access to treatment of those living with sickle cell disease and to break down stigma in the community.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Thalaessmia and Sickle Cell Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084952</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/413tnjt73kvdnvjr0cd5wm8gmb</x-trumba:ealink>
-			<category>2023/06/19 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084952</guid>
-			<xCal:summary>World Sickle Cell Day</xCal:summary>
+			<title>Bowel Cancer Awareness Month and Eve of Red Apple Day</title>
+			<description>Tuesday, June 20, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support Bowel Cancer Awareness Month and Eve of Red Apple Day.&lt;br /&gt;&lt;br /&gt;Bowel Cancer Awareness Month - Bowel Cancer Australia&amp;#39;s signature event to raise awareness of Australia&amp;#39;s second deadliest cancer and Red Apple Day is our Annual Giving Day, when Australians are encouraged to support the vital work of the charity.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Bowel Cancer Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084956</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mux1wjcpjxvtnbcrxzpda5rkyh</x-trumba:ealink>
+			<category>2023/06/20 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167084956</guid>
+			<xCal:summary>Bowel Cancer Awareness Month and Eve of Red Apple Day</xCal:summary>
 			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, June 19, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-20T00:00:00</x-trumba:localend>
+			<xCal:dtstart>2023-06-19T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-20T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, June 20, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-06-20T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-21T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to support World Sickle Cell Day.
+			<xCal:description>The Reddacliff Place sculptures will be lit Red to support Bowel Cancer Awareness Month and Eve of Red Apple Day.
 
-World Sickle Cell Day is on the 19th June, 2023 and is an internationally recognised awareness day promoting equitable access to treatment of those living with sickle cell disease and to break down stigma in the community.
+Bowel Cancer Awareness Month - Bowel Cancer Australia&amp;#39;s signature event to raise awareness of Australia&amp;#39;s second deadliest cancer and Red Apple Day is our Annual Giving Day, when Australians are encouraged to support the vital work of the charity.
 
-This Light Up is organised by: Thalaessmia and Sickle Cell Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084952</xCal:uid>
+This Light Up is organised by: Bowel Cancer Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/167084956</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
@@ -1032,81 +278,29 @@ This Light Up is organised by: Bowel Cancer Australia</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>Bowel Cancer Awareness Month and Eve of Red Apple Day</title>
-			<description>Tuesday, June 20, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support Bowel Cancer Awareness Month and Eve of Red Apple Day.&lt;br /&gt;&lt;br /&gt;Bowel Cancer Awareness Month - Bowel Cancer Australia&amp;#39;s signature event to raise awareness of Australia&amp;#39;s second deadliest cancer and Red Apple Day is our Annual Giving Day, when Australians are encouraged to support the vital work of the charity.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Bowel Cancer Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084956</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mux1wjcpjxvtnbcrxzpda5rkyh</x-trumba:ealink>
-			<category>2023/06/20 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084956</guid>
-			<xCal:summary>Bowel Cancer Awareness Month and Eve of Red Apple Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, June 20, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to support Bowel Cancer Awareness Month and Eve of Red Apple Day.
-
-Bowel Cancer Awareness Month - Bowel Cancer Australia&amp;#39;s signature event to raise awareness of Australia&amp;#39;s second deadliest cancer and Red Apple Day is our Annual Giving Day, when Australians are encouraged to support the vital work of the charity.
-
-This Light Up is organised by: Bowel Cancer Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084956</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
 			<title>State of Origin Game II</title>
-			<description>Wednesday, June 21, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Maroon to celebrate State of Origin Game II.&lt;br /&gt;&lt;br /&gt;After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084957</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4x9f6u1uzkm1cw982nwm8xcunc</x-trumba:ealink>
+			<description>Wednesday, June 21, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Maroon to celebrate State of Origin Game II.&lt;br /&gt;&lt;br /&gt;After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084914</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mz04rgga6fngd22p8xnaccn196</x-trumba:ealink>
 			<category>2023/06/21 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084957</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167084914</guid>
 			<xCal:summary>State of Origin Game II</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
 			<xCal:dtstart>2023-06-20T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-21T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Wednesday, June 21, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-06-21T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-22T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Maroon to celebrate State of Origin Game II.
+			<xCal:description>City Hall will be lit Maroon to celebrate State of Origin Game II.
 
 After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.
 
 This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084957</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/167084914</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>State of Origin Game II</title>
-			<description>Wednesday, June 21, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Maroon to celebrate State of Origin Game II.&lt;br /&gt;&lt;br /&gt;After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167085008</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cdm2zx958b61nce65de2bkb5cs</x-trumba:ealink>
-			<category>2023/06/21 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167085008</guid>
-			<xCal:summary>State of Origin Game II</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-06-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, June 21, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Maroon to celebrate State of Origin Game II.
-
-After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167085008</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1137,28 +331,54 @@ This Light Up is organised by: Brisbane Economic Development Agency</xCal:descri
 		</item>
 		<item>
 			<title>State of Origin Game II</title>
-			<description>Wednesday, June 21, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Maroon to celebrate State of Origin Game II.&lt;br /&gt;&lt;br /&gt;After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084914</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mz04rgga6fngd22p8xnaccn196</x-trumba:ealink>
+			<description>Wednesday, June 21, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Maroon to celebrate State of Origin Game II.&lt;br /&gt;&lt;br /&gt;After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167085008</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cdm2zx958b61nce65de2bkb5cs</x-trumba:ealink>
 			<category>2023/06/21 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084914</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167085008</guid>
 			<xCal:summary>State of Origin Game II</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
 			<xCal:dtstart>2023-06-20T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-21T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Wednesday, June 21, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-06-21T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-22T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Maroon to celebrate State of Origin Game II.
+			<xCal:description>The Tropical Dome will be lit Maroon to celebrate State of Origin Game II.
 
 After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.
 
 This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084914</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/167085008</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>State of Origin Game II</title>
+			<description>Wednesday, June 21, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Maroon to celebrate State of Origin Game II.&lt;br /&gt;&lt;br /&gt;After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084957</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4x9f6u1uzkm1cw982nwm8xcunc</x-trumba:ealink>
+			<category>2023/06/21 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167084957</guid>
+			<xCal:summary>State of Origin Game II</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-06-20T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-21T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, June 21, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-06-21T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-22T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Maroon to celebrate State of Origin Game II.
+
+After a courageous win in Game I by the Maroons. Will Queensland seal the series at the Cauldron tonight or will the Blues be able to send it to a decider at Accor Stadium on July 12.
+
+This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/167084957</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1241,32 +461,6 @@ This light up is organised by: The Royal Australian Institute of Architects Limi
 		</item>
 		<item>
 			<title>CEO Sleepout</title>
-			<description>Thursday, June 22, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to support CEO Sleepout.&lt;br /&gt;&lt;br /&gt;Vinnie&amp;#39;s CEO Sleep out happens on 22 June 2023, where leaders in business, community and government will sleep without shelter onone of the longest nights of the year to help change the lives of Australians experiencing homelessness.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Vincent de Paul &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084960</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0hbp8t7yp4rm5e463phkcndj9d</x-trumba:ealink>
-			<category>2023/06/22 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084960</guid>
-			<xCal:summary>CEO Sleepout</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, June 22, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Blue to support CEO Sleepout.
-
-Vinnie&amp;#39;s CEO Sleep out happens on 22 June 2023, where leaders in business, community and government will sleep without shelter onone of the longest nights of the year to help change the lives of Australians experiencing homelessness.
-
-This Light Up is organised by: St Vincent de Paul</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084960</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>CEO Sleepout</title>
 			<description>Thursday, June 22, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue to support CEO Sleepout.&lt;br /&gt;&lt;br /&gt;Vinnie&amp;#39;s CEO Sleep out happens on 22 June 2023, where leaders in business, community and government will sleep without shelter on one of the longest nights of the year to help change the lives of Australians experiencing homelessness.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Vincent de Paul &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084447</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/46bsvuczv4uyvs2782yzkbjfh1</x-trumba:ealink>
@@ -1289,6 +483,32 @@ This Light Up is organised by: St Vincent de Paul</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>CEO Sleepout</title>
+			<description>Thursday, June 22, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to support CEO Sleepout.&lt;br /&gt;&lt;br /&gt;Vinnie&amp;#39;s CEO Sleep out happens on 22 June 2023, where leaders in business, community and government will sleep without shelter onone of the longest nights of the year to help change the lives of Australians experiencing homelessness.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Vincent de Paul &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084960</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0hbp8t7yp4rm5e463phkcndj9d</x-trumba:ealink>
+			<category>2023/06/22 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167084960</guid>
+			<xCal:summary>CEO Sleepout</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-06-21T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-22T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, June 22, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-06-22T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-23T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Blue to support CEO Sleepout.
+
+Vinnie&amp;#39;s CEO Sleep out happens on 22 June 2023, where leaders in business, community and government will sleep without shelter onone of the longest nights of the year to help change the lives of Australians experiencing homelessness.
+
+This Light Up is organised by: St Vincent de Paul</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/167084960</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1579,32 +799,6 @@ This Light Up is organised by: Myasthenia Gravis Association of Queensland Inc (
 		</item>
 		<item>
 			<title>International Myasthenia Gravis Awareness Month</title>
-			<description>Sunday, June 25, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Teal to support International Myasthenia Gravis Awareness Month.&lt;br /&gt;&lt;br /&gt;Myasthenia Gravis is a neurological auto-immune condition and affects the transmission of messages between nerves and the muscle fibre. &lt;a href="http://www.mgaq.org.au/" target="_blank" rel="noopener"&gt;www.mgaq.org.au&lt;/a&gt; .&amp;#160; International Myasthenia Gravis Awareness Month spreads awareness&amp;#160; of Myasthenia Gravis, the impact it has on people and the message of&amp;#160; &amp;quot;Patient Voices Matter&amp;quot;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Myasthenia Gravis Association of Queensland Inc (MGAQ) &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084963</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c0c3pmc4tx7exupzkefkcafap5</x-trumba:ealink>
-			<category>2023/06/25 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084963</guid>
-			<xCal:summary>International Myasthenia Gravis Awareness Month</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, June 25, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Teal to support International Myasthenia Gravis Awareness Month.
-
-Myasthenia Gravis is a neurological auto-immune condition and affects the transmission of messages between nerves and the muscle fibre. www.mgaq.org.au .&amp;nbsp; International Myasthenia Gravis Awareness Month spreads awareness&amp;nbsp; of Myasthenia Gravis, the impact it has on people and the message of&amp;nbsp; &amp;quot;Patient Voices Matter&amp;quot;.
-
-This Light Up is organised by: Myasthenia Gravis Association of Queensland Inc (MGAQ)</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084963</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>International Myasthenia Gravis Awareness Month</title>
 			<description>Sunday, June 25, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Teal to support International Myasthenia Gravis Awareness Month.&lt;br /&gt;&lt;br /&gt;Myasthenia Gravis is a neurological auto-immune condition and affects the transmission of messages between nerves and the muscle fibre. &lt;a href="http://www.mgaq.org.au/" target="_blank" rel="noopener"&gt;www.mgaq.org.au&lt;/a&gt; .&amp;#160; International Myasthenia Gravis Awareness Month spreads awareness&amp;#160; of Myasthenia Gravis, the impact it has on people and the message of&amp;#160; &amp;quot;Patient Voices Matter&amp;quot;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Myasthenia Gravis Association of Queensland Inc (MGAQ) &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084451</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0zhmgaz27s97w1t7w0ezdtdw1v</x-trumba:ealink>
@@ -1627,6 +821,32 @@ This Light Up is organised by: Myasthenia Gravis Association of Queensland Inc (
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>International Myasthenia Gravis Awareness Month</title>
+			<description>Sunday, June 25, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Teal to support International Myasthenia Gravis Awareness Month.&lt;br /&gt;&lt;br /&gt;Myasthenia Gravis is a neurological auto-immune condition and affects the transmission of messages between nerves and the muscle fibre. &lt;a href="http://www.mgaq.org.au/" target="_blank" rel="noopener"&gt;www.mgaq.org.au&lt;/a&gt; .&amp;#160; International Myasthenia Gravis Awareness Month spreads awareness&amp;#160; of Myasthenia Gravis, the impact it has on people and the message of&amp;#160; &amp;quot;Patient Voices Matter&amp;quot;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Myasthenia Gravis Association of Queensland Inc (MGAQ) &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084963</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c0c3pmc4tx7exupzkefkcafap5</x-trumba:ealink>
+			<category>2023/06/25 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167084963</guid>
+			<xCal:summary>International Myasthenia Gravis Awareness Month</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-06-24T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-25T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, June 25, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-06-25T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-26T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Teal to support International Myasthenia Gravis Awareness Month.
+
+Myasthenia Gravis is a neurological auto-immune condition and affects the transmission of messages between nerves and the muscle fibre. www.mgaq.org.au .&amp;nbsp; International Myasthenia Gravis Awareness Month spreads awareness&amp;nbsp; of Myasthenia Gravis, the impact it has on people and the message of&amp;nbsp; &amp;quot;Patient Voices Matter&amp;quot;.
+
+This Light Up is organised by: Myasthenia Gravis Association of Queensland Inc (MGAQ)</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/167084963</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1683,32 +903,6 @@ This Light Up is organised by: Phoenix Australia</xCal:description>
 		</item>
 		<item>
 			<title>World Scleroderma and Shine like a Sunflower Day</title>
-			<description>Thursday, June 29, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support World Scleroderma and Shine like a Sunflower Day.&lt;br /&gt;&lt;br /&gt;This June is World Scleroderma Month and Scleroderma Australia is bringing a golden glow to more than 110 iconic locations across Australia to help us raise scleroderma awareness by sharing the Shine Like a Sunflower campaign.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Scleroderma Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084964</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w8gv7he9a8n9fmafcn4pbrpg4x</x-trumba:ealink>
-			<category>2023/06/29 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/167084964</guid>
-			<xCal:summary>World Scleroderma and Shine like a Sunflower Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-06-28T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-29T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, June 29, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-06-29T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-30T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Yellow to support World Scleroderma and Shine like a Sunflower Day.
-
-This June is World Scleroderma Month and Scleroderma Australia is bringing a golden glow to more than 110 iconic locations across Australia to help us raise scleroderma awareness by sharing the Shine Like a Sunflower campaign.
-
-This Light Up is organised by: Scleroderma Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/167084964</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Scleroderma and Shine like a Sunflower Day</title>
 			<description>Thursday, June 29, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Yellow to support World Scleroderma and Shine like a Sunflower Day.&lt;br /&gt;&lt;br /&gt;This June is World Scleroderma Month and Scleroderma Australia is bringing a golden glow to more than 110 iconic locations across Australia to help us raise scleroderma awareness by sharing the Shine Like a Sunflower campaign.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Scleroderma Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084520</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8tj88gv6eb1begc11dek100bg7</x-trumba:ealink>
@@ -1731,6 +925,32 @@ This Light Up is organised by: Scleroderma Australia</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Scleroderma and Shine like a Sunflower Day</title>
+			<description>Thursday, June 29, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support World Scleroderma and Shine like a Sunflower Day.&lt;br /&gt;&lt;br /&gt;This June is World Scleroderma Month and Scleroderma Australia is bringing a golden glow to more than 110 iconic locations across Australia to help us raise scleroderma awareness by sharing the Shine Like a Sunflower campaign.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Scleroderma Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d167084964</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w8gv7he9a8n9fmafcn4pbrpg4x</x-trumba:ealink>
+			<category>2023/06/29 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/167084964</guid>
+			<xCal:summary>World Scleroderma and Shine like a Sunflower Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-06-28T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-06-29T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, June 29, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-06-29T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-06-30T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Yellow to support World Scleroderma and Shine like a Sunflower Day.
+
+This June is World Scleroderma Month and Scleroderma Australia is bringing a golden glow to more than 110 iconic locations across Australia to help us raise scleroderma awareness by sharing the Shine Like a Sunflower campaign.
+
+This Light Up is organised by: Scleroderma Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/167084964</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
