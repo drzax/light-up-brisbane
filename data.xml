@@ -11,869 +11,33 @@
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22416//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22423//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
 		<item>
-			<title>FIFA Women's World Cup - Grand Final</title>
-			<description>Sunday, August 20, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Pink, Green, White, Light Blue, Yellow and Orange to celebrate FIFA Women&amp;#39;s World Cup&amp;#160;- Grand Final.&lt;br /&gt;&lt;br /&gt;The 2023 FIFA Women&amp;#8217;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;#8217;s time for the Grand Final!&amp;#160;&lt;br /&gt;&lt;br /&gt;Head to the Fan Festival&amp;#8482; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.&amp;#160;&lt;br /&gt;&lt;br /&gt;Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank" rel="noopener"&gt;FIFA Women&amp;#8217;s World Cup Australia &amp;amp; New Zealand 2023&lt;/a&gt;&amp;#8482;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574336</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/07nn4kxmxmf10dmw0tr2f3sf6y</x-trumba:ealink>
-			<category>2023/08/20 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574336</guid>
-			<xCal:summary>FIFA Women's World Cup - Grand Final</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, August 20, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Pink, Green, White, Light Blue, Yellow and Orange to celebrate FIFA Women&amp;#39;s World Cup&amp;nbsp;- Grand Final.
-
-The 2023 FIFA Women&amp;rsquo;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;rsquo;s time for the Grand Final!&amp;nbsp;
-
-Head to the Fan Festival&amp;trade; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.&amp;nbsp;
-
-Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank"&gt;FIFA Women&amp;rsquo;s World Cup Australia &amp;amp; New Zealand 2023&lt;/a&gt;&amp;trade;.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574336</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>FIFA Women's World Cup - Grand Final</title>
-			<description>Sunday, August 20, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Pink, Green, White, Light Blue, Yellow and Orange to celebrate FIFA Women&amp;#39;s World Cup&amp;#160;- Grand Final.&lt;br /&gt;&lt;br /&gt;The 2023 FIFA Women&amp;#8217;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;#8217;s time for the Grand Final!&amp;#160;&lt;br /&gt;&lt;br /&gt;Head to the Fan Festival&amp;#8482; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games. &amp;#160;&amp;#160;&lt;br /&gt;&lt;br /&gt;Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank" rel="noopener"&gt;FIFA Women&amp;#8217;s World Cup Australia &amp;amp; New Zealand 2023&lt;/a&gt;&amp;#8482;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575785</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s8j1w603kn4cjv1729k3zdrjz7</x-trumba:ealink>
-			<category>2023/08/20 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168575785</guid>
-			<xCal:summary>FIFA Women's World Cup - Grand Final</xCal:summary>
+			<title>1 year to Paris 2024 Paralympics</title>
+			<description>Monday, August 28, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red Blue White to celebrate 1 year to Paris 2024 Paralympics.&lt;br /&gt;&lt;br /&gt;One year from today Paris 2024 will host the XXXIII Paralympic Summer Games, 28 August to 8 September 2024.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576226</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8bn818kzzvynwe2z3kt3kvy0aj</x-trumba:ealink>
+			<category>2023/08/28 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/168576226</guid>
+			<xCal:summary>1 year to Paris 2024 Paralympics</xCal:summary>
 			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, August 20, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localend>
+			<xCal:dtstart>2023-08-27T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-28T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, August 28, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-08-28T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-29T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Pink, Green, White, Light Blue, Yellow and Orange to celebrate FIFA Women&amp;#39;s World Cup&amp;nbsp;- Grand Final.
+			<xCal:description>City Hall will be lit Red Blue White to celebrate 1 year to Paris 2024 Paralympics.
 
-The 2023 FIFA Women&amp;rsquo;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;rsquo;s time for the Grand Final!&amp;nbsp;
-
-Head to the Fan Festival&amp;trade; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games. &amp;nbsp;&amp;nbsp;
-
-Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank"&gt;FIFA Women&amp;rsquo;s World Cup Australia &amp;amp; New Zealand 2023&lt;/a&gt;&amp;trade;.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168575785</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>FIFA Women's World Cup - Grand Final</title>
-			<description>Sunday, August 20, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Hall will be lit Green and Gold to celebrate FIFA Women&amp;#39;s World Cup - Grand Final.&lt;br /&gt;&lt;br /&gt;The 2023 the FIFA Women&amp;#8217;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;#8217;s time for the Grand Final!&lt;br /&gt;&lt;br /&gt;Head to the Fan Festival&amp;#8482; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.&amp;#160;&amp;#160;&lt;br /&gt;&lt;br /&gt;Find out more at &lt;a href="http://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank" rel="noopener"&gt;FIFA Women&amp;#8217;s World Cup Australia &amp;amp; New Zealand 2023&amp;#8482;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168718371</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gjjdr1gh1pn88jetbn44mc2dtv</x-trumba:ealink>
-			<category>2023/08/20 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168718371</guid>
-			<xCal:summary>FIFA Women's World Cup - Grand Final</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-08-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, August 20, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Hall will be lit Green and Gold to celebrate FIFA Women&amp;#39;s World Cup - Grand Final.
-
-The 2023 the FIFA Women&amp;rsquo;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;rsquo;s time for the Grand Final!
-
-Head to the Fan Festival&amp;trade; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.&amp;nbsp;&amp;nbsp;
-
-Find out more at &lt;a href="http://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank"&gt;FIFA Women&amp;rsquo;s World Cup Australia &amp;amp; New Zealand 2023&amp;trade;&lt;/a&gt;
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168718371</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>FIFA Women's World Cup - Grand Final</title>
-			<description>Sunday, August 20, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Light Blue to celebrate FIFA Women&amp;#39;s World Cup&amp;#160;- Grand Final.&lt;br /&gt;&lt;br /&gt;The 2023 FIFA Women&amp;#8217;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;#8217;s time for the Grand Final!&amp;#160;&lt;br /&gt;&lt;br /&gt;Head to the Fan Festival&amp;#8482; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.&lt;br /&gt;&lt;br /&gt;Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank" rel="noopener"&gt;FIFA Women&amp;#8217;s World Cup Australia &amp;amp; New Zealand 2023&lt;/a&gt;&amp;#8482;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575507</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g2fdjgh26un379z6u8xz9hase2</x-trumba:ealink>
-			<category>2023/08/20 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168575507</guid>
-			<xCal:summary>FIFA Women's World Cup - Grand Final</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-08-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, August 20, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Light Blue to celebrate FIFA Women&amp;#39;s World Cup&amp;nbsp;- Grand Final.
-
-The 2023 FIFA Women&amp;rsquo;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;rsquo;s time for the Grand Final!&amp;nbsp;
-
-Head to the Fan Festival&amp;trade; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.
-
-Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank"&gt;FIFA Women&amp;rsquo;s World Cup Australia &amp;amp; New Zealand 2023&lt;/a&gt;&amp;trade;.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168575507</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>FIFA Women's World Cup - Grand Final</title>
-			<description>Sunday, August 20, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Pink, Green, White, Light Blue, Yellow and Orange to celebrate FIFA Women&amp;#39;s World Cup&amp;#160;- Grand Final.&lt;br /&gt;&lt;br /&gt;The 2023 FIFA Women&amp;#8217;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;#8217;s time for the Grand Final!&amp;#160;&lt;br /&gt;&lt;br /&gt;Head to the Fan Festival&amp;#8482; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.&amp;#160;&lt;br /&gt;&lt;br /&gt;Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank" rel="noopener"&gt;FIFA Women&amp;#8217;s World Cup Australia &amp;amp; New Zealand 2023&amp;#8482;&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168573837</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s8vf5wf2xws3akg408d8876bnu</x-trumba:ealink>
-			<category>2023/08/20 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168573837</guid>
-			<xCal:summary>FIFA Women's World Cup - Grand Final</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-08-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, August 20, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Pink, Green, White, Light Blue, Yellow and Orange to celebrate FIFA Women&amp;#39;s World Cup&amp;nbsp;- Grand Final.
-
-The 2023 FIFA Women&amp;rsquo;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;rsquo;s time for the Grand Final!&amp;nbsp;
-
-Head to the Fan Festival&amp;trade; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.&amp;nbsp;
-
-Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank"&gt;FIFA Women&amp;rsquo;s World Cup Australia &amp;amp; New Zealand 2023&amp;trade;&lt;/a&gt;.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168573837</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>FIFA Women's World Cup - Grand Final</title>
-			<description>Sunday, August 20, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit all colours to celebrate FIFA Women&amp;#39;s World Cup&amp;#160;- Grand Final.&lt;br /&gt;&lt;br /&gt;The 2023 FIFA Women&amp;#8217;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;#8217;s time for the Grand Final!&amp;#160;&lt;br /&gt;&lt;br /&gt;Head to the Fan Festival&amp;#8482; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.&lt;br /&gt;&lt;br /&gt;Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank" rel="noopener"&gt;FIFA Women&amp;#8217;s World Cup Australia &amp;amp; New Zealand 2023&lt;/a&gt;&amp;#8482;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574767</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8xewe5mug0c3d9091mmedzhyvd</x-trumba:ealink>
-			<category>2023/08/20 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574767</guid>
-			<xCal:summary>FIFA Women's World Cup - Grand Final</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, August 20, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit all colours to celebrate FIFA Women&amp;#39;s World Cup&amp;nbsp;- Grand Final.
-
-The 2023 FIFA Women&amp;rsquo;s World Cup has been co-hosted across venues in Aotearoa/New Zealand and Australia and now it&amp;rsquo;s time for the Grand Final!&amp;nbsp;
-
-Head to the Fan Festival&amp;trade; at South Bank Parklands, to watch the Match live as well as enjoying an exciting program of music, entertainment, food and games.
-
-Find out more at &lt;a href="https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023" target="_blank"&gt;FIFA Women&amp;rsquo;s World Cup Australia &amp;amp; New Zealand 2023&lt;/a&gt;&amp;trade;.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574767</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Queensland Road Safety Week</title>
-			<description>Monday, August 21, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Yellow to support Queensland Road Safety Week.&lt;br /&gt;&lt;br /&gt;&amp;#8220;Road Safety Starts with Me.&amp;#8221;&amp;#160; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Dept of Transport and Main Roads &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575617</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/85a08tbywbracxc9y3rfz1nftt</x-trumba:ealink>
-			<category>2023/08/21 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168575617</guid>
-			<xCal:summary>Queensland Road Safety Week</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-08-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, August 21, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Yellow to support Queensland Road Safety Week.
-
-&amp;ldquo;Road Safety Starts with Me.&amp;rdquo;&amp;nbsp; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.
-
-This Light Up is organised by: Dept of Transport and Main Roads</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168575617</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Queensland Road Safety Week</title>
-			<description>Monday, August 21, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Yellow to support Queensland Road Safety Week.&lt;br /&gt;&lt;br /&gt;&amp;#8220;Road Safety Starts with Me.&amp;#8221;&amp;#160; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Dept of Transport and Main Roads &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574627</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wcr5kmbcf6y88b322rjkcf3t56</x-trumba:ealink>
-			<category>2023/08/21 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574627</guid>
-			<xCal:summary>Queensland Road Safety Week</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, August 21, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Yellow to support Queensland Road Safety Week.
-
-&amp;ldquo;Road Safety Starts with Me.&amp;rdquo;&amp;nbsp; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.
-
-This Light Up is organised by: Dept of Transport and Main Roads</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574627</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Queensland Road Safety Week</title>
-			<description>Monday, August 21, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support Queensland Road Safety Week.&lt;br /&gt;&lt;br /&gt;&amp;#8220;Road Safety Starts with Me.&amp;#8221;&amp;#160; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Dept of Transport and Main Roads &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575161</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/46t792k3ekate0739dda70da4f</x-trumba:ealink>
-			<category>2023/08/21 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168575161</guid>
-			<xCal:summary>Queensland Road Safety Week</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, August 21, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Yellow to support Queensland Road Safety Week.
-
-&amp;ldquo;Road Safety Starts with Me.&amp;rdquo;&amp;nbsp; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.
-
-This Light Up is organised by: Dept of Transport and Main Roads</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168575161</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Queensland Road Safety Week</title>
-			<description>Monday, August 21, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Yellow to support Queensland Road Safety Week.&lt;br /&gt;&lt;br /&gt;&amp;#8220;Road Safety Starts with Me.&amp;#8221;&amp;#160; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Dept of Transport and Main Roads &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576092</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mpda7vn364s8y9bsh3jstsusfc</x-trumba:ealink>
-			<category>2023/08/21 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168576092</guid>
-			<xCal:summary>Queensland Road Safety Week</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, August 21, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Yellow to support Queensland Road Safety Week.
-
-&amp;ldquo;Road Safety Starts with Me.&amp;rdquo;&amp;nbsp; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.
-
-This Light Up is organised by: Dept of Transport and Main Roads</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168576092</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Queensland Road Safety Week</title>
-			<description>Monday, August 21, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Yellow to support Queensland Road Safety Week.&lt;br /&gt;&lt;br /&gt;&amp;#8220;Road Safety Starts with Me.&amp;#8221;&amp;#160; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Dept of Transport and Main Roads &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574121</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m418p9tx0cu65bwe4421ay72gm</x-trumba:ealink>
-			<category>2023/08/21 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574121</guid>
-			<xCal:summary>Queensland Road Safety Week</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-08-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, August 21, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Yellow to support Queensland Road Safety Week.
-
-&amp;ldquo;Road Safety Starts with Me.&amp;rdquo;&amp;nbsp; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.
-
-This Light Up is organised by: Dept of Transport and Main Roads</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574121</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Queensland Road Safety Week</title>
-			<description>Monday, August 21, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Hall will be lit Yellow to support Queensland Road Safety Week.&lt;br /&gt;&lt;br /&gt;&amp;#8220;Road Safety Starts with Me.&amp;#8221;&amp;#160; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Dept of Transport and Main Roads &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168718372</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/800gj044rrm3gmkxz6kxfapu4w</x-trumba:ealink>
-			<category>2023/08/21 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168718372</guid>
-			<xCal:summary>Queensland Road Safety Week</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-08-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, August 21, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Hall will be lit Yellow to support Queensland Road Safety Week.
-
-&amp;ldquo;Road Safety Starts with Me.&amp;rdquo;&amp;nbsp; With 299 lives lost on Queensland roads through 2022 - the highest since 2009 - road safety is a key priority for our state. Queensland Road Safety Week (QRSW) is an annual initiative led by TMR with the Queensland Police Service and is designed to raise awareness of road safety through a range of activities and promotions.
-
-This Light Up is organised by: Dept of Transport and Main Roads</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168718372</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brain Injury Awareness Week</title>
-			<description>Tuesday, August 22, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Purple to support Brain Injury Awareness Week.&lt;br /&gt;&lt;br /&gt;The annual Brain Injury Awareness Week raises awareness of brain injury and its impact. The week also celebrates the achievements of those living with a brain injury and the commitment given to them by their families and the communities they live in.&lt;br /&gt;&lt;br /&gt;Synapse is Australia&amp;#8217;s Brain Injury Organisation, providing a range of support services for people who have been impacted by brain injury and disability. These services promote quality of life, self-determination, and choice through information, specialist support, and targeted research activities.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Synapse Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575162</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mtasn5arxpb7gy3t6tcbsc6yzu</x-trumba:ealink>
-			<category>2023/08/22 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168575162</guid>
-			<xCal:summary>Brain Injury Awareness Week</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, August 22, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Purple to support Brain Injury Awareness Week.
-
-The annual Brain Injury Awareness Week raises awareness of brain injury and its impact. The week also celebrates the achievements of those living with a brain injury and the commitment given to them by their families and the communities they live in.
-
-Synapse is Australia&amp;rsquo;s Brain Injury Organisation, providing a range of support services for people who have been impacted by brain injury and disability. These services promote quality of life, self-determination, and choice through information, specialist support, and targeted research activities.
-
-This Light Up is organised by: Synapse Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168575162</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brain Injury Awareness Week</title>
-			<description>Tuesday, August 22, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Purple and Yellow to support Brain Injury Awareness Week.&lt;br /&gt;&lt;br /&gt;The annual Brain Injury Awareness Week raises awareness of brain injury and its impact. The week also celebrates the achievements of those living with a brain injury and the commitment given to them by their families and the communities they live in.&lt;br /&gt;&lt;br /&gt;Synapse is Australia&amp;#8217;s Brain Injury Organisation, providing a range of support services for people who have been impacted by brain injury and disability. These services promote quality of life, self-determination, and choice through information, specialist support, and targeted research activities.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Synapse Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574122</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0hachgu1tbbkr6mjjjvnjma33w</x-trumba:ealink>
-			<category>2023/08/22 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574122</guid>
-			<xCal:summary>Brain Injury Awareness Week</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-08-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, August 22, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Purple and Yellow to support Brain Injury Awareness Week.
-
-The annual Brain Injury Awareness Week raises awareness of brain injury and its impact. The week also celebrates the achievements of those living with a brain injury and the commitment given to them by their families and the communities they live in.
-
-Synapse is Australia&amp;rsquo;s Brain Injury Organisation, providing a range of support services for people who have been impacted by brain injury and disability. These services promote quality of life, self-determination, and choice through information, specialist support, and targeted research activities.
-
-This Light Up is organised by: Synapse Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574122</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brain Injury Awareness Week</title>
-			<description>Tuesday, August 22, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Purple and Yellow to support Brain Injury Awareness Week.&lt;br /&gt;&lt;br /&gt;The annual Brain Injury Awareness Week raises awareness of brain injury and its impact. The week also celebrates the achievements of those living with a brain injury and the commitment given to them by their families and the communities they live in.&lt;br /&gt;&lt;br /&gt;Synapse is Australia&amp;#8217;s Brain Injury Organisation, providing a range of support services for people who have been impacted by brain injury and disability. These services promote quality of life, self-determination, and choice through information, specialist support, and targeted research activities.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Synapse Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574628</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gryuf4b5a3zmap57vruy9pknc9</x-trumba:ealink>
-			<category>2023/08/22 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574628</guid>
-			<xCal:summary>Brain Injury Awareness Week</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, August 22, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Purple and Yellow to support Brain Injury Awareness Week.
-
-The annual Brain Injury Awareness Week raises awareness of brain injury and its impact. The week also celebrates the achievements of those living with a brain injury and the commitment given to them by their families and the communities they live in.
-
-Synapse is Australia&amp;rsquo;s Brain Injury Organisation, providing a range of support services for people who have been impacted by brain injury and disability. These services promote quality of life, self-determination, and choice through information, specialist support, and targeted research activities.
-
-This Light Up is organised by: Synapse Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574628</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane Fashion Festival</title>
-			<description>Tuesday, August 22, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red, White and Blue to support Brisbane Fashion Festival.&lt;br /&gt;&lt;br /&gt;The annual Brisbane Fashion Festival which will be held at City Hall/King George Square Tuesday 22 - Thursday 24 August, 2023. The Festival is designed to support the local fashion and retail scene at the time when new season fashions land in store, and support our emerging designers along with our established designers and retailers.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lindsay Bennett Marketing Pty Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576135</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wdr5ahe9mff5k7mh85jzu3y968</x-trumba:ealink>
-			<category>2023/08/22 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168576135</guid>
-			<xCal:summary>Brisbane Fashion Festival</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, August 22, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red, White and Blue to support Brisbane Fashion Festival.
-
-The annual Brisbane Fashion Festival which will be held at City Hall/King George Square Tuesday 22 - Thursday 24 August, 2023. The Festival is designed to support the local fashion and retail scene at the time when new season fashions land in store, and support our emerging designers along with our established designers and retailers.
-
-This Light Up is organised by: Lindsay Bennett Marketing Pty Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168576135</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of 9 years to 2032 Paralympics</title>
-			<description>Wednesday, August 23, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.&lt;br /&gt;&lt;br /&gt;24 August 2023 marks 9 years to the start Brisbane 2032 Paralympic games. The&amp;#8239;Brisbane 2032&amp;#8239;Paralympic Games will create a legacy, which aligns with Council&amp;#8217;s&amp;#8239;commitment to making the Brisbane of tomorrow even better than the Brisbane of today.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d169277400</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wg6w43p2r7195d422bh2a8z4e9</x-trumba:ealink>
-			<category>2023/08/23 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/169277400</guid>
-			<xCal:summary>Eve of 9 years to 2032 Paralympics</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, August 23, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.
-
-24 August 2023 marks 9 years to the start Brisbane 2032 Paralympic games. The Brisbane 2032 Paralympic Games will create a legacy, which aligns with Council&amp;rsquo;s commitment to making the Brisbane of tomorrow even better than the Brisbane of today.
+One year from today Paris 2024 will host the XXXIII Paralympic Summer Games, 28 August to 8 September 2024.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/169277400</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of 9 years to 2032 Paralympics</title>
-			<description>Wednesday, August 23, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.&lt;br /&gt;&lt;br /&gt;24 August 2023 marks 9 years to the start Brisbane 2032 Paralympic games. The&amp;#8239;Brisbane 2032&amp;#8239;Paralympic Games will create a legacy, which aligns with Council&amp;#8217;s&amp;#8239;commitment to making the Brisbane of tomorrow even better than the Brisbane of today.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d169277399</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sg48bvmds1f45zys5tcx03gfgd</x-trumba:ealink>
-			<category>2023/08/23 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/169277399</guid>
-			<xCal:summary>Eve of 9 years to 2032 Paralympics</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-08-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, August 23, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.
-
-24 August 2023 marks 9 years to the start Brisbane 2032 Paralympic games. The Brisbane 2032 Paralympic Games will create a legacy, which aligns with Council&amp;rsquo;s commitment to making the Brisbane of tomorrow even better than the Brisbane of today.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/169277399</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of 9 years to 2032 Paralympics</title>
-			<description>Wednesday, August 23, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Hall will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.&lt;br /&gt;&lt;br /&gt;24 August 2023 marks 9 years to the start&amp;#160; Brisbane 2032 Paralympic games. The&amp;#8239;Brisbane 2032&amp;#8239;Paralympic Games will create a legacy, which aligns with Council&amp;#8217;s&amp;#8239;commitment to making the Brisbane of tomorrow even better than the Brisbane of today.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168718387</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0wj7pdm9m2r01247a06ef3cmw0</x-trumba:ealink>
-			<category>2023/08/23 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168718387</guid>
-			<xCal:summary>Eve of 9 years to 2032 Paralympics</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-08-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, August 23, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Hall will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.
-
-24 August 2023 marks 9 years to the start&amp;nbsp; Brisbane 2032 Paralympic games. The Brisbane 2032 Paralympic Games will create a legacy, which aligns with Council&amp;rsquo;s commitment to making the Brisbane of tomorrow even better than the Brisbane of today.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168718387</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of 9 years to 2032 Paralympics</title>
-			<description>Wednesday, August 23, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.&lt;br /&gt;&lt;br /&gt;24 August 2023 marks 9 years to the start&amp;#160; Brisbane 2032 Paralympic games. The&amp;#8239;Brisbane 2032&amp;#8239;Paralympic Games will create a legacy, which aligns with Council&amp;#8217;s&amp;#8239;commitment to making the Brisbane of tomorrow even better than the Brisbane of today.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576147</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/872v1jx06dc8njnkp3fw3eavt0</x-trumba:ealink>
-			<category>2023/08/23 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168576147</guid>
-			<xCal:summary>Eve of 9 years to 2032 Paralympics</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, August 23, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.
-
-24 August 2023 marks 9 years to the start&amp;nbsp; Brisbane 2032 Paralympic games. The Brisbane 2032 Paralympic Games will create a legacy, which aligns with Council&amp;rsquo;s commitment to making the Brisbane of tomorrow even better than the Brisbane of today.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168576147</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of 9 years to 2032 Paralympics</title>
-			<description>Wednesday, August 23, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.&lt;br /&gt;&lt;br /&gt;24 August 2023 marks 9 years to the start Brisbane 2032 Paralympic games. The&amp;#8239;Brisbane 2032&amp;#8239;Paralympic Games will create a legacy, which aligns with Council&amp;#8217;s&amp;#8239;commitment to making the Brisbane of tomorrow even better than the Brisbane of today.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d169277398</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g5zcb81m22r3fsfbecdx4hpxa5</x-trumba:ealink>
-			<category>2023/08/23 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/169277398</guid>
-			<xCal:summary>Eve of 9 years to 2032 Paralympics</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, August 23, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.
-
-24 August 2023 marks 9 years to the start Brisbane 2032 Paralympic games. The Brisbane 2032 Paralympic Games will create a legacy, which aligns with Council&amp;rsquo;s commitment to making the Brisbane of tomorrow even better than the Brisbane of today.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/169277398</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of 9 years to 2032 Paralympics</title>
-			<description>Wednesday, August 23, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.&lt;br /&gt;&lt;br /&gt;24 August 2023 marks 9 years to the start Brisbane 2032 Paralympic games. The&amp;#8239;Brisbane 2032&amp;#8239;Paralympic Games will create a legacy, which aligns with Council&amp;#8217;s&amp;#8239;commitment to making the Brisbane of tomorrow even better than the Brisbane of today.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d169277397</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8rkvz0rv1k4auprc2u0yey9spy</x-trumba:ealink>
-			<category>2023/08/23 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/169277397</guid>
-			<xCal:summary>Eve of 9 years to 2032 Paralympics</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-08-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, August 23, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Green and Gold to support Eve of 9 years to 2032 Paralympics.
-
-24 August 2023 marks 9 years to the start Brisbane 2032 Paralympic games. The Brisbane 2032 Paralympic Games will create a legacy, which aligns with Council&amp;rsquo;s commitment to making the Brisbane of tomorrow even better than the Brisbane of today.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/169277397</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>IndOz Conference</title>
-			<description>Thursday, August 24, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red and White to celebrate IndOz Conference.&lt;br /&gt;&lt;br /&gt;IndOz Conference taking place in City Hall - the largest Indonesian Business event in Australia, to further Trades and Investments between Australia and Indonesia.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Synergy of Indonesia Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576148</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/whb7h91xs8ytp4mwd0sh2yvjwm</x-trumba:ealink>
-			<category>2023/08/24 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168576148</guid>
-			<xCal:summary>IndOz Conference</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-23T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, August 24, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-24T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-25T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red and White to celebrate IndOz Conference.
-
-IndOz Conference taking place in City Hall - the largest Indonesian Business event in Australia, to further Trades and Investments between Australia and Indonesia.
-
-This Light Up is organised by: Synergy of Indonesia Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168576148</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Ukraine Independence Day</title>
-			<description>Thursday, August 24, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Blue and Yellow to recognise Ukraine Independence Day.&lt;br /&gt;&lt;br /&gt;Ukrainian Community Groups of Brisbane are celebrating 32 years on Ukraine&amp;#8217;s Independence on 24th August.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Ukrainian Community of Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574629</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sa568c50ueeeb7p38pkbf7r8bw</x-trumba:ealink>
-			<category>2023/08/24 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574629</guid>
-			<xCal:summary>Ukraine Independence Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-23T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, August 24, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-24T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-25T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Blue and Yellow to recognise Ukraine Independence Day.
-
-Ukrainian Community Groups of Brisbane are celebrating 32 years on Ukraine&amp;rsquo;s Independence on 24th August.
-
-This Light Up is organised by: Ukrainian Community of Qld</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574629</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Ukraine Independence Day</title>
-			<description>Thursday, August 24, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to recognise Ukraine Independence Day.&lt;br /&gt;&lt;br /&gt;Ukrainian Community Groups of Brisbane are celebrating 32 years on Ukraine&amp;#8217;s Independence on 24th August.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Ukrainian Community of Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575164</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m6czm369a95w1upt2mt1vsw1ch</x-trumba:ealink>
-			<category>2023/08/24 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168575164</guid>
-			<xCal:summary>Ukraine Independence Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-23T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, August 24, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-24T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-25T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Blue to recognise Ukraine Independence Day.
-
-Ukrainian Community Groups of Brisbane are celebrating 32 years on Ukraine&amp;rsquo;s Independence on 24th August.
-
-This Light Up is organised by: Ukrainian Community of Qld</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168575164</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Ukraine Independence Day</title>
-			<description>Thursday, August 24, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue and Yellow to recognise Ukraine Independence Day.&lt;br /&gt;&lt;br /&gt;Ukrainian Community Groups of Brisbane are celebrating 32 years on Ukraine&amp;#8217;s Independence on 24th August.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Ukrainian Community of Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574123</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cn92mm5mm0pakpwb86h42j7t47</x-trumba:ealink>
-			<category>2023/08/24 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574123</guid>
-			<xCal:summary>Ukraine Independence Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-08-23T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-24T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, August 24, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-24T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-25T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Blue and Yellow to recognise Ukraine Independence Day.
-
-Ukrainian Community Groups of Brisbane are celebrating 32 years on Ukraine&amp;rsquo;s Independence on 24th August.
-
-This Light Up is organised by: Ukrainian Community of Qld</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574123</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian South Sea Islander Day of Recognition</title>
-			<description>Friday, August 25, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit White, Blue, Yellow, Green and Black to support Australian South Sea Islander Day of Recognition.&lt;br /&gt;&lt;br /&gt;The Australian South Sea Islander Day of National Recognition, celebrated on August 25th, marks the day that the Federal Government officially recognised Australian South Sea Islander (ASSI) as a distinct cultural group. The ASSI Community aims to recognise this culturally significant occasion&amp;#39;s anniversary to increase recognition and raise awareness of our unique history and culture and to pay respect to our South Sea Islander Ancestors and Forebearers.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian South Sea Islanders United Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574630</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8pd0pfxrtpb8dxwtzakbm78meh</x-trumba:ealink>
-			<category>2023/08/25 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574630</guid>
-			<xCal:summary>Australian South Sea Islander Day of Recognition</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, August 25, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit White, Blue, Yellow, Green and Black to support Australian South Sea Islander Day of Recognition.
-
-The Australian South Sea Islander Day of National Recognition, celebrated on August 25th, marks the day that the Federal Government officially recognised Australian South Sea Islander (ASSI) as a distinct cultural group. The ASSI Community aims to recognise this culturally significant occasion&amp;#39;s anniversary to increase recognition and raise awareness of our unique history and culture and to pay respect to our South Sea Islander Ancestors and Forebearers.
-
-This Light Up is organised by: Australian South Sea Islanders United Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574630</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian South Sea Islander Day of Recognition</title>
-			<description>Friday, August 25, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit White, Blue, Yellow, Green and Black to support Australian South Sea Islander Day of Recognition.&lt;br /&gt;&lt;br /&gt;The Australian South Sea Islander Day of National Recognition, celebrated on August 25th, marks the day that the Federal Government officially recognised Australian South Sea Islander (ASSI) as a distinct cultural group. The ASSI Community aims to recognise this culturally significant occasion&amp;#39;s anniversary to increase recognition and raise awareness of our unique history and culture and to pay respect to our South Sea Islander Ancestors and Forebearers.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian South Sea Islanders United Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574163</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4tdecxjn8ty8hnwrgeyzue4mys</x-trumba:ealink>
-			<category>2023/08/25 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574163</guid>
-			<xCal:summary>Australian South Sea Islander Day of Recognition</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-08-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, August 25, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit White, Blue, Yellow, Green and Black to support Australian South Sea Islander Day of Recognition.
-
-The Australian South Sea Islander Day of National Recognition, celebrated on August 25th, marks the day that the Federal Government officially recognised Australian South Sea Islander (ASSI) as a distinct cultural group. The ASSI Community aims to recognise this culturally significant occasion&amp;#39;s anniversary to increase recognition and raise awareness of our unique history and culture and to pay respect to our South Sea Islander Ancestors and Forebearers.
-
-This Light Up is organised by: Australian South Sea Islanders United Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574163</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian South Sea Islander Day of Recognition</title>
-			<description>Friday, August 25, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit all colours to support Australian South Sea Islander Day of Recognition.&lt;br /&gt;&lt;br /&gt;The Australian South Sea Islander Day of National Recognition, celebrated on August 25th, marks the day that the Federal Government officially recognised Australian South Sea Islander (ASSI) as a distinct cultural group. The ASSI Community aims to recognise this culturally significant occasion&amp;#39;s anniversary to increase recognition and raise awareness of our unique history and culture and to pay respect to our South Sea Islander Ancestors and Forebearers.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian South Sea Islanders United Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575165</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0jm6ppgn57pdt07j32kxszm7zg</x-trumba:ealink>
-			<category>2023/08/25 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168575165</guid>
-			<xCal:summary>Australian South Sea Islander Day of Recognition</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, August 25, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit all colours to support Australian South Sea Islander Day of Recognition.
-
-The Australian South Sea Islander Day of National Recognition, celebrated on August 25th, marks the day that the Federal Government officially recognised Australian South Sea Islander (ASSI) as a distinct cultural group. The ASSI Community aims to recognise this culturally significant occasion&amp;#39;s anniversary to increase recognition and raise awareness of our unique history and culture and to pay respect to our South Sea Islander Ancestors and Forebearers.
-
-This Light Up is organised by: Australian South Sea Islanders United Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168575165</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Dress to Express Day</title>
-			<description>Friday, August 25, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Purple and Orange to support Dress to Express Day.&lt;br /&gt;&lt;br /&gt;&amp;quot;Dress to Express&amp;quot; Day will be the last event of Brisbane Fashion Festival and will take place in Queen St Mall and in schools/workplaces across Queensland. On this day, community members are encouraged to dress to express their unique style, in solidarity with DV survivors who are taking back control of their lives including, for many, what they choose to wear.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Beyond DV Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576149</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8k4rwa98r5ww18sts1vdkbf0ge</x-trumba:ealink>
-			<category>2023/08/25 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168576149</guid>
-			<xCal:summary>Dress to Express Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, August 25, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Purple and Orange to support Dress to Express Day.
-
-&amp;quot;Dress to Express&amp;quot; Day will be the last event of Brisbane Fashion Festival and will take place in Queen St Mall and in schools/workplaces across Queensland. On this day, community members are encouraged to dress to express their unique style, in solidarity with DV survivors who are taking back control of their lives including, for many, what they choose to wear.
-
-This Light Up is organised by: Beyond DV Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168576149</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Dress to Express Day</title>
-			<description>Friday, August 25, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Hall will be lit Purple and Orange to support Dress to Express Day.&lt;br /&gt;&lt;br /&gt;&amp;quot;Dress to Express&amp;quot; Day will be the last event of Brisbane Fashion Festival and will take place in Queen St Mall and in schools/workplaces across Queensland. On this day, community members are encouraged to dress to express their unique style, in solidarity with DV survivors who are taking back control of their lives including, for many, what they choose to wear.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Beyond DV Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168718484</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cmv9p28705adx1aevtgmndp5cd</x-trumba:ealink>
-			<category>2023/08/25 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168718484</guid>
-			<xCal:summary>Dress to Express Day</xCal:summary>
-			<xCal:location>Sandgate Town Hall, Sandgate</xCal:location>
-			<xCal:dtstart>2023-08-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, August 25, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Sandgate Hall will be lit Purple and Orange to support Dress to Express Day.
-
-&amp;quot;Dress to Express&amp;quot; Day will be the last event of Brisbane Fashion Festival and will take place in Queen St Mall and in schools/workplaces across Queensland. On this day, community members are encouraged to dress to express their unique style, in solidarity with DV survivors who are taking back control of their lives including, for many, what they choose to wear.
-
-This Light Up is organised by: Beyond DV Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168718484</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Gala Ball</title>
-			<description>Saturday, August 26, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support Gala Ball.&lt;br /&gt;&lt;br /&gt;The Ladybird Gala Dinner taking place in City Hall is an annual event to raise awareness and funds for the ongoing work of the charity to enable our mission of offering free mental health support to any bereaved parent that seeks it.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Ladybird Care Foundation Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576161</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/crx0fm871sdj1zwjvxw4vwrb0y</x-trumba:ealink>
-			<category>2023/08/26 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168576161</guid>
-			<xCal:summary>Gala Ball</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-25T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-26T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, August 26, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-26T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-27T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red to support Gala Ball.
-
-The Ladybird Gala Dinner taking place in City Hall is an annual event to raise awareness and funds for the ongoing work of the charity to enable our mission of offering free mental health support to any bereaved parent that seeks it.
-
-This Light Up is organised by: Ladybird Care Foundation Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168576161</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/168576226</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
@@ -906,56 +70,30 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>1 year to Paris 2024 Paralympics</title>
-			<description>Monday, August 28, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red Blue White to celebrate 1 year to Paris 2024 Paralympics.&lt;br /&gt;&lt;br /&gt;One year from today Paris 2024 will host the XXXIII Paralympic Summer Games, 28 August to 8 September 2024.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576226</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8bn818kzzvynwe2z3kt3kvy0aj</x-trumba:ealink>
-			<category>2023/08/28 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168576226</guid>
-			<xCal:summary>1 year to Paris 2024 Paralympics</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-27T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-28T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, August 28, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-28T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-29T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red Blue White to celebrate 1 year to Paris 2024 Paralympics.
-
-One year from today Paris 2024 will host the XXXIII Paralympic Summer Games, 28 August to 8 September 2024.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168576226</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
 			<title>Legacy Appeal Week</title>
-			<description>Monday, August 28, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red Blue White to support Legacy Appeal Week.&lt;br /&gt;&lt;br /&gt;Legacy supports 40,000 partners and children of veterans who gave their lives or health serving our country&lt;br /&gt;The Legacy Week appeal has been running since the 1940&amp;#8217;s and is a time for all Australians to show their support for the widows and children whose loved ones have served our country. See also &lt;a href="https://www.legacy.com.au/legacy-week/" target="_blank" rel="noopener"&gt;https://www.legacy.com.au/legacy-week/&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Legacy Club of Brisbane &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574218</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s65tkdkrmnf19dmrm0bj5nw52r</x-trumba:ealink>
+			<description>Monday, August 28, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red Blue White to support Legacy Appeal Week.&lt;br /&gt;&lt;br /&gt;Legacy supports 40,000 partners and children of veterans who gave their lives or health serving our country&lt;br /&gt;The Legacy Week appeal has been running since the 1940&amp;#8217;s and is a time for all Australians to show their support for the widows and children whose loved ones have served our country. See also &lt;a href="https://www.legacy.com.au/legacy-week/" target="_blank" rel="noopener"&gt;https://www.legacy.com.au/legacy-week/&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Legacy Club of Brisbane &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574631</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ch8ktyctj0wf55ym622styegva</x-trumba:ealink>
 			<category>2023/08/28 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574218</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/168574631</guid>
 			<xCal:summary>Legacy Appeal Week</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
 			<xCal:dtstart>2023-08-27T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-28T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Monday, August 28, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-08-28T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-29T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red Blue White to support Legacy Appeal Week.
+			<xCal:description>The Victoria Bridge will be lit Red Blue White to support Legacy Appeal Week.
 
 Legacy supports 40,000 partners and children of veterans who gave their lives or health serving our country
 The Legacy Week appeal has been running since the 1940&amp;rsquo;s and is a time for all Australians to show their support for the widows and children whose loved ones have served our country. See also &lt;a href="https://www.legacy.com.au/legacy-week/" target="_blank"&gt;https://www.legacy.com.au/legacy-week/&lt;/a&gt;.
 
 This Light Up is organised by: Legacy Club of Brisbane</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574218</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/168574631</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -987,29 +125,59 @@ This Light Up is organised by: Legacy Club of Brisbane</xCal:description>
 		</item>
 		<item>
 			<title>Legacy Appeal Week</title>
-			<description>Monday, August 28, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red Blue White to support Legacy Appeal Week.&lt;br /&gt;&lt;br /&gt;Legacy supports 40,000 partners and children of veterans who gave their lives or health serving our country&lt;br /&gt;The Legacy Week appeal has been running since the 1940&amp;#8217;s and is a time for all Australians to show their support for the widows and children whose loved ones have served our country. See also &lt;a href="https://www.legacy.com.au/legacy-week/" target="_blank" rel="noopener"&gt;https://www.legacy.com.au/legacy-week/&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Legacy Club of Brisbane &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574631</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ch8ktyctj0wf55ym622styegva</x-trumba:ealink>
+			<description>Monday, August 28, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red Blue White to support Legacy Appeal Week.&lt;br /&gt;&lt;br /&gt;Legacy supports 40,000 partners and children of veterans who gave their lives or health serving our country&lt;br /&gt;The Legacy Week appeal has been running since the 1940&amp;#8217;s and is a time for all Australians to show their support for the widows and children whose loved ones have served our country. See also &lt;a href="https://www.legacy.com.au/legacy-week/" target="_blank" rel="noopener"&gt;https://www.legacy.com.au/legacy-week/&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Legacy Club of Brisbane &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574218</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s65tkdkrmnf19dmrm0bj5nw52r</x-trumba:ealink>
 			<category>2023/08/28 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574631</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/168574218</guid>
 			<xCal:summary>Legacy Appeal Week</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
 			<xCal:dtstart>2023-08-27T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-28T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Monday, August 28, 2023</x-trumba:formatteddatetime>
 			<xCal:dtend>2023-08-28T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-29T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red Blue White to support Legacy Appeal Week.
+			<xCal:description>The Story Bridge will be lit Red Blue White to support Legacy Appeal Week.
 
 Legacy supports 40,000 partners and children of veterans who gave their lives or health serving our country
 The Legacy Week appeal has been running since the 1940&amp;rsquo;s and is a time for all Australians to show their support for the widows and children whose loved ones have served our country. See also &lt;a href="https://www.legacy.com.au/legacy-week/" target="_blank"&gt;https://www.legacy.com.au/legacy-week/&lt;/a&gt;.
 
 This Light Up is organised by: Legacy Club of Brisbane</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574631</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/168574218</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>International Overdose Awareness Day</title>
+			<description>Tuesday, August 29, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Purple to support International Overdose Awareness Day.&lt;br /&gt;&lt;br /&gt;International Overdose Awareness Day is the world&amp;#8217;s largest annual campaign to end overdose, remember without stigma those who have died and acknowledge the grief of the family and friends left behind.&lt;br /&gt;The campaign raises awareness of overdose, which is one of the world&amp;#8217;s worst public health crises, and stimulates action and discussion about evidence-based overdose prevention and drug policy.&lt;br /&gt;It also acknowledges the profound grief felt by families and friends whose loved ones have died or suffered permanent injury from a drug overdose, spreading the message about the tragedy of drug overdose death and that drug overdose is preventable.&lt;br /&gt;&lt;br /&gt;QuIHN is an organisation founded by the communities for which we exist &amp;amp; serve. We provide a range of specialist social and medical services relating to alcohol, other drug use and mental health, comprising of harm reduction programs, therapeutic programs and primary medical care.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Injectors Health Network Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575226</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/47cp9z8fs27h3rmyptrg6uy0zh</x-trumba:ealink>
+			<category>2023/08/29 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/168575226</guid>
+			<xCal:summary>International Overdose Awareness Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-08-28T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-29T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, August 29, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-08-29T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-30T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Purple to support International Overdose Awareness Day.
+
+International Overdose Awareness Day is the world&amp;rsquo;s largest annual campaign to end overdose, remember without stigma those who have died and acknowledge the grief of the family and friends left behind.
+The campaign raises awareness of overdose, which is one of the world&amp;rsquo;s worst public health crises, and stimulates action and discussion about evidence-based overdose prevention and drug policy.
+It also acknowledges the profound grief felt by families and friends whose loved ones have died or suffered permanent injury from a drug overdose, spreading the message about the tragedy of drug overdose death and that drug overdose is preventable.
+
+QuIHN is an organisation founded by the communities for which we exist &amp;amp; serve. We provide a range of specialist social and medical services relating to alcohol, other drug use and mental health, comprising of harm reduction programs, therapeutic programs and primary medical care.
+
+This Light Up is organised by: Queensland Injectors Health Network Limited</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/168575226</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1075,33 +243,29 @@ This Light Up is organised by: Queensland Injectors Health Network Limited</xCal
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>International Overdose Awareness Day</title>
-			<description>Tuesday, August 29, 2023 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Purple to support International Overdose Awareness Day.&lt;br /&gt;&lt;br /&gt;International Overdose Awareness Day is the world&amp;#8217;s largest annual campaign to end overdose, remember without stigma those who have died and acknowledge the grief of the family and friends left behind.&lt;br /&gt;The campaign raises awareness of overdose, which is one of the world&amp;#8217;s worst public health crises, and stimulates action and discussion about evidence-based overdose prevention and drug policy.&lt;br /&gt;It also acknowledges the profound grief felt by families and friends whose loved ones have died or suffered permanent injury from a drug overdose, spreading the message about the tragedy of drug overdose death and that drug overdose is preventable.&lt;br /&gt;&lt;br /&gt;QuIHN is an organisation founded by the communities for which we exist &amp;amp; serve. We provide a range of specialist social and medical services relating to alcohol, other drug use and mental health, comprising of harm reduction programs, therapeutic programs and primary medical care.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Injectors Health Network Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575226</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/47cp9z8fs27h3rmyptrg6uy0zh</x-trumba:ealink>
-			<category>2023/08/29 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168575226</guid>
-			<xCal:summary>International Overdose Awareness Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-28T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-29T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, August 29, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-29T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-30T00:00:00</x-trumba:localend>
+			<title>Eve of Daffodil Day</title>
+			<description>Wednesday, August 30, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Yellow to support Eve of Daffodil Day.&lt;br /&gt;&lt;br /&gt;Cancer Council Queensland aim to support all Queenslanders living with cancer, and inform them of the support services we can offer through a cancer diagnosis, for themselves, their families or support networks. The annual Daffodil Day appeal raises awareness and funds to help the Cancer Council Australia achieve its objectives.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cancer Council Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575618</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wn1y0peaxgxr33x09w7dgmkjjm</x-trumba:ealink>
+			<category>2023/08/30 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/168575618</guid>
+			<xCal:summary>Eve of Daffodil Day</xCal:summary>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:dtstart>2023-08-29T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-30T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, August 30, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-08-30T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-31T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Purple to support International Overdose Awareness Day.
+			<xCal:description>The Tropical Dome will be lit Yellow to support Eve of Daffodil Day.
 
-International Overdose Awareness Day is the world&amp;rsquo;s largest annual campaign to end overdose, remember without stigma those who have died and acknowledge the grief of the family and friends left behind.
-The campaign raises awareness of overdose, which is one of the world&amp;rsquo;s worst public health crises, and stimulates action and discussion about evidence-based overdose prevention and drug policy.
-It also acknowledges the profound grief felt by families and friends whose loved ones have died or suffered permanent injury from a drug overdose, spreading the message about the tragedy of drug overdose death and that drug overdose is preventable.
+Cancer Council Queensland aim to support all Queenslanders living with cancer, and inform them of the support services we can offer through a cancer diagnosis, for themselves, their families or support networks. The annual Daffodil Day appeal raises awareness and funds to help the Cancer Council Australia achieve its objectives.
 
-QuIHN is an organisation founded by the communities for which we exist &amp;amp; serve. We provide a range of specialist social and medical services relating to alcohol, other drug use and mental health, comprising of harm reduction programs, therapeutic programs and primary medical care.
-
-This Light Up is organised by: Queensland Injectors Health Network Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168575226</xCal:uid>
+This Light Up is organised by: Cancer Council Queensland</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/168575618</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1132,58 +296,6 @@ This Light Up is organised by: Cancer Council Queensland</xCal:description>
 		</item>
 		<item>
 			<title>Eve of Daffodil Day</title>
-			<description>Wednesday, August 30, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Yellow to support Eve of Daffodil Day.&lt;br /&gt;&lt;br /&gt;Cancer Council Queensland aim to support all Queenslanders living with cancer, and inform them of the support services we can offer through a cancer diagnosis, for themselves, their families or support networks. The annual Daffodil Day appeal raises awareness and funds to help the Cancer Council Australia achieve its objectives.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cancer Council Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574234</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/saauntb60w5f5y50p9ryn4yc45</x-trumba:ealink>
-			<category>2023/08/30 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574234</guid>
-			<xCal:summary>Eve of Daffodil Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2023-08-29T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-30T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, August 30, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-30T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-31T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Yellow to support Eve of Daffodil Day.
-
-Cancer Council Queensland aim to support all Queenslanders living with cancer, and inform them of the support services we can offer through a cancer diagnosis, for themselves, their families or support networks. The annual Daffodil Day appeal raises awareness and funds to help the Cancer Council Australia achieve its objectives.
-
-This Light Up is organised by: Cancer Council Queensland</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574234</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of Daffodil Day</title>
-			<description>Wednesday, August 30, 2023 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Yellow to support Eve of Daffodil Day.&lt;br /&gt;&lt;br /&gt;Cancer Council Queensland aim to support all Queenslanders living with cancer, and inform them of the support services we can offer through a cancer diagnosis, for themselves, their families or support networks. The annual Daffodil Day appeal raises awareness and funds to help the Cancer Council Australia achieve its objectives.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cancer Council Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168575618</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wn1y0peaxgxr33x09w7dgmkjjm</x-trumba:ealink>
-			<category>2023/08/30 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168575618</guid>
-			<xCal:summary>Eve of Daffodil Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2023-08-29T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-30T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, August 30, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-30T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-31T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Yellow to support Eve of Daffodil Day.
-
-Cancer Council Queensland aim to support all Queenslanders living with cancer, and inform them of the support services we can offer through a cancer diagnosis, for themselves, their families or support networks. The annual Daffodil Day appeal raises awareness and funds to help the Cancer Council Australia achieve its objectives.
-
-This Light Up is organised by: Cancer Council Queensland</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168575618</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of Daffodil Day</title>
 			<description>Wednesday, August 30, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Yellow to support Eve of Daffodil Day.&lt;br /&gt;&lt;br /&gt;Cancer Council Queensland aim to support all Queenslanders living with cancer, and inform them of the support services we can offer through a cancer diagnosis, for themselves, their families or support networks. The annual Daffodil Day appeal raises awareness and funds to help the Cancer Council Australia achieve its objectives.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cancer Council Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574633</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/me84zh3zr5x2974whdtpwm4m73</x-trumba:ealink>
@@ -1209,30 +321,29 @@ This Light Up is organised by: Cancer Council Queensland</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>Eve of National Wattle Day</title>
-			<description>Thursday, August 31, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green and Gold to support Eve of National Wattle Day.&lt;br /&gt;&lt;br /&gt;National Wattle Day occurs on 1 September each year. This Day creates awareness that Golden Wattle is Australia&amp;#39;s national floral emblem, and is our national colours of Green and Gold - worn are with pride by our sporting champions. The Golden Wattle is a unifying symbol for all Australians in times of peace and conflict.&lt;br /&gt;Wattle Day Association promotes the celebration of National Wattle Day and the celebration of our national Floral Emblem the Golden Wattle as the symbol of Australia.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Wattle Day Association Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574650</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mek8jc7kx4sy72nehyt16yh5rn</x-trumba:ealink>
-			<category>2023/08/31 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168574650</guid>
-			<xCal:summary>Eve of National Wattle Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-30T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-31T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, August 31, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-31T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-09-01T00:00:00</x-trumba:localend>
+			<title>Eve of Daffodil Day</title>
+			<description>Wednesday, August 30, 2023 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Yellow to support Eve of Daffodil Day.&lt;br /&gt;&lt;br /&gt;Cancer Council Queensland aim to support all Queenslanders living with cancer, and inform them of the support services we can offer through a cancer diagnosis, for themselves, their families or support networks. The annual Daffodil Day appeal raises awareness and funds to help the Cancer Council Australia achieve its objectives.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Cancer Council Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574234</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/saauntb60w5f5y50p9ryn4yc45</x-trumba:ealink>
+			<category>2023/08/30 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/168574234</guid>
+			<xCal:summary>Eve of Daffodil Day</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2023-08-29T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-30T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, August 30, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-08-30T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-08-31T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Green and Gold to support Eve of National Wattle Day.
+			<xCal:description>The Story Bridge will be lit Yellow to support Eve of Daffodil Day.
 
-National Wattle Day occurs on 1 September each year. This Day creates awareness that Golden Wattle is Australia&amp;#39;s national floral emblem, and is our national colours of Green and Gold - worn are with pride by our sporting champions. The Golden Wattle is a unifying symbol for all Australians in times of peace and conflict.
-Wattle Day Association promotes the celebration of National Wattle Day and the celebration of our national Floral Emblem the Golden Wattle as the symbol of Australia.
+Cancer Council Queensland aim to support all Queenslanders living with cancer, and inform them of the support services we can offer through a cancer diagnosis, for themselves, their families or support networks. The annual Daffodil Day appeal raises awareness and funds to help the Cancer Council Australia achieve its objectives.
 
-This Light Up is organised by: Wattle Day Association Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168574650</xCal:uid>
+This Light Up is organised by: Cancer Council Queensland</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/168574234</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1260,6 +371,33 @@ This Light Up is organised by: Wattle Day Association Inc</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Eve of National Wattle Day</title>
+			<description>Thursday, August 31, 2023 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green and Gold to support Eve of National Wattle Day.&lt;br /&gt;&lt;br /&gt;National Wattle Day occurs on 1 September each year. This Day creates awareness that Golden Wattle is Australia&amp;#39;s national floral emblem, and is our national colours of Green and Gold - worn are with pride by our sporting champions. The Golden Wattle is a unifying symbol for all Australians in times of peace and conflict.&lt;br /&gt;Wattle Day Association promotes the celebration of National Wattle Day and the celebration of our national Floral Emblem the Golden Wattle as the symbol of Australia.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Wattle Day Association Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168574650</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mek8jc7kx4sy72nehyt16yh5rn</x-trumba:ealink>
+			<category>2023/08/31 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/168574650</guid>
+			<xCal:summary>Eve of National Wattle Day</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-08-30T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-31T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, August 31, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-08-31T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-09-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Victoria Bridge will be lit Green and Gold to support Eve of National Wattle Day.
+
+National Wattle Day occurs on 1 September each year. This Day creates awareness that Golden Wattle is Australia&amp;#39;s national floral emblem, and is our national colours of Green and Gold - worn are with pride by our sporting champions. The Golden Wattle is a unifying symbol for all Australians in times of peace and conflict.
+Wattle Day Association promotes the celebration of National Wattle Day and the celebration of our national Floral Emblem the Golden Wattle as the symbol of Australia.
+
+This Light Up is organised by: Wattle Day Association Inc</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/168574650</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1318,32 +456,6 @@ This Light Up is organised by: Wattle Day Association Inc</xCal:description>
 		</item>
 		<item>
 			<title>Malaysia National day</title>
-			<description>Thursday, August 31, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red, Blue, White, Yellow to recognise Malaysia National day.&lt;br /&gt;&lt;br /&gt;Malaysia&amp;#39;s Independence Day is celebrated on August 31st. Also known as Merdeka Day (Freedom Day).&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Malaysian Business Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576227</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ma95dcr292y9jynkcpvbgtevx2</x-trumba:ealink>
-			<category>2023/08/31 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/168576227</guid>
-			<xCal:summary>Malaysia National day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2023-08-30T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-31T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, August 31, 2023</x-trumba:formatteddatetime>
-			<xCal:dtend>2023-08-31T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-09-01T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red, Blue, White, Yellow to recognise Malaysia National day.
-
-Malaysia&amp;#39;s Independence Day is celebrated on August 31st. Also known as Merdeka Day (Freedom Day).
-
-This Light Up is organised by: Australian Malaysian Business Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/168576227</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Malaysia National day</title>
 			<description>Thursday, August 31, 2023 &lt;br/&gt;&lt;br/&gt;Sandgate Hall will be lit Red, Blue, White, Yellow to recognise Malaysia National day.&lt;br /&gt;&lt;br /&gt;Malaysia&amp;#39;s Independence Day is celebrated on August 31st. Also known as Merdeka Day (Freedom Day).&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Malaysian Business Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=386180&amp;amp;objecttype=19243&amp;amp;seotitle=Sandgate-Town-Hall-Sandgate&amp;amp;key=6517460ee7347e27e8126dbef0d02b94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Sandgate Town Hall, Sandgate&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.3206714,153.0682415(Sandgate+Town+Hall%2c+Sandgate)" target="_blank" rel="noopener"&gt;Sandgate Town Hall, Cliff and Seymour Streets, Sandgate&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168718500</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/03eead4wftwyv3f6mry4a4svy8</x-trumba:ealink>
@@ -1366,6 +478,32 @@ This Light Up is organised by: Australian Malaysian Business Council</xCal:descr
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Sandgate Town Hall, Sandgate</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Sandgate Town Hall, Cliff and Seymour Streets, Sandgate</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Malaysia National day</title>
+			<description>Thursday, August 31, 2023 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red, Blue, White, Yellow to recognise Malaysia National day.&lt;br /&gt;&lt;br /&gt;Malaysia&amp;#39;s Independence Day is celebrated on August 31st. Also known as Merdeka Day (Freedom Day).&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Malaysian Business Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/?trumbaEmbed=view%3devent%26eventid%3d168576227</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ma95dcr292y9jynkcpvbgtevx2</x-trumba:ealink>
+			<category>2023/08/31 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/168576227</guid>
+			<xCal:summary>Malaysia National day</xCal:summary>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:dtstart>2023-08-30T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2023-08-31T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, August 31, 2023</x-trumba:formatteddatetime>
+			<xCal:dtend>2023-08-31T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2023-09-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>City Hall will be lit Red, Blue, White, Yellow to recognise Malaysia National day.
+
+Malaysia&amp;#39;s Independence Day is celebrated on August 31st. Also known as Merdeka Day (Freedom Day).
+
+This Light Up is organised by: Australian Malaysian Business Council</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/168576227</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 	</channel>
