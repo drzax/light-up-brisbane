@@ -11,183 +11,12 @@
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22903//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22913//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
-		<item>
-			<title>Brisbane International</title>
-			<description>Sunday, January 7, 2024 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Victoria Bridge will be lit Blue to celebrate the Brisbane International.&lt;br /&gt;&lt;br /&gt;We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!&lt;br /&gt;Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;#8217;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.&lt;br /&gt;&lt;br /&gt;Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;#8217;s draw, and 180 of the world&amp;#8217;s best players competing for a big prize pool.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171709662</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cbcgnv3edmwur9ehcb32dw39pf</x-trumba:ealink>
-			<category>2024/01/07 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171709662</guid>
-			<xCal:summary>Brisbane International</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-01-06T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-07T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 7, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-07T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-08T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>&lt;p&gt;The Victoria Bridge will be lit Blue to celebrate the Brisbane International.
-
-We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!
-Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;rsquo;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.
-
-Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;rsquo;s draw, and 180 of the world&amp;rsquo;s best players competing for a big prize pool.
-
-This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt;</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171709662</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane International</title>
-			<description>Sunday, January 7, 2024 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Story Bridge will be lit Blue to celebrate the Brisbane International.&lt;br /&gt;&lt;br /&gt;We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!&lt;br /&gt;Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;#8217;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.&lt;br /&gt;&lt;br /&gt;Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;#8217;s draw, and 180 of the world&amp;#8217;s best players competing for a big prize pool.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171709661</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/snurkz6xga591de8k4sxpcnusn</x-trumba:ealink>
-			<category>2024/01/07 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171709661</guid>
-			<xCal:summary>Brisbane International</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-01-06T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-07T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 7, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-07T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-08T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>&lt;p&gt;The Story Bridge will be lit Blue to celebrate the Brisbane International.
-
-We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!
-Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;rsquo;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.
-
-Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;rsquo;s draw, and 180 of the world&amp;rsquo;s best players competing for a big prize pool.
-
-This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt;</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171709661</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane International</title>
-			<description>Sunday, January 7, 2024 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Reddacliff Place sculptures&amp;#160;will be lit Blue to celebrate the Brisbane International.&lt;br /&gt;&lt;br /&gt;We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!&lt;br /&gt;Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;#8217;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.&lt;br /&gt;&lt;br /&gt;Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;#8217;s draw, and 180 of the world&amp;#8217;s best players competing for a big prize pool.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171709663</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w4bspsnd8ztag6tctk8zxh8s59</x-trumba:ealink>
-			<category>2024/01/07 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171709663</guid>
-			<xCal:summary>Brisbane International</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-01-06T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-07T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 7, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-07T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-08T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>&lt;p&gt;The Reddacliff Place sculptures&amp;nbsp;will be lit Blue to celebrate the Brisbane International.
-
-We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!
-Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;rsquo;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.
-
-Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;rsquo;s draw, and 180 of the world&amp;rsquo;s best players competing for a big prize pool.
-
-This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt;</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171709663</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane International</title>
-			<description>Sunday, January 7, 2024 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;City Hall will be lit Blue to celebrate the Brisbane International.&lt;br /&gt;&lt;br /&gt;We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!&lt;br /&gt;Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;#8217;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.&lt;br /&gt;&lt;br /&gt;Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;#8217;s draw, and 180 of the world&amp;#8217;s best players competing for a big prize pool.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171709685</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gyrwtapwunaa51fvecwu75z1pd</x-trumba:ealink>
-			<category>2024/01/07 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171709685</guid>
-			<xCal:summary>Brisbane International</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-01-06T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-07T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 7, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-07T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-08T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>&lt;p&gt;City Hall will be lit Blue to celebrate the Brisbane International.
-
-We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!
-Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;rsquo;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.
-
-Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;rsquo;s draw, and 180 of the world&amp;rsquo;s best players competing for a big prize pool.
-
-This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt;</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171709685</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane International</title>
-			<description>Sunday, January 7, 2024 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Tropical Dome&amp;#160;will be lit Blue to celebrate the Brisbane International.&lt;br /&gt;&lt;br /&gt;We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!&lt;br /&gt;Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;#8217;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.&lt;br /&gt;&lt;br /&gt;Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;#8217;s draw, and 180 of the world&amp;#8217;s best players competing for a big prize pool.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171709664</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sg5v9z039aju1ra026rpjbpbed</x-trumba:ealink>
-			<category>2024/01/07 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171709664</guid>
-			<xCal:summary>Brisbane International</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2024-01-06T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-07T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 7, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-07T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-08T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>&lt;p&gt;The Tropical Dome&amp;nbsp;will be lit Blue to celebrate the Brisbane International.
-
-We are delighted to welcome the Brisbane International back, bigger and better than ever in 2024!
-Running from December 31 to January 7 with Nine Grand Slam champions, this year&amp;rsquo;s Brisbane International presented by Evie is one of the strongest fields the tournament has ever seen.
-
-Fans can look forward to eight days of high-quality international tennis, an expanded women&amp;rsquo;s draw, and 180 of the world&amp;rsquo;s best players competing for a big prize pool.
-
-This Light Up is organised by: Brisbane Economic Development Agency&lt;/p&gt;</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171709664</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>National Corrections Day</title>
-			<description>Friday, January 19, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue and White to support National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160001</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c6rtb6akx8h19zukps93um72cd</x-trumba:ealink>
-			<category>2024/01/19 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171160001</guid>
-			<xCal:summary>National Corrections Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-01-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, January 19, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Blue and White to support National Corrections Day.
-
-Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.
-
-This Light Up is organised by: Queensland Corrective Services</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171160001</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
 		<item>
 			<title>National Corrections Day</title>
 			<description>Friday, January 19, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Blue and White to support National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
@@ -238,6 +67,58 @@ This Light Up is organised by: Queensland Corrective Services</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>National Corrections Day</title>
+			<description>Friday, January 19, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue and White to support National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160001</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c6rtb6akx8h19zukps93um72cd</x-trumba:ealink>
+			<category>2024/01/19 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/171160001</guid>
+			<xCal:summary>National Corrections Day</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2024-01-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, January 19, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-01-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Blue and White to support National Corrections Day.
+
+Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.
+
+This Light Up is organised by: Queensland Corrective Services</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/171160001</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Australia Day</title>
+			<description>Friday, January 26, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;Celebrating Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160057</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cxxdfdrpbxtspcpruvybuv25yp</x-trumba:ealink>
+			<category>2024/01/26 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/171160057</guid>
+			<xCal:summary>Australia Day</xCal:summary>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:dtstart>2024-01-25T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-26T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, January 26, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-01-26T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-27T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Tropical Dome will be lit Green and Gold to celebrate Australia Day.
+
+Celebrating Australia Day.
+
+This Light Up is organised by: Brisbane City Council</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/171160057</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -294,28 +175,28 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>Australia Day</title>
-			<description>Friday, January 26, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;Celebrating Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160057</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cxxdfdrpbxtspcpruvybuv25yp</x-trumba:ealink>
+			<description>Friday, January 26, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;Celebrating Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160008</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g3u10gphza13s8ar17j787d66x</x-trumba:ealink>
 			<category>2024/01/26 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171160057</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/171160008</guid>
 			<xCal:summary>Australia Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
 			<xCal:dtstart>2024-01-25T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-26T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Friday, January 26, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-01-26T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-27T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Green and Gold to celebrate Australia Day.
+			<xCal:description>The Victoria Bridge will be lit Green and Gold to celebrate Australia Day.
 
 Celebrating Australia Day.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171160057</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/171160008</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -342,32 +223,6 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australia Day</title>
-			<description>Friday, January 26, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;Celebrating Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160008</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g3u10gphza13s8ar17j787d66x</x-trumba:ealink>
-			<category>2024/01/26 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171160008</guid>
-			<xCal:summary>Australia Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-01-25T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-26T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, January 26, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-26T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-27T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Green and Gold to celebrate Australia Day.
-
-Celebrating Australia Day.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171160008</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 	</channel>
