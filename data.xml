@@ -5,94 +5,42 @@
 		<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		<description>This calendar includes scheduled lights ups of Council assets including Story Bridge, Reddacliff Place sculptures, Victoria Bridge, Brisbane City Hall, King George Square, William Jolly Bridge and Tropical Dome at Brisbane Botanic Gardens Mt Coot-tha.</description>
 		<language>en-us</language>
-		<lastBuildDate>20 Dec 2023 02:04:41 GMT</lastBuildDate>
+		<lastBuildDate>15 Jan 2024 04:25:40 GMT</lastBuildDate>
 		<image>
 			<title>Calendar Feed powered by Trumba</title>
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22913//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.22919//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
 		<item>
-			<title>National Corrections Day</title>
-			<description>Friday, January 19, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Blue and White to support National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160007</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8tvvjzgr0vy5g4zzw2m6xtz4xj</x-trumba:ealink>
-			<category>2024/01/19 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171160007</guid>
-			<xCal:summary>National Corrections Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-01-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, January 19, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Blue and White to support National Corrections Day.
-
-Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.
-
-This Light Up is organised by: Queensland Corrective Services</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171160007</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>National Corrections Day</title>
-			<description>Friday, January 19, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliffe Place sculpures will be lit Blue and White to support National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160049</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4x5bh72z3zf1j687aw19pfa70x</x-trumba:ealink>
-			<category>2024/01/19 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171160049</guid>
-			<xCal:summary>National Corrections Day</xCal:summary>
+			<title>Australia Day</title>
+			<description>Friday, January 26, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliffe Place sculpures will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;Celebrating Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160050</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0zu5kxj64tf26j5uwuc5j2d5cm</x-trumba:ealink>
+			<category>2024/01/26 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/171160050</guid>
+			<xCal:summary>Australia Day</xCal:summary>
 			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-01-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, January 19, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-20T00:00:00</x-trumba:localend>
+			<xCal:dtstart>2024-01-25T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-26T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, January 26, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-01-26T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-27T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliffe Place sculpures will be lit Blue and White to support National Corrections Day.
+			<xCal:description>The Reddacliffe Place sculpures will be lit Green and Gold to celebrate Australia Day.
 
-Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.
+Celebrating Australia Day.
 
-This Light Up is organised by: Queensland Corrective Services</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171160049</xCal:uid>
+This Light Up is organised by: Brisbane City Council</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/171160050</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>National Corrections Day</title>
-			<description>Friday, January 19, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue and White to support National Corrections Day.&lt;br /&gt;&lt;br /&gt;Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Corrective Services &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160001</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c6rtb6akx8h19zukps93um72cd</x-trumba:ealink>
-			<category>2024/01/19 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171160001</guid>
-			<xCal:summary>National Corrections Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-01-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, January 19, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Blue and White to support National Corrections Day.
-
-Queensland Corrective Services (QCS) assists crime prevention through the humane containment, supervision and rehabilitation of prisoners and offenders in correctional centres and the community. National Corrections Day is a day to appreciate and celebrate the work of corrections officers on the front line of public safety the length and breadth of Queensland and across the nation.
-
-This Light Up is organised by: Queensland Corrective Services</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171160001</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -123,28 +71,28 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>Australia Day</title>
-			<description>Friday, January 26, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliffe Place sculpures will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;Celebrating Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160050</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0zu5kxj64tf26j5uwuc5j2d5cm</x-trumba:ealink>
+			<description>Friday, January 26, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;Celebrating Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160012</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w1xgvvgvsxj4u2xa86m263bd51</x-trumba:ealink>
 			<category>2024/01/26 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171160050</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/171160012</guid>
 			<xCal:summary>Australia Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
 			<xCal:dtstart>2024-01-25T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-26T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Friday, January 26, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-01-26T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-27T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliffe Place sculpures will be lit Green and Gold to celebrate Australia Day.
+			<xCal:description>City Hall will be lit Green and Gold to celebrate Australia Day.
 
 Celebrating Australia Day.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171160050</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/171160012</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -197,32 +145,6 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australia Day</title>
-			<description>Friday, January 26, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;Celebrating Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d171160012</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w1xgvvgvsxj4u2xa86m263bd51</x-trumba:ealink>
-			<category>2024/01/26 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/171160012</guid>
-			<xCal:summary>Australia Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-01-25T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-01-26T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, January 26, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-01-26T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-01-27T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Green and Gold to celebrate Australia Day.
-
-Celebrating Australia Day.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/171160012</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 	</channel>
