@@ -5,13 +5,13 @@
 		<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		<description>This calendar includes scheduled lights ups of Council assets including Story Bridge, Reddacliff Place sculptures, Victoria Bridge, Brisbane City Hall, King George Square, William Jolly Bridge and Tropical Dome at Brisbane Botanic Gardens Mt Coot-tha.</description>
 		<language>en-us</language>
-		<lastBuildDate>12 Apr 2024 04:21:50 GMT</lastBuildDate>
+		<lastBuildDate>18 Apr 2024 04:20:33 GMT</lastBuildDate>
 		<image>
 			<title>Calendar Feed powered by Trumba</title>
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.23204//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.23217//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
@@ -19,425 +19,25 @@
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
 		<item>
 			<title>Limb Difference&#160;Awareness Month</title>
-			<description>Monday, April 15, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Orange to support Limb Difference Awareness Month.&lt;br /&gt;&lt;br /&gt;Aussie Hands provides support, information and encouragement to people born with a hand difference and their families. Each April is designated Limb Difference Awareness Month and celebrated around the world as a time to recognize those living with limb loss and limb difference.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Aussie Hands Foundation Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820714</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sash2jxjaj6eur4uwd3satkjjn</x-trumba:ealink>
-			<category>2024/04/15 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820714</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/173820712</x-trumba:masterid>
-			<xCal:summary>Limb Difference Awareness Month</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, April 15, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-16T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Orange to support Limb Difference Awareness Month.
-
-Aussie Hands provides support, information and encouragement to people born with a hand difference and their families. Each April is designated Limb Difference Awareness Month and celebrated around the world as a time to recognize those living with limb loss and limb difference.
-
-This Light Up is organised by: The Aussie Hands Foundation Incorporated</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820714</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Limb Difference&#160;Awareness Month</title>
-			<description>Monday, April 15, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Orange to support Limb Difference Awareness Month.&lt;br /&gt;&lt;br /&gt;Aussie Hands provides support, information and encouragement to people born with a hand difference and their families. Each April is designated Limb Difference Awareness Month and celebrated around the world as a time to recognize those living with limb loss and limb difference.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Aussie Hands Foundation Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820884</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c6menpc3y3b9t3zh6rv23exsg8</x-trumba:ealink>
-			<category>2024/04/15 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820884</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/173820882</x-trumba:masterid>
-			<xCal:summary>Limb Difference Awareness Month</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, April 15, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-16T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Orange to support Limb Difference Awareness Month.
-
-Aussie Hands provides support, information and encouragement to people born with a hand difference and their families. Each April is designated Limb Difference Awareness Month and celebrated around the world as a time to recognize those living with limb loss and limb difference.
-
-This Light Up is organised by: The Aussie Hands Foundation Incorporated</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820884</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Limb Difference&#160;Awareness Month</title>
-			<description>Monday, April 15, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Orange to support Limb Difference Awareness Month.&lt;br /&gt;&lt;br /&gt;Aussie Hands provides support, information and encouragement to people born with a hand difference and their families. Each April is designated Limb Difference Awareness Month and celebrated around the world as a time to recognize those living with limb loss and limb difference.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Aussie Hands Foundation Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833570</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m6xat5t8ryxpwjz55m66r0mwru</x-trumba:ealink>
-			<category>2024/04/15 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173833570</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/173833568</x-trumba:masterid>
-			<xCal:summary>Limb Difference Awareness Month</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2024-04-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, April 15, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-16T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Orange to support Limb Difference Awareness Month.
-
-Aussie Hands provides support, information and encouragement to people born with a hand difference and their families. Each April is designated Limb Difference Awareness Month and celebrated around the world as a time to recognize those living with limb loss and limb difference.
-
-This Light Up is organised by: The Aussie Hands Foundation Incorporated</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173833570</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Limb Difference&#160;Awareness Month</title>
-			<description>Monday, April 15, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Orange to support Limb Difference Awareness Month.&lt;br /&gt;&lt;br /&gt;Aussie Hands provides support, information and encouragement to people born with a hand difference and their families. Each April is designated Limb Difference Awareness Month and celebrated around the world as a time to recognize those living with limb loss and limb difference.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Aussie Hands Foundation Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820362</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g5necd1j4072e73e0h788p8jbu</x-trumba:ealink>
-			<category>2024/04/15 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820362</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/173820360</x-trumba:masterid>
+			<description>Sunday, April 21, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Orange to support Limb Difference Awareness Month.&lt;br /&gt;&lt;br /&gt;Aussie Hands provides support, information and encouragement to people born with a hand difference and their families. Each April is designated Limb Difference Awareness Month and celebrated around the world as a time to recognize those living with limb loss and limb difference.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Aussie Hands Foundation Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d174332022</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gav6rpb9d7d1hd2vjz5cfzhvzz</x-trumba:ealink>
+			<category>2024/04/21 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/174332022</guid>
 			<xCal:summary>Limb Difference Awareness Month</xCal:summary>
 			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-04-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, April 15, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-16T00:00:00</x-trumba:localend>
+			<xCal:dtstart>2024-04-20T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-21T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, April 21, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-04-21T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-22T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
 			<xCal:description>The Story Bridge will be lit Orange to support Limb Difference Awareness Month.
 
 Aussie Hands provides support, information and encouragement to people born with a hand difference and their families. Each April is designated Limb Difference Awareness Month and celebrated around the world as a time to recognize those living with limb loss and limb difference.
 
 This Light Up is organised by: The Aussie Hands Foundation Incorporated</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820362</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Voice Day</title>
-			<description>Tuesday, April 16, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820885</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/85b46d60rcyx559xwgexpx16jm</x-trumba:ealink>
-			<category>2024/04/16 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820885</guid>
-			<xCal:summary>World Voice Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 16, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to support World Voice Day.
-
-World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.
-
-This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820885</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Voice Day</title>
-			<description>Tuesday, April 16, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833571</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8cntvh6zmxbhwy3ghtkvxgcj2h</x-trumba:ealink>
-			<category>2024/04/16 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173833571</guid>
-			<xCal:summary>World Voice Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2024-04-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 16, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Red to support World Voice Day.
-
-World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.
-
-This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173833571</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Voice Day</title>
-			<description>Tuesday, April 16, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820715</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mysjr3h58arjbwz66rp19sd3tc</x-trumba:ealink>
-			<category>2024/04/16 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820715</guid>
-			<xCal:summary>World Voice Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 16, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Red to support World Voice Day.
-
-World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.
-
-This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820715</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Voice Day</title>
-			<description>Tuesday, April 16, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820368</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gpbvbs82uh44wd9fmf5ey9220d</x-trumba:ealink>
-			<category>2024/04/16 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820368</guid>
-			<xCal:summary>World Voice Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-04-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 16, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to support World Voice Day.
-
-World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.
-
-This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820368</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Voice Day</title>
-			<description>Tuesday, April 16, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support World Voice Day.&lt;br /&gt;&lt;br /&gt;World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Dysphonia Network Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833588</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cy0dyuvw96a3gxmuwjuk10uks4</x-trumba:ealink>
-			<category>2024/04/16 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173833588</guid>
-			<xCal:summary>World Voice Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-15T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-16T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 16, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red to support World Voice Day.
-
-World Voice Day is traditionally celebrated on 16 April and was founded in Brazil back in 1999 with the aim of drawing attention to the science and phenomenon of voice production. It soon grew to highlight the significant role that the voice plays in every aspect of our daily lives. World Voice Day has gained momentum across the globe, and currently over 50 countries join the annual celebration during the month of April. At no other time in our recent history has the human voice had such power to connect, reassure and support.
-
-This Light Up is organised by: Australian Dysphonia Network Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173833588</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>100 days to Paris 2024 Olympic Games</title>
-			<description>Wednesday, April 17, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Blue, White and Red to celebrate 100 days to Paris 2024 Olympic Games.&lt;br /&gt;&lt;br /&gt;100 days until the start of the Paris 2024 Olympic Games&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833589</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8227zn41jtkn28z86bfgf0fmwp</x-trumba:ealink>
-			<category>2024/04/17 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173833589</guid>
-			<xCal:summary>100 days to Paris 2024 Olympic Games</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, April 17, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Blue, White and Red to celebrate 100 days to Paris 2024 Olympic Games.
-
-100 days until the start of the Paris 2024 Olympic Games
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173833589</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>100 days to Paris 2024 Olympic Games</title>
-			<description>Wednesday, April 17, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to celebrate 100 days to Paris 2024 Olympic Games.&lt;br /&gt;&lt;br /&gt;100 days until the start of the Paris 2024 Olympic Games&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820886</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cyjy65wwp61xv7fga1zg8r8nhx</x-trumba:ealink>
-			<category>2024/04/17 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820886</guid>
-			<xCal:summary>100 days to Paris 2024 Olympic Games</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, April 17, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Blue to celebrate 100 days to Paris 2024 Olympic Games.
-
-100 days until the start of the Paris 2024 Olympic Games
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820886</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>100 days to Paris 2024 Olympic Games</title>
-			<description>Wednesday, April 17, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Blue, White and Red to celebrate 100 days to Paris 2024 Olympic Games.&lt;br /&gt;&lt;br /&gt;100 days until the start of the Paris 2024 Olympic Games&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820716</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wp234fm8499eudtes0272b70n0</x-trumba:ealink>
-			<category>2024/04/17 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820716</guid>
-			<xCal:summary>100 days to Paris 2024 Olympic Games</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, April 17, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Blue, White and Red to celebrate 100 days to Paris 2024 Olympic Games.
-
-100 days until the start of the Paris 2024 Olympic Games
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820716</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Haemophilia Day</title>
-			<description>Wednesday, April 17, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to support World Haemophilia Day.&lt;br /&gt;&lt;br /&gt;World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms, but they all share the ability to support and advocate.&lt;br /&gt;&lt;br /&gt;The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Haemophilia Foundation Queensland Inc. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820369</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/grap7gg1rargjvf6dajst4ph2k</x-trumba:ealink>
-			<category>2024/04/17 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820369</guid>
-			<xCal:summary>World Haemophilia Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-04-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, April 17, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to support World Haemophilia Day.
-
-World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms, but they all share the ability to support and advocate.
-
-The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.
-
-This Light Up is organised by: Haemophilia Foundation Queensland Inc.</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820369</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Haemophilia Day</title>
-			<description>Wednesday, April 17, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Red to support World Haemophilia Day.&lt;br /&gt;&lt;br /&gt;World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms, but they all share the ability to support and advocate.&lt;br /&gt;&lt;br /&gt;The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Haemophilia Foundation Queensland Inc. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833573</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0935t7j98cm0906ab31d128ct7</x-trumba:ealink>
-			<category>2024/04/17 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173833573</guid>
-			<xCal:summary>World Haemophilia Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2024-04-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, April 17, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Red to support World Haemophilia Day.
-
-World Haemophilia Day is the 17th of April and raises awareness about bleeding disorders and the need to build a family of support for those living with this disorder. Families come in many forms, but they all share the ability to support and advocate.
-
-The Haemophilia Foundation Queensland (HFQ) provides representation, health promotion, education and support for people in Queensland affected by inherited bleeding disorders.
-
-This Light Up is organised by: Haemophilia Foundation Queensland Inc.</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173833573</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Pakistan Day Celebrations - Community Event</title>
-			<description>Saturday, April 20, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green and White to celebrate Pakistan Day Celebrations - Community Event.&lt;br /&gt;&lt;br /&gt;The Pakistan Day Celebrations is being held in King George Square.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Pakistan Australian Cultural Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833610</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s93m5cw4xrzpw1t80pb42bmgwx</x-trumba:ealink>
-			<category>2024/04/20 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173833610</guid>
-			<xCal:summary>Pakistan Day Celebrations - Community Event</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, April 20, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Green and White to celebrate Pakistan Day Celebrations - Community Event.
-
-The Pakistan Day Celebrations is being held in King George Square.
-
-This Light Up is organised by: Pakistan Australian Cultural Association</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173833610</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Run Army</title>
-			<description>Saturday, April 20, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, Blue, Yellow and Green to support Run Army.&lt;br /&gt;&lt;br /&gt;Run Army&amp;#8217;s mission is to promotes health, fitness and wellbeing through running support programs and a nation&amp;#8208;wide event; to fulfil our commitment to the wellbeing of our people and the community. We have now moved into a new era, joining forces with Queensland&amp;#8217;s Police, Fire and Ambulance services to create one super&amp;#8208;sized community event. Our combined efforts will unite all those who serve the community in uniform as we collectively strive for health and wellbeing and care for our veterans and their families.&lt;br /&gt;&lt;br /&gt;The event is open to anyone who can walk or run at least 5km and you can participate at the physical events in Brisbane and Townsville or the virtual event anywhere in Australia or the world!&amp;#160;Why not come and join us?&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: NX Sports Community Foundation Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820451</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sw78zdk7t9b1pwt8n9bnx7g82j</x-trumba:ealink>
-			<category>2024/04/20 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820451</guid>
-			<xCal:summary>Run Army</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-04-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, April 20, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red, Blue, Yellow and Green to support Run Army.
-
-Run Army&amp;rsquo;s mission is to promotes health, fitness and wellbeing through running support programs and a nation‐wide event; to fulfil our commitment to the wellbeing of our people and the community. We have now moved into a new era, joining forces with Queensland&amp;rsquo;s Police, Fire and Ambulance services to create one super‐sized community event. Our combined efforts will unite all those who serve the community in uniform as we collectively strive for health and wellbeing and care for our veterans and their families.
-
-The event is open to anyone who can walk or run at least 5km and you can participate at the physical events in Brisbane and Townsville or the virtual event anywhere in Australia or the world!&amp;nbsp;Why not come and join us?
-
-This Light Up is organised by: NX Sports Community Foundation Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820451</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/174332022</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
@@ -523,32 +123,6 @@ This Light Up is organised by: Australian Institute for Intergenerational Practi
 		</item>
 		<item>
 			<title>Global Intergenerational Week</title>
-			<description>Monday, April 22, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Pink to support Global Intergenerational Week.&lt;br /&gt;&lt;br /&gt;Global Intergenerational Week is an annual celebration of bringing older and younger generations together across the world. The event helps to promote intergenerational practice and create awareness of the benefits to the older and younger generations, and society more broadly including improved social and emotional wellbeing, improved sense of purpose and belonging, and breaking down ageist stereotypes.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Institute for Intergenerational Practice Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820887</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ghusx9bae8r2f2trrw3sdv4bz2</x-trumba:ealink>
-			<category>2024/04/22 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820887</guid>
-			<xCal:summary>Global Intergenerational Week</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, April 22, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Pink to support Global Intergenerational Week.
-
-Global Intergenerational Week is an annual celebration of bringing older and younger generations together across the world. The event helps to promote intergenerational practice and create awareness of the benefits to the older and younger generations, and society more broadly including improved social and emotional wellbeing, improved sense of purpose and belonging, and breaking down ageist stereotypes.
-
-This Light Up is organised by: Australian Institute for Intergenerational Practice Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820887</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Global Intergenerational Week</title>
 			<description>Monday, April 22, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Pink to support Global Intergenerational Week.&lt;br /&gt;&lt;br /&gt;Global Intergenerational Week is an annual celebration of bringing older and younger generations together across the world. The event helps to promote intergenerational practice and create awareness of the benefits to the older and younger generations, and society more broadly including improved social and emotional wellbeing, improved sense of purpose and belonging, and breaking down ageist stereotypes.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Institute for Intergenerational Practice Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833574</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4scjw50vud51p5r62ahf2bwzut</x-trumba:ealink>
@@ -574,29 +148,29 @@ This Light Up is organised by: Australian Institute for Intergenerational Practi
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>Lead Up to Anzac Day</title>
-			<description>Tuesday, April 23, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, White and Blue to recognise the Lead Up to Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820470</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cgfmyhtdfxt7sfx9x46w7bfgfd</x-trumba:ealink>
-			<category>2024/04/23 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820470</guid>
-			<xCal:summary>Lead Up to Anzac Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-04-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 23, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-24T00:00:00</x-trumba:localend>
+			<title>Global Intergenerational Week</title>
+			<description>Monday, April 22, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Pink to support Global Intergenerational Week.&lt;br /&gt;&lt;br /&gt;Global Intergenerational Week is an annual celebration of bringing older and younger generations together across the world. The event helps to promote intergenerational practice and create awareness of the benefits to the older and younger generations, and society more broadly including improved social and emotional wellbeing, improved sense of purpose and belonging, and breaking down ageist stereotypes.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Australian Institute for Intergenerational Practice Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820887</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ghusx9bae8r2f2trrw3sdv4bz2</x-trumba:ealink>
+			<category>2024/04/22 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820887</guid>
+			<xCal:summary>Global Intergenerational Week</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2024-04-21T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-22T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, April 22, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-04-22T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-23T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red, White and Blue to recognise the Lead Up to Anzac Day.
+			<xCal:description>The Reddacliff Place sculptures will be lit Pink to support Global Intergenerational Week.
 
-As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.
+Global Intergenerational Week is an annual celebration of bringing older and younger generations together across the world. The event helps to promote intergenerational practice and create awareness of the benefits to the older and younger generations, and society more broadly including improved social and emotional wellbeing, improved sense of purpose and belonging, and breaking down ageist stereotypes.
 
-This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820470</xCal:uid>
+This Light Up is organised by: Australian Institute for Intergenerational Practice Limited</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/173820887</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -652,29 +226,55 @@ This Light Up is organised by: Returned Services League of Australia (Qld Branch
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
+			<title>Lead Up to Anzac Day</title>
+			<description>Tuesday, April 23, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, White and Blue to recognise the Lead Up to Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820470</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cgfmyhtdfxt7sfx9x46w7bfgfd</x-trumba:ealink>
+			<category>2024/04/23 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820470</guid>
+			<xCal:summary>Lead Up to Anzac Day</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2024-04-22T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-23T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, April 23, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-04-23T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-24T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Red, White and Blue to recognise the Lead Up to Anzac Day.
+
+As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.
+
+This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/173820470</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
 			<title>Eve of Anzac Day</title>
-			<description>Wednesday, April 24, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to recognise the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820889</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/me367k9m7tkd9ha0s39373xehd</x-trumba:ealink>
+			<description>Wednesday, April 24, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red, White and Blue to recognise the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833590</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0g25g5k0zf803x5160c9dbfvsd</x-trumba:ealink>
 			<category>2024/04/24 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820889</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173833590</guid>
 			<xCal:summary>Eve of Anzac Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
 			<xCal:dtstart>2024-04-23T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-24T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Wednesday, April 24, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-04-24T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-25T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Red to recognise the Eve of Anzac Day.
+			<xCal:description>City Hall will be lit Red, White and Blue to recognise the Eve of Anzac Day.
 
 As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.
 
 This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820889</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/173833590</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -731,28 +331,88 @@ This Light Up is organised by: Returned Services League of Australia (Qld Branch
 		</item>
 		<item>
 			<title>Eve of Anzac Day</title>
-			<description>Wednesday, April 24, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red, White and Blue to recognise the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833590</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0g25g5k0zf803x5160c9dbfvsd</x-trumba:ealink>
+			<description>Wednesday, April 24, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Red to recognise the Eve of Anzac Day.&lt;br /&gt;&lt;br /&gt;As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820889</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/me367k9m7tkd9ha0s39373xehd</x-trumba:ealink>
 			<category>2024/04/24 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173833590</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820889</guid>
 			<xCal:summary>Eve of Anzac Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
 			<xCal:dtstart>2024-04-23T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-24T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Wednesday, April 24, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-04-24T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-25T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red, White and Blue to recognise the Eve of Anzac Day.
+			<xCal:description>The Reddacliff Place sculptures will be lit Red to recognise the Eve of Anzac Day.
 
 As we prepare to remember the legacy of ANZAC, tonight we honour all members of the ADF who have returned from Overseas service and remember those who did not.
 
 This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173833590</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/173820889</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2024 Anzac Day</title>
+			<description>Thursday, April 25, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to commemorate 2024 Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 108th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9.45am to 12.30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833592</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wfkppu6ppwstkkn44dsentjwd9</x-trumba:ealink>
+			<category>2024/04/25 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173833592</guid>
+			<xCal:summary>2024 Anzac Day</xCal:summary>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:dtstart>2024-04-24T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-25T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, April 25, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-04-25T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-26T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>City Hall will be lit Red to commemorate 2024 Anzac Day.
+
+As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.
+
+The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 108th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and continue to serve our country.
+
+The parade will be held on Adelaide Street, between George Street and Creek Street, from 9.45am to 12.30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.
+
+This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/173833592</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2024 Anzac Day</title>
+			<description>Thursday, April 25, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to commemorate 2024 Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 108th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9.45am to 12.30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820487</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0e97zy4c6n9vu3y4tcutjj1j9f</x-trumba:ealink>
+			<category>2024/04/25 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820487</guid>
+			<xCal:summary>2024 Anzac Day</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2024-04-24T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-25T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, April 25, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-04-25T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-26T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Red to commemorate 2024 Anzac Day.
+
+As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.
+
+The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 108th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and continue to serve our country.
+
+The parade will be held on Adelaide Street, between George Street and Creek Street, from 9.45am to 12.30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.
+
+This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/173820487</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -817,66 +477,6 @@ This Light Up is organised by: Returned Services League of Australia (Qld Branch
 		</item>
 		<item>
 			<title>2024 Anzac Day</title>
-			<description>Thursday, April 25, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red to commemorate 2024 Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 108th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9.45am to 12.30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820487</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0e97zy4c6n9vu3y4tcutjj1j9f</x-trumba:ealink>
-			<category>2024/04/25 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820487</guid>
-			<xCal:summary>2024 Anzac Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-04-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, April 25, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Red to commemorate 2024 Anzac Day.
-
-As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.
-
-The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 108th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and continue to serve our country.
-
-The parade will be held on Adelaide Street, between George Street and Creek Street, from 9.45am to 12.30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.
-
-This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820487</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2024 Anzac Day</title>
-			<description>Thursday, April 25, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to commemorate 2024 Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 108th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9.45am to 12.30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833592</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wfkppu6ppwstkkn44dsentjwd9</x-trumba:ealink>
-			<category>2024/04/25 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173833592</guid>
-			<xCal:summary>2024 Anzac Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, April 25, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red to commemorate 2024 Anzac Day.
-
-As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.
-
-The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 108th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and continue to serve our country.
-
-The parade will be held on Adelaide Street, between George Street and Creek Street, from 9.45am to 12.30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.
-
-This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173833592</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>2024 Anzac Day</title>
 			<description>Thursday, April 25, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Red to commemorate 2024 Anzac Day.&lt;br /&gt;&lt;br /&gt;As the sun rose on 25 April 1915, Australian and New Zealand soldiers rowed towards the shores of Gallipoli and into history. Every year since, Australians have gathered at Dawn Services or services of Remembrance, at parades, or in their driveways each year to remember their legacy and that of all who have followed in their footsteps.&lt;br /&gt;&lt;br /&gt;The first ANZAC Day Parade took place in Brisbane on the 25 April 1916, and this year, the 108th ANZAC Day Parade is an opportunity to celebrate and recognise all those that have served and continue to serve our country.&lt;br /&gt;&lt;br /&gt;The parade will be held on Adelaide Street, between George Street and Creek Street, from 9.45am to 12.30pm and will feature former and current ADF veterans and other groups that contribute to the Parade that make it the commemoration worthy of its heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Returned Services League of Australia (Qld Branch) South Eastern District Limited &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820799</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c2kfcz4357k1mbysb1kvmnymsp</x-trumba:ealink>
@@ -907,28 +507,28 @@ This Light Up is organised by: Returned Services League of Australia (Qld Branch
 		</item>
 		<item>
 			<title>Brisbane Comedy Festival</title>
-			<description>Friday, April 26, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Yellow, Blue and Red to support Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820516</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/chbtnmevtvab0u6t2w2bezaaz9</x-trumba:ealink>
+			<description>Friday, April 26, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Yellow, Blue and Red to support Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820831</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cfw1yt6s7wdp95zcdava9e69z4</x-trumba:ealink>
 			<category>2024/04/26 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820516</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820831</guid>
 			<xCal:summary>Brisbane Comedy Festival</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
 			<xCal:dtstart>2024-04-25T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-26T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Friday, April 26, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-04-26T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-27T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Yellow, Blue and Red to support Brisbane Comedy Festival.
+			<xCal:description>The Victoria Bridge will be lit Yellow, Blue and Red to support Brisbane Comedy Festival.
 
 Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.
 
 This Light Up is organised by: Brisbane Powerhouse</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820516</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/173820831</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -959,28 +559,28 @@ This Light Up is organised by: Brisbane Powerhouse</xCal:description>
 		</item>
 		<item>
 			<title>Brisbane Comedy Festival</title>
-			<description>Friday, April 26, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Yellow, Blue and Red to support Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820831</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cfw1yt6s7wdp95zcdava9e69z4</x-trumba:ealink>
+			<description>Friday, April 26, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Yellow, Blue and Red to support Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820516</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/chbtnmevtvab0u6t2w2bezaaz9</x-trumba:ealink>
 			<category>2024/04/26 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820831</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820516</guid>
 			<xCal:summary>Brisbane Comedy Festival</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
 			<xCal:dtstart>2024-04-25T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-26T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Friday, April 26, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-04-26T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-27T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Yellow, Blue and Red to support Brisbane Comedy Festival.
+			<xCal:description>The Story Bridge will be lit Yellow, Blue and Red to support Brisbane Comedy Festival.
 
 Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.
 
 This Light Up is organised by: Brisbane Powerhouse</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820831</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/173820516</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1041,6 +641,34 @@ This Light Up is organised by: AEIOU Foundation</xCal:description>
 		</item>
 		<item>
 			<title>Autism Awareness Month and AEIOU Family Fun Day</title>
+			<description>Saturday, April 27, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to support Autism Awareness Month and AEIOU Family Fun Day.&lt;br /&gt;&lt;br /&gt;April marks Autism Awareness Month and we are delighted to help raise awareness of AEIOU Foundation&amp;#39;s work to support autistic children and their families. AEIOU once again is joining the global &amp;#8216;Light it up Blue&amp;#8217; campaign, where organisations across the world light iconic structures, to bring our community together and reflect on the unique and shared experiences of families raising a child with autism. We recognise the challenges, which are real. And we celebrate the triumphs, for there are many.&lt;br /&gt;&lt;br /&gt;AEIOU Foundation is a Brisbane&amp;#8208;based not&amp;#8208;for&amp;#8208;profit and charity organisation, leading the way in best&amp;#8208;practice early intervention for Australian children with autism. AEIOU&amp;#39;s unique model integrates specialist therapy, early education and care in a long day care, play&amp;#8208;based environment, operating 9 specialist centres across Queensland.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: AEIOU Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820892</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gb4a4pb9r2kgn83xasrn2tah85</x-trumba:ealink>
+			<category>2024/04/27 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820892</guid>
+			<xCal:summary>Autism Awareness Month and AEIOU Family Fun Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2024-04-26T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-27T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, April 27, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-04-27T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-28T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Blue to support Autism Awareness Month and AEIOU Family Fun Day.
+
+April marks Autism Awareness Month and we are delighted to help raise awareness of AEIOU Foundation&amp;#39;s work to support autistic children and their families. AEIOU once again is joining the global &amp;lsquo;Light it up Blue&amp;rsquo; campaign, where organisations across the world light iconic structures, to bring our community together and reflect on the unique and shared experiences of families raising a child with autism. We recognise the challenges, which are real. And we celebrate the triumphs, for there are many.
+
+AEIOU Foundation is a Brisbane‐based not‐for‐profit and charity organisation, leading the way in best‐practice early intervention for Australian children with autism. AEIOU&amp;#39;s unique model integrates specialist therapy, early education and care in a long day care, play‐based environment, operating 9 specialist centres across Queensland.
+
+This Light Up is organised by: AEIOU Foundation</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/173820892</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Autism Awareness Month and AEIOU Family Fun Day</title>
 			<description>Saturday, April 27, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Blue to support Autism Awareness Month and AEIOU Family Fun Day.&lt;br /&gt;&lt;br /&gt;April marks Autism Awareness Month and we are delighted to help raise awareness of AEIOU Foundation&amp;#39;s work to support autistic children and their families. AEIOU once again is joining the global &amp;#8216;Light it up Blue&amp;#8217; campaign, where organisations across the world light iconic structures, to bring our community together and reflect on the unique and shared experiences of families raising a child with autism. We recognise the challenges, which are real. And we celebrate the triumphs, for there are many.&lt;br /&gt;&lt;br /&gt;AEIOU Foundation is a Brisbane&amp;#8208;based not&amp;#8208;for&amp;#8208;profit and charity organisation, leading the way in best&amp;#8208;practice early intervention for Australian children with autism. AEIOU&amp;#39;s unique model integrates specialist therapy, early education and care in a long day care, play&amp;#8208;based environment, operating 9 specialist centres across Queensland.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: AEIOU Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820832</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ccyzauyu1ztj535v6s4yur8zcm</x-trumba:ealink>
@@ -1068,28 +696,27 @@ This Light Up is organised by: AEIOU Foundation</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>Autism Awareness Month and AEIOU Family Fun Day</title>
-			<description>Saturday, April 27, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Blue to support Autism Awareness Month and AEIOU Family Fun Day.&lt;br /&gt;&lt;br /&gt;April marks Autism Awareness Month and we are delighted to help raise awareness of AEIOU Foundation&amp;#39;s work to support autistic children and their families. AEIOU once again is joining the global &amp;#8216;Light it up Blue&amp;#8217; campaign, where organisations across the world light iconic structures, to bring our community together and reflect on the unique and shared experiences of families raising a child with autism. We recognise the challenges, which are real. And we celebrate the triumphs, for there are many.&lt;br /&gt;&lt;br /&gt;AEIOU Foundation is a Brisbane&amp;#8208;based not&amp;#8208;for&amp;#8208;profit and charity organisation, leading the way in best&amp;#8208;practice early intervention for Australian children with autism. AEIOU&amp;#39;s unique model integrates specialist therapy, early education and care in a long day care, play&amp;#8208;based environment, operating 9 specialist centres across Queensland.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: AEIOU Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820892</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gb4a4pb9r2kgn83xasrn2tah85</x-trumba:ealink>
-			<category>2024/04/27 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820892</guid>
-			<xCal:summary>Autism Awareness Month and AEIOU Family Fun Day</xCal:summary>
+			<title>Brisbane Comedy Festival</title>
+			<description>Sunday, April 28, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820894</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w7a3h1xsa9wz2fw4h0nfbr0fk1</x-trumba:ealink>
+			<category>2024/04/28 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820894</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/173820893</x-trumba:masterid>
+			<xCal:summary>Brisbane Comedy Festival</xCal:summary>
 			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-26T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-27T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, April 27, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-27T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-28T00:00:00</x-trumba:localend>
+			<xCal:dtstart>2024-04-27T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-28T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, April 28, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-04-28T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-29T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Blue to support Autism Awareness Month and AEIOU Family Fun Day.
+			<xCal:description>The Reddacliff Place sculptures will be lit Yellow to support Brisbane Comedy Festival.
 
-April marks Autism Awareness Month and we are delighted to help raise awareness of AEIOU Foundation&amp;#39;s work to support autistic children and their families. AEIOU once again is joining the global &amp;lsquo;Light it up Blue&amp;rsquo; campaign, where organisations across the world light iconic structures, to bring our community together and reflect on the unique and shared experiences of families raising a child with autism. We recognise the challenges, which are real. And we celebrate the triumphs, for there are many.
+Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.
 
-AEIOU Foundation is a Brisbane‐based not‐for‐profit and charity organisation, leading the way in best‐practice early intervention for Australian children with autism. AEIOU&amp;#39;s unique model integrates specialist therapy, early education and care in a long day care, play‐based environment, operating 9 specialist centres across Queensland.
-
-This Light Up is organised by: AEIOU Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820892</xCal:uid>
+This Light Up is organised by: Brisbane Powerhouse</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/173820894</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
@@ -1147,33 +774,6 @@ This Light Up is organised by: Brisbane Powerhouse</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Venue" id="22503" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane Comedy Festival</title>
-			<description>Sunday, April 28, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support Brisbane Comedy Festival.&lt;br /&gt;&lt;br /&gt;Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Powerhouse &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820894</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w7a3h1xsa9wz2fw4h0nfbr0fk1</x-trumba:ealink>
-			<category>2024/04/28 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820894</guid>
-			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/173820893</x-trumba:masterid>
-			<xCal:summary>Brisbane Comedy Festival</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-04-27T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-28T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, April 28, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-28T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-04-29T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Yellow to support Brisbane Comedy Festival.
-
-Brisbane Comedy Festival presented by Brisbane Powerhouse is an annual month-long event showcasing over 135 acts in over 300 events across four venues. Brisbane Comedy Festival is designed to bring a program of entertainment and attraction to Brisbane&amp;#39;s event calendar.
-
-This Light Up is organised by: Brisbane Powerhouse</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820894</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1281,58 +881,30 @@ This Light Up is organised by: Brisbane Powerhouse</xCal:description>
 		</item>
 		<item>
 			<title>Eve of Lyme Disease Awareness Day</title>
-			<description>Tuesday, April 30, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Green to support Eve of Lyme Disease Awareness Day.&lt;br /&gt;&lt;br /&gt;May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.&lt;br /&gt;&lt;br /&gt;The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;#8217;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lyme Disease Assn of Australia Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820896</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gn8t6m6gb72pym0ajycr09wxnb</x-trumba:ealink>
+			<description>Tuesday, April 30, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green to support Eve of Lyme Disease Awareness Day.&lt;br /&gt;&lt;br /&gt;May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.&lt;br /&gt;&lt;br /&gt;The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;#8217;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lyme Disease Assn of Australia Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820836</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/85u4f3z97zecy472n16h0zzb1t</x-trumba:ealink>
 			<category>2024/04/30 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820896</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820836</guid>
 			<xCal:summary>Eve of Lyme Disease Awareness Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
 			<xCal:dtstart>2024-04-29T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-30T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Tuesday, April 30, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-04-30T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-05-01T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Green to support Eve of Lyme Disease Awareness Day.
+			<xCal:description>The Victoria Bridge will be lit Green to support Eve of Lyme Disease Awareness Day.
 
 May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.
 
 The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;rsquo;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.
 
 This Light Up is organised by: Lyme Disease Assn of Australia Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820896</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/173820836</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of Lyme Disease Awareness Day</title>
-			<description>Tuesday, April 30, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Green to support Eve of Lyme Disease Awareness Day.&lt;br /&gt;&lt;br /&gt;May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.&lt;br /&gt;&lt;br /&gt;The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;#8217;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lyme Disease Assn of Australia Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833580</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s1j8ryy93ps7pen8kabkyktss0</x-trumba:ealink>
-			<category>2024/04/30 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173833580</guid>
-			<xCal:summary>Eve of Lyme Disease Awareness Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2024-04-29T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-30T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, April 30, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-04-30T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-05-01T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Green to support Eve of Lyme Disease Awareness Day.
-
-May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.
-
-The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;rsquo;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.
-
-This Light Up is organised by: Lyme Disease Assn of Australia Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173833580</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1365,30 +937,58 @@ This Light Up is organised by: Lyme Disease Assn of Australia Inc</xCal:descript
 		</item>
 		<item>
 			<title>Eve of Lyme Disease Awareness Day</title>
-			<description>Tuesday, April 30, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green to support Eve of Lyme Disease Awareness Day.&lt;br /&gt;&lt;br /&gt;May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.&lt;br /&gt;&lt;br /&gt;The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;#8217;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lyme Disease Assn of Australia Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820836</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/85u4f3z97zecy472n16h0zzb1t</x-trumba:ealink>
+			<description>Tuesday, April 30, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Green to support Eve of Lyme Disease Awareness Day.&lt;br /&gt;&lt;br /&gt;May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.&lt;br /&gt;&lt;br /&gt;The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;#8217;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lyme Disease Assn of Australia Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=1244421&amp;amp;objecttype=19243&amp;amp;seotitle=Tropical-Display-Dome-Brisbane-Botanic-Gardens-Mt-Coot-tha&amp;amp;key=0bb792cf0884de23cee297d0adf34e94&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173833580</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s1j8ryy93ps7pen8kabkyktss0</x-trumba:ealink>
 			<category>2024/04/30 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/173820836</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173833580</guid>
 			<xCal:summary>Eve of Lyme Disease Awareness Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
 			<xCal:dtstart>2024-04-29T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-30T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Tuesday, April 30, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-04-30T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-05-01T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Green to support Eve of Lyme Disease Awareness Day.
+			<xCal:description>The Tropical Dome will be lit Green to support Eve of Lyme Disease Awareness Day.
 
 May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.
 
 The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;rsquo;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.
 
 This Light Up is organised by: Lyme Disease Assn of Australia Inc</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/173820836</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/173833580</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Venue" id="22503" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane Botanic Gardens Mt Coot-tha, 152 Mt Coot-tha Road, Toowong</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Eve of Lyme Disease Awareness Day</title>
+			<description>Tuesday, April 30, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Green to support Eve of Lyme Disease Awareness Day.&lt;br /&gt;&lt;br /&gt;May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.&lt;br /&gt;&lt;br /&gt;The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;#8217;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lyme Disease Assn of Australia Inc &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Venue&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d173820896</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gn8t6m6gb72pym0ajycr09wxnb</x-trumba:ealink>
+			<category>2024/04/30 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/173820896</guid>
+			<xCal:summary>Eve of Lyme Disease Awareness Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2024-04-29T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-04-30T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, April 30, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-04-30T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-05-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliff Place sculptures will be lit Green to support Eve of Lyme Disease Awareness Day.
+
+May 1 is Lyme Disease Awareness Day. May is also Lyme Disease Awareness Month. Lyme Disease is a bacterial infection caused by a spiral shaped bacterium, Borrelia burgdorferi. It is commonly contracted by a tick bite, though other methods and vectors of transmission are possible. The Lyme Disease Association of Australia runs a campaign throughout May to raise awareness and support patients of Lyme and other tick-borne diseases.
+
+The Lyme Disease Association of Australia is a small yet powerful registered charity and Australia&amp;rsquo;s peak patient body. We are committed to achieving universal recognition and equitable treatment for Australian Lyme and associated disease patients. We raise awareness of the potential dangers of tick bites, support patients 24/7, and liaise with parliamentarians to work for positive change regarding access to diagnosis, treatment and financial support.
+
+This Light Up is organised by: Lyme Disease Assn of Australia Inc</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/173820896</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Venue" id="22503" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 	</channel>
