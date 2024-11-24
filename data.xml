@@ -11,712 +11,33 @@
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.23907//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.23920//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
 		<item>
-			<title>World Prematurity Day</title>
-			<description>Sunday, November 17, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Purple to support World Prematurity Day.&lt;br /&gt;&lt;br /&gt;World Prematurity Day is celebrated on 17 November each year to raise awareness of the nearly 15 million babies born premature each year. Worldwide and the nearly 1 million who lose their fight for life. Landmarks around the World are lit up purple on this Day to raise awareness of the plight of babies born premature and to honour the struggles of these babies to survive and thrive. It also raises awareness of parent groups like PIPA (Preterm Infants Parents Association).&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: PIPA (Preterm Infants Parents Association)</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354331</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/83h0rzt0de22wdr2px5smxarx9</x-trumba:ealink>
-			<category>2024/11/17 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354331</guid>
-			<xCal:summary>World Prematurity Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, November 17, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Purple to support World Prematurity Day.
-
-World Prematurity Day is celebrated on 17 November each year to raise awareness of the nearly 15 million babies born premature each year. Worldwide and the nearly 1 million who lose their fight for life. Landmarks around the World are lit up purple on this Day to raise awareness of the plight of babies born premature and to honour the struggles of these babies to survive and thrive. It also raises awareness of parent groups like PIPA (Preterm Infants Parents Association).
-
-This Light Up is organised by: PIPA (Preterm Infants Parents Association)</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354331</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Prematurity Day</title>
-			<description>Sunday, November 17, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Purple to support World Prematurity Day.&lt;br /&gt;&lt;br /&gt;World Prematurity Day is celebrated on 17 November each year to raise awareness of the nearly 15 million babies born premature each year. Worldwide and the nearly 1 million who lose their fight for life. Landmarks around the World are lit up purple on this Day to raise awareness of the plight of babies born premature and to honour the struggles of these babies to survive and thrive. It also raises awareness of parent groups like PIPA (Preterm Infants Parents Association).&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: PIPA (Preterm Infants Parents Association)</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354254</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m276v5a8mpj6avpyf9jxf6y0sc</x-trumba:ealink>
-			<category>2024/11/17 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354254</guid>
-			<xCal:summary>World Prematurity Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2024-11-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, November 17, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Purple to support World Prematurity Day.
-
-World Prematurity Day is celebrated on 17 November each year to raise awareness of the nearly 15 million babies born premature each year. Worldwide and the nearly 1 million who lose their fight for life. Landmarks around the World are lit up purple on this Day to raise awareness of the plight of babies born premature and to honour the struggles of these babies to survive and thrive. It also raises awareness of parent groups like PIPA (Preterm Infants Parents Association).
-
-This Light Up is organised by: PIPA (Preterm Infants Parents Association)</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354254</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Prematurity Day</title>
-			<description>Sunday, November 17, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Purple to support World Prematurity Day.&lt;br /&gt;&lt;br /&gt;World Prematurity Day is celebrated on 17 November each year to raise awareness of the nearly 15 million babies born premature each year. Worldwide and the nearly 1 million who lose their fight for life. Landmarks around the World are lit up purple on this Day to raise awareness of the plight of babies born premature and to honour the struggles of these babies to survive and thrive. It also raises awareness of parent groups like PIPA (Preterm Infants Parents Association).&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: PIPA (Preterm Infants Parents Association)</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354325</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8nd7m17ncp731whzewbuf12u9w</x-trumba:ealink>
-			<category>2024/11/17 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354325</guid>
-			<xCal:summary>World Prematurity Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, November 17, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Purple to support World Prematurity Day.
-
-World Prematurity Day is celebrated on 17 November each year to raise awareness of the nearly 15 million babies born premature each year. Worldwide and the nearly 1 million who lose their fight for life. Landmarks around the World are lit up purple on this Day to raise awareness of the plight of babies born premature and to honour the struggles of these babies to survive and thrive. It also raises awareness of parent groups like PIPA (Preterm Infants Parents Association).
-
-This Light Up is organised by: PIPA (Preterm Infants Parents Association)</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354325</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Prematurity Day</title>
-			<description>Sunday, November 17, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Purple to support World Prematurity Day.&lt;br /&gt;&lt;br /&gt;World Prematurity Day is celebrated on 17 November each year to raise awareness of the nearly 15 million babies born premature each year. Worldwide and the nearly 1 million who lose their fight for life. Landmarks around the World are lit up purple on this Day to raise awareness of the plight of babies born premature and to honour the struggles of these babies to survive and thrive. It also raises awareness of parent groups like PIPA (Preterm Infants Parents Association).&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: PIPA (Preterm Infants Parents Association)</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354332</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4rcp5a9zspb6s14kwcvfbnmmmm</x-trumba:ealink>
-			<category>2024/11/17 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354332</guid>
-			<xCal:summary>World Prematurity Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-11-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, November 17, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Purple to support World Prematurity Day.
-
-World Prematurity Day is celebrated on 17 November each year to raise awareness of the nearly 15 million babies born premature each year. Worldwide and the nearly 1 million who lose their fight for life. Landmarks around the World are lit up purple on this Day to raise awareness of the plight of babies born premature and to honour the struggles of these babies to survive and thrive. It also raises awareness of parent groups like PIPA (Preterm Infants Parents Association).
-
-This Light Up is organised by: PIPA (Preterm Infants Parents Association)</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354332</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>The Lord Mayor's Charitable Trust Christmas Appeal</title>
-			<description>Monday, November 18, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome&amp;#160; will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.&lt;br /&gt;&lt;br /&gt;For more than 70 years, the Trust&amp;#8217;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;#8217;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178353840</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wm3h0gyd2aakttw2j3t47njtpg</x-trumba:ealink>
-			<category>2024/11/18 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178353840</guid>
-			<xCal:summary>The Lord Mayor's Charitable Trust Christmas Appeal</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2024-11-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, November 18, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome&amp;nbsp; will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.
-
-For more than 70 years, the Trust&amp;rsquo;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;rsquo;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.
-
-This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178353840</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>The Lord Mayor's Charitable Trust Christmas Appeal</title>
-			<description>Monday, November 18, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.&lt;br /&gt;&lt;br /&gt;For more than 70 years, the Trust&amp;#8217;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;#8217;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178353695</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wu2hr6fzcvtckn9ea91esmz47n</x-trumba:ealink>
-			<category>2024/11/18 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178353695</guid>
-			<xCal:summary>The Lord Mayor's Charitable Trust Christmas Appeal</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-11-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, November 18, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.
-
-For more than 70 years, the Trust&amp;rsquo;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;rsquo;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.
-
-This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178353695</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>The Lord Mayor's Charitable Trust Christmas Appeal</title>
-			<description>Monday, November 18, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.&lt;br /&gt;&lt;br /&gt;For more than 70 years, the Trust&amp;#8217;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;#8217;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178353836</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0j1evr52zynr9m9251wgr5fdd5</x-trumba:ealink>
-			<category>2024/11/18 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178353836</guid>
-			<xCal:summary>The Lord Mayor's Charitable Trust Christmas Appeal</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, November 18, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.
-
-For more than 70 years, the Trust&amp;rsquo;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;rsquo;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.
-
-This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178353836</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>The Lord Mayor's Charitable Trust Christmas Appeal</title>
-			<description>Monday, November 18, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.&lt;br /&gt;&lt;br /&gt;For more than 70 years, the Trust&amp;#8217;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;#8217;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178353714</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cy6adzdpy76ey5rvj22rvcm5rc</x-trumba:ealink>
-			<category>2024/11/18 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178353714</guid>
-			<xCal:summary>The Lord Mayor's Charitable Trust Christmas Appeal</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, November 18, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.
-
-For more than 70 years, the Trust&amp;rsquo;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;rsquo;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.
-
-This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178353714</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of World Children's Day</title>
-			<description>Tuesday, November 19, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptureswill be lit Teal to support Eve of World Children&amp;#39;s Day.&lt;br /&gt;&lt;br /&gt;Every year, World Children&amp;#39;s Day is celebrated on 20 November, marking the date that the United Nations Convention on the Rights of the Child was adopted. This year is the 35th Anniversary of the United Nations Convention on the Rights of the Child. It is the most widely ratified human rights treaty in history and has helped transform children&amp;#8217;s lives around the world.&lt;br /&gt;&lt;br /&gt;Children&amp;#8217;s Rights Queensland was founded in 1971 and has a rich history of promoting the rights of children and supporting communities. The organisation convenes Children&amp;#39;s Week each year in Queensland and delivers a range of other initiatives that raise awareness of the needs, rights and achievements of children.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Children&amp;#39;s Rights Queensland</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354349</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/886hu98m704y37ykead4fxva5n</x-trumba:ealink>
-			<category>2024/11/19 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354349</guid>
-			<xCal:summary>Eve of World Children's Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, November 19, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptureswill be lit Teal to support Eve of World Children&amp;#39;s Day.
-
-Every year, World Children&amp;#39;s Day is celebrated on 20 November, marking the date that the United Nations Convention on the Rights of the Child was adopted. This year is the 35th Anniversary of the United Nations Convention on the Rights of the Child. It is the most widely ratified human rights treaty in history and has helped transform children&amp;rsquo;s lives around the world.
-
-Children&amp;rsquo;s Rights Queensland was founded in 1971 and has a rich history of promoting the rights of children and supporting communities. The organisation convenes Children&amp;#39;s Week each year in Queensland and delivers a range of other initiatives that raise awareness of the needs, rights and achievements of children.
-
-This Light Up is organised by: Children&amp;#39;s Rights Queensland</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354349</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of World Children's Day</title>
-			<description>Tuesday, November 19, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Teal to support Eve of World Children&amp;#39;s Day.&lt;br /&gt;&lt;br /&gt;Every year, World Children&amp;#39;s Day is celebrated on 20 November, marking the date that the United Nations Convention on the Rights of the Child was adopted. This year is the 35th Anniversary of the United Nations Convention on the Rights of the Child. It is the most widely ratified human rights treaty in history and has helped transform children&amp;#8217;s lives around the world.&lt;br /&gt;&lt;br /&gt;Children&amp;#8217;s Rights Queensland was founded in 1971 and has a rich history of promoting the rights of children and supporting communities. The organisation convenes Children&amp;#39;s Week each year in Queensland and delivers a range of other initiatives that raise awareness of the needs, rights and achievements of children.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Children&amp;#39;s Rights Queensland</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354348</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/czj7ns0f41u40rxpw5ved03n1n</x-trumba:ealink>
-			<category>2024/11/19 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354348</guid>
-			<xCal:summary>Eve of World Children's Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, November 19, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Teal to support Eve of World Children&amp;#39;s Day.
-
-Every year, World Children&amp;#39;s Day is celebrated on 20 November, marking the date that the United Nations Convention on the Rights of the Child was adopted. This year is the 35th Anniversary of the United Nations Convention on the Rights of the Child. It is the most widely ratified human rights treaty in history and has helped transform children&amp;rsquo;s lives around the world.
-
-Children&amp;rsquo;s Rights Queensland was founded in 1971 and has a rich history of promoting the rights of children and supporting communities. The organisation convenes Children&amp;#39;s Week each year in Queensland and delivers a range of other initiatives that raise awareness of the needs, rights and achievements of children.
-
-This Light Up is organised by: Children&amp;#39;s Rights Queensland</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354348</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of World Children's Day</title>
-			<description>Tuesday, November 19, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Teal to support Eve of World Children&amp;#39;s Day.&lt;br /&gt;&lt;br /&gt;Every year, World Children&amp;#39;s Day is celebrated on 20 November, marking the date that the United Nations Convention on the Rights of the Child was adopted. This year is the 35th Anniversary of the United Nations Convention on the Rights of the Child. It is the most widely ratified human rights treaty in history and has helped transform children&amp;#8217;s lives around the world.&lt;br /&gt;&lt;br /&gt;Children&amp;#8217;s Rights Queensland was founded in 1971 and has a rich history of promoting the rights of children and supporting communities. The organisation convenes Children&amp;#39;s Week each year in Queensland and delivers a range of other initiatives that raise awareness of the needs, rights and achievements of children.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Children&amp;#39;s Rights Queensland</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354347</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/80d50pk15x0f2v51yg0akf1c79</x-trumba:ealink>
-			<category>2024/11/19 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354347</guid>
-			<xCal:summary>Eve of World Children's Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-11-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, November 19, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Teal to support Eve of World Children&amp;#39;s Day.
-
-Every year, World Children&amp;#39;s Day is celebrated on 20 November, marking the date that the United Nations Convention on the Rights of the Child was adopted. This year is the 35th Anniversary of the United Nations Convention on the Rights of the Child. It is the most widely ratified human rights treaty in history and has helped transform children&amp;rsquo;s lives around the world.
-
-Children&amp;rsquo;s Rights Queensland was founded in 1971 and has a rich history of promoting the rights of children and supporting communities. The organisation convenes Children&amp;#39;s Week each year in Queensland and delivers a range of other initiatives that raise awareness of the needs, rights and achievements of children.
-
-This Light Up is organised by: Children&amp;#39;s Rights Queensland</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354347</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Greg Normal Medal Dinner (for PGA)</title>
-			<description>Tuesday, November 19, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green to celebrate Greg Normal Medal Dinner (for PGA).&lt;br /&gt;&lt;br /&gt;The Greg Norman Medal, Australian golf&amp;#8217;s most prestigious award, will be awarded at a Gala Dinner held at City Hall.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&lt;br /&gt;&amp;#160;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354350</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4uf7zwtp3vkc6ep8by57gna78b</x-trumba:ealink>
-			<category>2024/11/19 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354350</guid>
-			<xCal:summary>Greg Normal Medal Dinner (for PGA)</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, November 19, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Green to celebrate Greg Normal Medal Dinner (for PGA).
-
-The Greg Norman Medal, Australian golf&amp;rsquo;s most prestigious award, will be awarded at a Gala Dinner held at City Hall.
-
-This Light Up is organised by: Brisbane Economic Development Agency
-&amp;nbsp;</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354350</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Transgender Day of Remembrance</title>
-			<description>Wednesday, November 20, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit White, Blue and Pink to support Transgender Day of Remembrance.&lt;br /&gt;&lt;br /&gt;Many Genders One Voice holds a Transgender Day of Remembrance ceremony every year, as part of other international events that occur during Transgender Awareness Week. This week aims to help raise the visibility of transgender, gender diverse and non-binary people, and address the issues the community faces. The final day of Transgender Awareness Week is Transgender Day of Remembrance (TDOR), an annual observance on 20 November that honours the memory of those whose lives were lost in acts of anti-transgender violence.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Many Genders One Voice</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354352</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s2bv0c8h610snw39fvg2fs5n97</x-trumba:ealink>
-			<category>2024/11/20 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354352</guid>
-			<xCal:summary>Transgender Day of Remembrance</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, November 20, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit White, Blue and Pink to support Transgender Day of Remembrance.
-
-Many Genders One Voice holds a Transgender Day of Remembrance ceremony every year, as part of other international events that occur during Transgender Awareness Week. This week aims to help raise the visibility of transgender, gender diverse and non-binary people, and address the issues the community faces. The final day of Transgender Awareness Week is Transgender Day of Remembrance (TDOR), an annual observance on 20 November that honours the memory of those whose lives were lost in acts of anti-transgender violence.
-
-This Light Up is organised by: Many Genders One Voice</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354352</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Transgender Day of Remembrance</title>
-			<description>Wednesday, November 20, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit all colours&amp;#160; to support Transgender Day of Remembrance.&lt;br /&gt;&lt;br /&gt;Many Genders One Voice holds a Transgender Day of Remembrance ceremony every year, as part of other international events that occur during Transgender Awareness Week. This week aims to help raise the visibility of transgender, gender diverse and non-binary people, and address the issues the community faces. The final day of Transgender Awareness Week is Transgender Day of Remembrance (TDOR), an annual observance on 20 November that honours the memory of those whose lives were lost in acts of anti-transgender violence.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Many Genders One Voice</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354353</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0bfj3s5p530e1aks4p1ysx0jyf</x-trumba:ealink>
-			<category>2024/11/20 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354353</guid>
-			<xCal:summary>Transgender Day of Remembrance</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, November 20, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit all colours&amp;nbsp; to support Transgender Day of Remembrance.
-
-Many Genders One Voice holds a Transgender Day of Remembrance ceremony every year, as part of other international events that occur during Transgender Awareness Week. This week aims to help raise the visibility of transgender, gender diverse and non-binary people, and address the issues the community faces. The final day of Transgender Awareness Week is Transgender Day of Remembrance (TDOR), an annual observance on 20 November that honours the memory of those whose lives were lost in acts of anti-transgender violence.
-
-This Light Up is organised by: Many Genders One Voice</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354353</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Transgender Day of Remembrance</title>
-			<description>Wednesday, November 20, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit White, Blue and Pink to support Transgender Day of Remembrance.&lt;br /&gt;&lt;br /&gt;Many Genders One Voice holds a Transgender Day of Remembrance ceremony every year, as part of other international events that occur during Transgender Awareness Week. This week aims to help raise the visibility of transgender, gender diverse and non-binary people, and address the issues the community faces. The final day of Transgender Awareness Week is Transgender Day of Remembrance (TDOR), an annual observance on 20 November that honours the memory of those whose lives were lost in acts of anti-transgender violence.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Many Genders One Voice</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354351</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/grnrgesg5s59gc7b9z9p540g5b</x-trumba:ealink>
-			<category>2024/11/20 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354351</guid>
-			<xCal:summary>Transgender Day of Remembrance</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-11-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, November 20, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit White, Blue and Pink to support Transgender Day of Remembrance.
-
-Many Genders One Voice holds a Transgender Day of Remembrance ceremony every year, as part of other international events that occur during Transgender Awareness Week. This week aims to help raise the visibility of transgender, gender diverse and non-binary people, and address the issues the community faces. The final day of Transgender Awareness Week is Transgender Day of Remembrance (TDOR), an annual observance on 20 November that honours the memory of those whose lives were lost in acts of anti-transgender violence.
-
-This Light Up is organised by: Many Genders One Voice</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354351</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Pancreatic Cancer Awareness Month</title>
-			<description>Thursday, November 21, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Purple to support Pancreatic Cancer Awareness Month.&lt;br /&gt;&lt;br /&gt;November 21 is World Pancreatic Cancer Awareness Day. Pancreatic cancer is currently responsible for the 3rd highest amount of cancer deaths, and thus is an extremely deadly cancer in Australia. On this day, we are asking venues across the globe to turn purple to honour those lost to pancreatic cancer or currently fighting, as well as raise important awareness for this disease. With only a 12.5% chance of survival beyond 5 years.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Pankind</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354368</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g7bhxa141uz1abzb4h62cakreh</x-trumba:ealink>
-			<category>2024/11/21 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354368</guid>
-			<xCal:summary>Pancreatic Cancer Awareness Month</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-11-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, November 21, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Purple to support Pancreatic Cancer Awareness Month.
-
-November 21 is World Pancreatic Cancer Awareness Day. Pancreatic cancer is currently responsible for the 3rd highest amount of cancer deaths, and thus is an extremely deadly cancer in Australia. On this day, we are asking venues across the globe to turn purple to honour those lost to pancreatic cancer or currently fighting, as well as raise important awareness for this disease. With only a 12.5% chance of survival beyond 5 years.
-
-This Light Up is organised by: Pankind</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354368</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Pancreatic Cancer Awareness Month</title>
-			<description>Thursday, November 21, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Purple to support Pancreatic Cancer Awareness Month.&lt;br /&gt;&lt;br /&gt;November 21 is World Pancreatic Cancer Awareness Day. Pancreatic cancer is currently responsible for the 3rd highest amount of cancer deaths, and thus is an extremely deadly cancer in Australia. On this day, we are asking venues across the globe to turn purple to honour those lost to pancreatic cancer or currently fighting, as well as raise important awareness for this disease. With only a 12.5% chance of survival beyond 5 years.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Pankind</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354371</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sg26dj5k2xthp77vu9n3jzeu72</x-trumba:ealink>
-			<category>2024/11/21 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354371</guid>
-			<xCal:summary>Pancreatic Cancer Awareness Month</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, November 21, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Purple to support Pancreatic Cancer Awareness Month.
-
-November 21 is World Pancreatic Cancer Awareness Day. Pancreatic cancer is currently responsible for the 3rd highest amount of cancer deaths, and thus is an extremely deadly cancer in Australia. On this day, we are asking venues across the globe to turn purple to honour those lost to pancreatic cancer or currently fighting, as well as raise important awareness for this disease. With only a 12.5% chance of survival beyond 5 years.
-
-This Light Up is organised by: Pankind</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354371</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Pancreatic Cancer Awareness Month</title>
-			<description>Thursday, November 21, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Purple to support Pancreatic Cancer Awareness Month.&lt;br /&gt;&lt;br /&gt;November 21 is World Pancreatic Cancer Awareness Day. Pancreatic cancer is currently responsible for the 3rd highest amount of cancer deaths, and thus is an extremely deadly cancer in Australia. On this day, we are asking venues across the globe to turn purple to honour those lost to pancreatic cancer or currently fighting, as well as raise important awareness for this disease. With only a 12.5% chance of survival beyond 5 years.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Pankind</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354370</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8vvucyatddczc907w0vkfuvan1</x-trumba:ealink>
-			<category>2024/11/21 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354370</guid>
-			<xCal:summary>Pancreatic Cancer Awareness Month</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, November 21, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Purple to support Pancreatic Cancer Awareness Month.
-
-November 21 is World Pancreatic Cancer Awareness Day. Pancreatic cancer is currently responsible for the 3rd highest amount of cancer deaths, and thus is an extremely deadly cancer in Australia. On this day, we are asking venues across the globe to turn purple to honour those lost to pancreatic cancer or currently fighting, as well as raise important awareness for this disease. With only a 12.5% chance of survival beyond 5 years.
-
-This Light Up is organised by: Pankind</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354370</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Pancreatic Cancer Awareness Month</title>
-			<description>Thursday, November 21, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Purple to support Pancreatic Cancer Awareness Month.&lt;br /&gt;&lt;br /&gt;November 21 is World Pancreatic Cancer Awareness Day. Pancreatic cancer is currently responsible for the 3rd highest amount of cancer deaths, and thus is an extremely deadly cancer in Australia. On this day, we are asking venues across the globe to turn purple to honour those lost to pancreatic cancer or currently fighting, as well as raise important awareness for this disease. With only a 12.5% chance of survival beyond 5 years.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Pankind</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354369</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8b9gsk7nuaanx2a0veyd864nwm</x-trumba:ealink>
-			<category>2024/11/21 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354369</guid>
-			<xCal:summary>Pancreatic Cancer Awareness Month</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-20T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-21T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, November 21, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-21T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-22T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Purple to support Pancreatic Cancer Awareness Month.
-
-November 21 is World Pancreatic Cancer Awareness Day. Pancreatic cancer is currently responsible for the 3rd highest amount of cancer deaths, and thus is an extremely deadly cancer in Australia. On this day, we are asking venues across the globe to turn purple to honour those lost to pancreatic cancer or currently fighting, as well as raise important awareness for this disease. With only a 12.5% chance of survival beyond 5 years.
-
-This Light Up is organised by: Pankind</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354369</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian PGA Jarrod Lyle Yellow Day</title>
-			<description>Friday, November 22, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Yellow to support Australian PGA Jarrod Lyle Yellow Day.&lt;br /&gt;&lt;br /&gt;On the 22nd of November, the Australian PGA Championship will be helping to raise much-needed funds for Challenge, a charity devoted to supporting children and families living with cancer. Professionals and all involved in the tournament will be #DoingItForJarrod and wearing yellow in memory of Jarrod Lyle, an ambassador for Challenge and the ongoing dedication of this charity. &amp;#160;#DoingitforJarrod&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354373</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gsypbn647zmny28d6fvr8pd9w6</x-trumba:ealink>
-			<category>2024/11/22 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354373</guid>
-			<xCal:summary>Australian PGA Jarrod Lyle Yellow Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-11-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, November 22, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Yellow to support Australian PGA Jarrod Lyle Yellow Day.
-
-On the 22nd of November, the Australian PGA Championship will be helping to raise much-needed funds for Challenge, a charity devoted to supporting children and families living with cancer. Professionals and all involved in the tournament will be #DoingItForJarrod and wearing yellow in memory of Jarrod Lyle, an ambassador for Challenge and the ongoing dedication of this charity. &amp;nbsp;#DoingitforJarrod
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354373</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian PGA Jarrod Lyle Yellow Day</title>
-			<description>Friday, November 22, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Yellow to support Australian PGA Jarrod Lyle Yellow Day.&lt;br /&gt;&lt;br /&gt;On the 22nd of November, the Australian PGA Championship will be helping to raise much-needed funds for Challenge, a charity devoted to supporting children and families living with cancer. Professionals and all involved in the tournament will be #DoingItForJarrod and wearing yellow in memory of Jarrod Lyle, an ambassador for Challenge and the ongoing dedication of this charity. &amp;#160;#DoingitforJarrod&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354376</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8tdf41td1u0m9am6sv3gjagga7</x-trumba:ealink>
-			<category>2024/11/22 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354376</guid>
-			<xCal:summary>Australian PGA Jarrod Lyle Yellow Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, November 22, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptures will be lit Yellow to support Australian PGA Jarrod Lyle Yellow Day.
-
-On the 22nd of November, the Australian PGA Championship will be helping to raise much-needed funds for Challenge, a charity devoted to supporting children and families living with cancer. Professionals and all involved in the tournament will be #DoingItForJarrod and wearing yellow in memory of Jarrod Lyle, an ambassador for Challenge and the ongoing dedication of this charity. &amp;nbsp;#DoingitforJarrod
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354376</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian PGA Jarrod Lyle Yellow Day</title>
-			<description>Friday, November 22, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Yellow to support Australian PGA Jarrod Lyle Yellow Day.&lt;br /&gt;&lt;br /&gt;On the 22nd of November, the Australian PGA Championship will be helping to raise much-needed funds for Challenge, a charity devoted to supporting children and families living with cancer. Professionals and all involved in the tournament will be #DoingItForJarrod and wearing yellow in memory of Jarrod Lyle, an ambassador for Challenge and the ongoing dedication of this charity. &amp;#160;#DoingitforJarrod&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354374</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s1yw88cr3xnb3k0rnbm56wy5h5</x-trumba:ealink>
-			<category>2024/11/22 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354374</guid>
-			<xCal:summary>Australian PGA Jarrod Lyle Yellow Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, November 22, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Yellow to support Australian PGA Jarrod Lyle Yellow Day.
-
-On the 22nd of November, the Australian PGA Championship will be helping to raise much-needed funds for Challenge, a charity devoted to supporting children and families living with cancer. Professionals and all involved in the tournament will be #DoingItForJarrod and wearing yellow in memory of Jarrod Lyle, an ambassador for Challenge and the ongoing dedication of this charity. &amp;nbsp;#DoingitforJarrod
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354374</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian PGA Jarrod Lyle Yellow Day</title>
-			<description>Friday, November 22, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome will be lit Yellow to support Australian PGA Jarrod Lyle Yellow Day.&lt;br /&gt;&lt;br /&gt;On the 22nd of November, the Australian PGA Championship will be helping to raise much-needed funds for Challenge, a charity devoted to supporting children and families living with cancer. Professionals and all involved in the tournament will be #DoingItForJarrod and wearing yellow in memory of Jarrod Lyle, an ambassador for Challenge and the ongoing dedication of this charity. &amp;#160;#DoingitforJarrod&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354255</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8u1w7h1ybe3z7afk85a5gb5kn3</x-trumba:ealink>
-			<category>2024/11/22 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354255</guid>
-			<xCal:summary>Australian PGA Jarrod Lyle Yellow Day</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
-			<xCal:dtstart>2024-11-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, November 22, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome will be lit Yellow to support Australian PGA Jarrod Lyle Yellow Day.
-
-On the 22nd of November, the Australian PGA Championship will be helping to raise much-needed funds for Challenge, a charity devoted to supporting children and families living with cancer. Professionals and all involved in the tournament will be #DoingItForJarrod and wearing yellow in memory of Jarrod Lyle, an ambassador for Challenge and the ongoing dedication of this charity. &amp;nbsp;#DoingitforJarrod
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354255</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>National Day of the Republic of Lebanon</title>
-			<description>Friday, November 22, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red, White and Green to support the National Day of the Republic of Lebanon.&lt;br /&gt;&lt;br /&gt;The 22nd of November 2024 marks the 81st National Day of the Republic of Lebanon, an important day for the Lebanese community here in Brisbane.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Honorary Consul of Lebanon, Anthony Torbey</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354375</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/su2x8sst81u0h1pvn95ck8yyg0</x-trumba:ealink>
-			<category>2024/11/22 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354375</guid>
-			<xCal:summary>National Day of the Republic of Lebanon</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, November 22, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red, White and Green to support the National Day of the Republic of Lebanon.
-
-The 22nd of November 2024 marks the 81st National Day of the Republic of Lebanon, an important day for the Lebanese community here in Brisbane.
-
-This Light Up is organised by: Honorary Consul of Lebanon, Anthony Torbey</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354375</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
 			<title>Australian PGA</title>
-			<description>Saturday, November 23, 2024 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Blue and Green to celebrate Australian PGA.&lt;br /&gt;&lt;br /&gt;The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354377</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/43195wtx1re57ee2udsm2g0as3</x-trumba:ealink>
-			<category>2024/11/23 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354377</guid>
-			<xCal:summary>Australian PGA</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2024-11-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, November 23, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Story Bridge will be lit Blue and Green to celebrate Australian PGA.
-
-The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354377</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian PGA</title>
-			<description>Saturday, November 23, 2024 &lt;br/&gt;&lt;br/&gt;&amp;#160;The Victoria Bridge will be lit Blue and Green to celebrate Australian PGA.&lt;br /&gt;&lt;br /&gt;The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354392</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8hn5fyy0vesyjp8r7txv18njc3</x-trumba:ealink>
-			<category>2024/11/23 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354392</guid>
-			<xCal:summary>Australian PGA</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, November 23, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>&amp;nbsp;The Victoria Bridge will be lit Blue and Green to celebrate Australian PGA.
-
-The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354392</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian PGA</title>
-			<description>Saturday, November 23, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptureswill be lit Blue to celebrate Australian PGA.&lt;br /&gt;&lt;br /&gt;The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354394</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m0ude5k9ff5py1tbsny81nycw2</x-trumba:ealink>
-			<category>2024/11/23 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354394</guid>
-			<xCal:summary>Australian PGA</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, November 23, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptureswill be lit Blue to celebrate Australian PGA.
-
-The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354394</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian PGA</title>
-			<description>Saturday, November 23, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Blue and Green to celebrate Australian PGA.&lt;br /&gt;&lt;br /&gt;The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354393</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cp8rmht4whdpd0en4m54sd611g</x-trumba:ealink>
-			<category>2024/11/23 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354393</guid>
-			<xCal:summary>Australian PGA</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-22T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-23T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, November 23, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-23T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-24T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Blue and Green to celebrate Australian PGA.
-
-The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354393</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian PGA</title>
-			<description>Sunday, November 24, 2024 &lt;br/&gt;&lt;br/&gt;&amp;#160;The Victoria Bridge will be lit Blue&amp;#160;and Green to celebrate Australian PGA.&lt;br /&gt;&lt;br /&gt;The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354396</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mp2w8cabysv3b9xyyvj7emrs6p</x-trumba:ealink>
+			<description>Sunday, November 24, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptureswill be lit Blue to celebrate Australian PGA.&lt;br /&gt;&lt;br /&gt;The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354398</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sj49y8xcjfgem4ffn3c15a4pf7</x-trumba:ealink>
 			<category>2024/11/24 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354396</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/178354398</guid>
 			<xCal:summary>Australian PGA</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
 			<xCal:dtstart>2024-11-23T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-24T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Sunday, November 24, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-11-24T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-25T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>&amp;nbsp;The Victoria Bridge will be lit Blue&amp;nbsp;and Green to celebrate Australian PGA.
+			<xCal:description>The Reddacliff Place sculptureswill be lit Blue to celebrate Australian PGA.
 
 The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.
 
 This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354396</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/178354398</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -746,6 +67,30 @@ This Light Up is organised by: Brisbane Economic Development Agency</xCal:descri
 		</item>
 		<item>
 			<title>Australian PGA</title>
+			<description>Sunday, November 24, 2024 &lt;br/&gt;&lt;br/&gt;&amp;#160;The Victoria Bridge will be lit Blue&amp;#160;and Green to celebrate Australian PGA.&lt;br /&gt;&lt;br /&gt;The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354396</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mp2w8cabysv3b9xyyvj7emrs6p</x-trumba:ealink>
+			<category>2024/11/24 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/178354396</guid>
+			<xCal:summary>Australian PGA</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2024-11-23T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-24T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, November 24, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-11-24T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-25T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>&amp;nbsp;The Victoria Bridge will be lit Blue&amp;nbsp;and Green to celebrate Australian PGA.
+
+The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.
+
+This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/178354396</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Australian PGA</title>
 			<description>Sunday, November 24, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Blue and Greento celebrate Australian PGA.&lt;br /&gt;&lt;br /&gt;The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354397</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w2vf2s5yrtaan6nrvjbckengw5</x-trumba:ealink>
@@ -765,30 +110,6 @@ The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the 
 
 This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
 			<xCal:uid>http://uid.trumba.com/event/178354397</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Australian PGA</title>
-			<description>Sunday, November 24, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptureswill be lit Blue to celebrate Australian PGA.&lt;br /&gt;&lt;br /&gt;The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354398</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sj49y8xcjfgem4ffn3c15a4pf7</x-trumba:ealink>
-			<category>2024/11/24 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354398</guid>
-			<xCal:summary>Australian PGA</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-23T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-24T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, November 24, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-24T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-25T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Reddacliff Place sculptureswill be lit Blue to celebrate Australian PGA.
-
-The Australian PGA Championship is the PGA&amp;#39;s flagship event. One of the feature events on the ISPS HANDA PGA Tour of Australasia, the time-honoured tournament will be played in Brisbane. Some of the world&amp;#39;s best golfers are expected to converge on the event to complete for the Joe Kirkwood Cup - Australian professional golf&amp;#39;s oldest trophy.
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354398</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -842,30 +163,6 @@ This Light Up is organised by: Zonta Club of Brisbane East Inc.</xCal:descriptio
 		</item>
 		<item>
 			<title>Zonta Says No to Violence Against Women</title>
-			<description>Monday, November 25, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Orange to support Zonta Says No to Violence Against Women.&lt;br /&gt;&lt;br /&gt;The Zonta Club of Brisbane East Inc, a member of Zonta International, raises funds annually to support local projects towards a common goal &amp;#8211; to improve the legal, educational, economic, political and health status of women. The Club is not for profit, run by volunteers and all funds raised are directed to projects, such as educational scholarships for women, support to women refuges and support services such as Brisbane Domestic Violence Service. Annually the Zonta Clubs of Brisbane conduct a campaign, under the Banner Zonta Says No to Violence against Women, to raise awareness of domestic and family violence in the community and to support women and their children when they find themselves in such a situation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Zonta Club of Brisbane East Inc.</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354401</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s57rbftz555e70pckzv9sbpxk9</x-trumba:ealink>
-			<category>2024/11/25 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178354401</guid>
-			<xCal:summary>Zonta Says No to Violence Against Women</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2024-11-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, November 25, 2024</x-trumba:formatteddatetime>
-			<xCal:dtend>2024-11-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Orange to support Zonta Says No to Violence Against Women.
-
-The Zonta Club of Brisbane East Inc, a member of Zonta International, raises funds annually to support local projects towards a common goal &amp;ndash; to improve the legal, educational, economic, political and health status of women. The Club is not for profit, run by volunteers and all funds raised are directed to projects, such as educational scholarships for women, support to women refuges and support services such as Brisbane Domestic Violence Service. Annually the Zonta Clubs of Brisbane conduct a campaign, under the Banner Zonta Says No to Violence against Women, to raise awareness of domestic and family violence in the community and to support women and their children when they find themselves in such a situation.
-
-This Light Up is organised by: Zonta Club of Brisbane East Inc.</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178354401</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Zonta Says No to Violence Against Women</title>
 			<description>Monday, November 25, 2024 &lt;br/&gt;&lt;br/&gt;The Reddacliff Place sculptures will be lit Orange to support Zonta Says No to Violence Against Women.&lt;br /&gt;&lt;br /&gt;The Zonta Club of Brisbane East Inc, a member of Zonta International, raises funds annually to support local projects towards a common goal &amp;#8211; to improve the legal, educational, economic, political and health status of women. The Club is not for profit, run by volunteers and all funds raised are directed to projects, such as educational scholarships for women, support to women refuges and support services such as Brisbane Domestic Violence Service. Annually the Zonta Clubs of Brisbane conduct a campaign, under the Banner Zonta Says No to Violence against Women, to raise awareness of domestic and family violence in the community and to support women and their children when they find themselves in such a situation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Zonta Club of Brisbane East Inc.</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354402</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/srp35c3z9tu0mz8f9fa4ejgwjb</x-trumba:ealink>
@@ -885,6 +182,30 @@ The Zonta Club of Brisbane East Inc, a member of Zonta International, raises fun
 
 This Light Up is organised by: Zonta Club of Brisbane East Inc.</xCal:description>
 			<xCal:uid>http://uid.trumba.com/event/178354402</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Zonta Says No to Violence Against Women</title>
+			<description>Monday, November 25, 2024 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Orange to support Zonta Says No to Violence Against Women.&lt;br /&gt;&lt;br /&gt;The Zonta Club of Brisbane East Inc, a member of Zonta International, raises funds annually to support local projects towards a common goal &amp;#8211; to improve the legal, educational, economic, political and health status of women. The Club is not for profit, run by volunteers and all funds raised are directed to projects, such as educational scholarships for women, support to women refuges and support services such as Brisbane Domestic Violence Service. Annually the Zonta Clubs of Brisbane conduct a campaign, under the Banner Zonta Says No to Violence against Women, to raise awareness of domestic and family violence in the community and to support women and their children when they find themselves in such a situation.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Zonta Club of Brisbane East Inc.</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178354401</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s57rbftz555e70pckzv9sbpxk9</x-trumba:ealink>
+			<category>2024/11/25 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/178354401</guid>
+			<xCal:summary>Zonta Says No to Violence Against Women</xCal:summary>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:dtstart>2024-11-24T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-25T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, November 25, 2024</x-trumba:formatteddatetime>
+			<xCal:dtend>2024-11-25T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-26T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>City Hall will be lit Orange to support Zonta Says No to Violence Against Women.
+
+The Zonta Club of Brisbane East Inc, a member of Zonta International, raises funds annually to support local projects towards a common goal &amp;ndash; to improve the legal, educational, economic, political and health status of women. The Club is not for profit, run by volunteers and all funds raised are directed to projects, such as educational scholarships for women, support to women refuges and support services such as Brisbane Domestic Violence Service. Annually the Zonta Clubs of Brisbane conduct a campaign, under the Banner Zonta Says No to Violence against Women, to raise awareness of domestic and family violence in the community and to support women and their children when they find themselves in such a situation.
+
+This Light Up is organised by: Zonta Club of Brisbane East Inc.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/178354401</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -914,25 +235,25 @@ This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</xCal:descr
 		</item>
 		<item>
 			<title>The Lord Mayor's Charitable Trust Christmas Appeal</title>
-			<description>Tuesday, November 26, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome&amp;#160; will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.&lt;br /&gt;&lt;br /&gt;For more than 70 years, the Trust&amp;#8217;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;#8217;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178353841</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wp4n8ggn2v6wd65ujrzs3w41g6</x-trumba:ealink>
+			<description>Tuesday, November 26, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.&lt;br /&gt;&lt;br /&gt;For more than 70 years, the Trust&amp;#8217;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;#8217;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178353794</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/we92x6maj5m09xmrd2s11gju95</x-trumba:ealink>
 			<category>2024/11/26 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178353841</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/178353794</guid>
 			<xCal:summary>The Lord Mayor's Charitable Trust Christmas Appeal</xCal:summary>
-			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
 			<xCal:dtstart>2024-11-25T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-26T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Tuesday, November 26, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-11-26T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-27T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Tropical Dome&amp;nbsp; will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.
+			<xCal:description>The Victoria Bridge will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.
 
 For more than 70 years, the Trust&amp;rsquo;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;rsquo;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.
 
 This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178353841</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/178353794</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -962,25 +283,25 @@ This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</xCal:descr
 		</item>
 		<item>
 			<title>The Lord Mayor's Charitable Trust Christmas Appeal</title>
-			<description>Tuesday, November 26, 2024 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.&lt;br /&gt;&lt;br /&gt;For more than 70 years, the Trust&amp;#8217;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;#8217;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178353794</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/we92x6maj5m09xmrd2s11gju95</x-trumba:ealink>
+			<description>Tuesday, November 26, 2024 &lt;br/&gt;&lt;br/&gt;The Tropical Dome&amp;#160; will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.&lt;br /&gt;&lt;br /&gt;For more than 70 years, the Trust&amp;#8217;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;#8217;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d178353841</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wp4n8ggn2v6wd65ujrzs3w41g6</x-trumba:ealink>
 			<category>2024/11/26 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/178353794</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/178353841</guid>
 			<xCal:summary>The Lord Mayor's Charitable Trust Christmas Appeal</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Tropical Display Dome, Brisbane Botanic Gardens Mt Coot-tha</xCal:location>
 			<xCal:dtstart>2024-11-25T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2024-11-26T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Tuesday, November 26, 2024</x-trumba:formatteddatetime>
 			<xCal:dtend>2024-11-26T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2024-11-27T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>The Victoria Bridge will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.
+			<xCal:description>The Tropical Dome&amp;nbsp; will be lit Purple to support The Lord Mayor&amp;#39;s Charitable Trust Christmas Appeal.
 
 For more than 70 years, the Trust&amp;rsquo;s fundraising efforts have improved the wellbeing of the most marginalised, vulnerable members of the Brisbane community. Established in the 1960s, the Trust continues the good work of the Lord Mayor whose mission is to improve the liveability of all Brisbane residents. The Trust&amp;rsquo;s work supports charities that assist people suffering from disability, homelessness, mental illness, drug or alcohol addiction, trauma, abuse or neglect. The annual Christmas Appeal raises funds for our Christmas grants where charities apply to help vital community services and grassroots initiatives, particularly at Christmas.
 
 This Light Up is organised by: Lord Mayor&amp;#39;s Charitable Trust</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/178353794</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/178353841</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
