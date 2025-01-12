@@ -5,10 +5,10 @@
 		<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		<description>This calendar includes scheduled lights ups of Council assets including Story Bridge, Reddacliff Place sculptures, Victoria Bridge, Brisbane City Hall, King George Square, William Jolly Bridge and Tropical Dome at Brisbane Botanic Gardens Mt Coot-tha.</description>
 		<language>en-us</language>
-		<lastBuildDate>30 Dec 2024 01:06:27 GMT</lastBuildDate>
+		<lastBuildDate>09 Jan 2025 01:37:39 GMT</lastBuildDate>
 		<image>
 			<title>Calendar Feed powered by Trumba</title>
-			<url>http://wqww.eventactions.com/images/trumba_logo_sm.gif</url>
+			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		</image>
 		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.24102//EN</xCal:prodid>
@@ -19,19 +19,19 @@
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
 		<item>
 			<title>Australia Day</title>
-			<description>Sunday, January 26, 2025, 2&amp;nbsp;&amp;ndash;&amp;nbsp;3pm &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<description>Sunday, 26 January 2025 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179417248</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cjgk6heapf5psdf0njf8deyza1</x-trumba:ealink>
 			<category>2025/01/26 (Sun)</category>
 			<guid isPermaLink="false">http://uid.trumba.com/event/179417248</guid>
 			<xCal:summary>Australia Day</xCal:summary>
 			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-01-26T04:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T14:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 26, 2025, 2 - 3pm</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-01-26T05:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-26T15:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:dtstart>2025-01-25T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, 26 January 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-01-26T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-27T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
 			<xCal:description>The Story Bridge will be lit Green and Gold to celebrate Australia Day.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
@@ -44,19 +44,19 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>Australia Day</title>
-			<description>Sunday, January 26, 2025, 2&amp;nbsp;&amp;ndash;&amp;nbsp;3pm &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<description>Sunday, 26 January 2025 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179417316</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/814ydmbeb6d6a58yz6k3s2x7ca</x-trumba:ealink>
 			<category>2025/01/26 (Sun)</category>
 			<guid isPermaLink="false">http://uid.trumba.com/event/179417316</guid>
 			<xCal:summary>Australia Day</xCal:summary>
 			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-01-26T04:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T14:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 26, 2025, 2 - 3pm</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-01-26T05:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-26T15:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:dtstart>2025-01-25T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, 26 January 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-01-26T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-27T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
 			<xCal:description>The Victoria Bridge will be lit Green and Gold to celebrate Australia Day.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
@@ -69,19 +69,19 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>Australia Day</title>
-			<description>Sunday, January 26, 2025, 2&amp;nbsp;&amp;ndash;&amp;nbsp;3pm &lt;br/&gt;&lt;br/&gt;The Kangaroo Point Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<description>Sunday, 26 January 2025 &lt;br/&gt;&lt;br/&gt;The Kangaroo Point Bridge will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179417204</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wjypexy2br19f2u0dzt6kwgg5s</x-trumba:ealink>
 			<category>2025/01/26 (Sun)</category>
 			<guid isPermaLink="false">http://uid.trumba.com/event/179417204</guid>
 			<xCal:summary>Australia Day</xCal:summary>
 			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-01-26T04:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T14:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 26, 2025, 2 - 3pm</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-01-26T05:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-26T15:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:dtstart>2025-01-25T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, 26 January 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-01-26T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-27T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
 			<xCal:description>The Kangaroo Point Bridge will be lit Green and Gold to celebrate Australia Day.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
@@ -94,19 +94,19 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>Australia Day</title>
-			<description>Sunday, January 26, 2025, 2&amp;nbsp;&amp;ndash;&amp;nbsp;3pm &lt;br/&gt;&lt;br/&gt;The Reddacliffe Place sculptures will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<description>Sunday, 26 January 2025 &lt;br/&gt;&lt;br/&gt;The Reddacliffe Place sculptures will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179417202</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4ga45frnuj4xhuuxhcfggcwrnf</x-trumba:ealink>
 			<category>2025/01/26 (Sun)</category>
 			<guid isPermaLink="false">http://uid.trumba.com/event/179417202</guid>
 			<xCal:summary>Australia Day</xCal:summary>
 			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-01-26T04:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T14:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 26, 2025, 2 - 3pm</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-01-26T05:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-26T15:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:dtstart>2025-01-25T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, 26 January 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-01-26T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-27T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
 			<xCal:description>The Reddacliffe Place sculptures will be lit Green and Gold to celebrate Australia Day.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
@@ -119,19 +119,19 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 		</item>
 		<item>
 			<title>Australia Day</title>
-			<description>Sunday, January 26, 2025, 2&amp;nbsp;&amp;ndash;&amp;nbsp;3pm &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.468957,153.023526(Brisbane+City+Hall%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
+			<description>Sunday, 26 January 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green and Gold to celebrate Australia Day.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179417203</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gcy1shwyhjdjnutk5s5h80d592</x-trumba:ealink>
 			<category>2025/01/26 (Sun)</category>
 			<guid isPermaLink="false">http://uid.trumba.com/event/179417203</guid>
 			<xCal:summary>Australia Day</xCal:summary>
 			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-01-26T04:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T14:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, January 26, 2025, 2 - 3pm</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-01-26T05:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-26T15:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:dtstart>2025-01-25T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-26T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, 26 January 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-01-26T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-01-27T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
 			<xCal:description>City Hall will be lit Green and Gold to celebrate Australia Day.
 
 This Light Up is organised by: Brisbane City Council</xCal:description>
@@ -140,6 +140,108 @@ This Light Up is organised by: Brisbane City Council</xCal:description>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>BrisAsia 2025</title>
+			<description>Friday, 31 January 2025 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Victoria Bridge will be lit Pink, Blue and Red to celebrate BrisAsia 2025.&lt;/p&gt;&lt;p&gt;BrisAsia Festival returns from Friday 31 January to Sunday 9 February 2025 to celebrate Lunar New Year and the transformative energy of the Year of the Snake.&lt;br /&gt;Symbolising wisdom, rebirth and new beginnings, this festival will ignite your imagination with an extraordinary fusion of tradition and modern creativity.&lt;br /&gt;Brisbane will come to life with more than 25 activities and events over 10 spectacular days filled with unmissable street performances, awe-inspiring contemporary art, K-Pop showcases, street cars, live music and dazzling displays of traditional and contemporary dance.&lt;/p&gt;&lt;p&gt;This Light Up is organised by: Brisbane City Council&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179662665</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/czzm52g136jz0w0hnezdrmxrnt</x-trumba:ealink>
+			<category>2025/01/31 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179662665</guid>
+			<xCal:summary>BrisAsia 2025</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-01-30T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-31T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, 31 January 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-01-31T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>&lt;p&gt;The Victoria Bridge will be lit Pink, Blue and Red to celebrate BrisAsia 2025.&lt;/p&gt;&lt;p&gt;BrisAsia Festival returns from Friday 31 January to Sunday 9 February 2025 to celebrate Lunar New Year and the transformative energy of the Year of the Snake.
+Symbolising wisdom, rebirth and new beginnings, this festival will ignite your imagination with an extraordinary fusion of tradition and modern creativity.
+Brisbane will come to life with more than 25 activities and events over 10 spectacular days filled with unmissable street performances, awe-inspiring contemporary art, K-Pop showcases, street cars, live music and dazzling displays of traditional and contemporary dance.&lt;/p&gt;&lt;p&gt;This Light Up is organised by: Brisbane City Council&lt;/p&gt;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179662665</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>BrisAsia 2025</title>
+			<description>Friday, 31 January 2025 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Kangaroo Point&amp;#160;Bridge will be lit Pink, Blue and Red to celebrate BrisAsia 2025.&lt;/p&gt;&lt;p&gt;BrisAsia Festival returns from Friday 31 January to Sunday 9 February 2025 to celebrate Lunar New Year and the transformative energy of the Year of the Snake.&lt;br /&gt;Symbolising wisdom, rebirth and new beginnings, this festival will ignite your imagination with an extraordinary fusion of tradition and modern creativity.&lt;br /&gt;Brisbane will come to life with more than 25 activities and events over 10 spectacular days filled with unmissable street performances, awe-inspiring contemporary art, K-Pop showcases, street cars, live music and dazzling displays of traditional and contemporary dance.&lt;/p&gt;&lt;p&gt;This Light Up is organised by: Brisbane City Council&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179662664</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mvvhem8u6akrcs1uw8s2npz91m</x-trumba:ealink>
+			<category>2025/01/31 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179662664</guid>
+			<xCal:summary>BrisAsia 2025</xCal:summary>
+			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-01-30T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-31T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, 31 January 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-01-31T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>&lt;p&gt;The Kangaroo Point&amp;nbsp;Bridge will be lit Pink, Blue and Red to celebrate BrisAsia 2025.&lt;/p&gt;&lt;p&gt;BrisAsia Festival returns from Friday 31 January to Sunday 9 February 2025 to celebrate Lunar New Year and the transformative energy of the Year of the Snake.
+Symbolising wisdom, rebirth and new beginnings, this festival will ignite your imagination with an extraordinary fusion of tradition and modern creativity.
+Brisbane will come to life with more than 25 activities and events over 10 spectacular days filled with unmissable street performances, awe-inspiring contemporary art, K-Pop showcases, street cars, live music and dazzling displays of traditional and contemporary dance.&lt;/p&gt;&lt;p&gt;This Light Up is organised by: Brisbane City Council&lt;/p&gt;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179662664</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>BrisAsia 2025</title>
+			<description>Friday, 31 January 2025 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Story Bridge will be lit Pink, Blue and Red to celebrate BrisAsia 2025.&lt;/p&gt;&lt;p&gt;BrisAsia Festival returns from Friday 31 January to Sunday 9 February 2025 to celebrate Lunar New Year and the transformative energy of the Year of the Snake.&lt;br /&gt;Symbolising wisdom, rebirth and new beginnings, this festival will ignite your imagination with an extraordinary fusion of tradition and modern creativity.&lt;br /&gt;Brisbane will come to life with more than 25 activities and events over 10 spectacular days filled with unmissable street performances, awe-inspiring contemporary art, K-Pop showcases, street cars, live music and dazzling displays of traditional and contemporary dance.&lt;/p&gt;&lt;p&gt;This Light Up is organised by: Brisbane City Council&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179662662</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s2f9xmznpxmt7028tsv4rjt5yd</x-trumba:ealink>
+			<category>2025/01/31 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179662662</guid>
+			<xCal:summary>BrisAsia 2025</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-01-30T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-01-31T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, 31 January 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-01-31T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>&lt;p&gt;The Story Bridge will be lit Pink, Blue and Red to celebrate BrisAsia 2025.&lt;/p&gt;&lt;p&gt;BrisAsia Festival returns from Friday 31 January to Sunday 9 February 2025 to celebrate Lunar New Year and the transformative energy of the Year of the Snake.
+Symbolising wisdom, rebirth and new beginnings, this festival will ignite your imagination with an extraordinary fusion of tradition and modern creativity.
+Brisbane will come to life with more than 25 activities and events over 10 spectacular days filled with unmissable street performances, awe-inspiring contemporary art, K-Pop showcases, street cars, live music and dazzling displays of traditional and contemporary dance.&lt;/p&gt;&lt;p&gt;This Light Up is organised by: Brisbane City Council&lt;/p&gt;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179662662</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Navy Week</title>
+			<description>Saturday, 1 March 2025 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Red, white and Blue to celebrate Navy Week.&lt;br /&gt;&lt;br /&gt;Over seven days, events will be held to showcase Navy&amp;#39;s importance to the Australian way of life. The Navy will continue to celebrate its tradition and heritage and we encourage all members of the broader community to come along to the Navy week celebrations. Navy Week is an excellent opportunity for our people who serve, their families and the broader Australian community to come together and recognise the critical role our Navy plays in safeguarding the prosperity of our nation, on and under the sea.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Royal Australian Navy &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179718855</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/srwvn7czjs3frnw2j14k79bfgy</x-trumba:ealink>
+			<category>2025/03/01 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179718855</guid>
+			<xCal:summary>Navy Week</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-02-28T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-01T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, 1 March 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-03-01T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-02T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Red, white and Blue to celebrate Navy Week.
+
+Over seven days, events will be held to showcase Navy&amp;#39;s importance to the Australian way of life. The Navy will continue to celebrate its tradition and heritage and we encourage all members of the broader community to come along to the Navy week celebrations. Navy Week is an excellent opportunity for our people who serve, their families and the broader Australian community to come together and recognise the critical role our Navy plays in safeguarding the prosperity of our nation, on and under the sea.
+
+This Light Up is organised by: Royal Australian Navy</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179718855</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 	</channel>
