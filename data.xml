@@ -5,13 +5,13 @@
 		<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		<description>This calendar includes scheduled lights ups of Council assets including Story Bridge, Reddacliff Place sculptures, Victoria Bridge, Brisbane City Hall, King George Square, William Jolly Bridge and Tropical Dome at Brisbane Botanic Gardens Mt Coot-tha.</description>
 		<language>en-us</language>
-		<lastBuildDate>13 Jan 2025 03:30:22 GMT</lastBuildDate>
+		<lastBuildDate>24 Jan 2025 03:56:43 GMT</lastBuildDate>
 		<image>
 			<title>Calendar Feed powered by Trumba</title>
-			<url>http://www.webmail.eventactions.com/images/trumba_logo_sm.gif</url>
+			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.24115//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.24122//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
@@ -807,6 +807,195 @@ This Light Up is organsied by: Brisbane City Council</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
+			<title>2025 Oceania Track Championships</title>
+			<description>Tuesday, 11 February 2025 &lt;br/&gt;&lt;br/&gt;The Reddacliee Place sculptures will be lit Blue to support the&amp;#160;2025 Oceania Track Championships.&amp;#160;&lt;br /&gt;&lt;br /&gt;The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;#160;&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180136699</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/893y2r0w7vgfad80211ak88trn</x-trumba:ealink>
+			<category>2025/02/11 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180136699</guid>
+			<xCal:summary>2025 Oceania Track Championships</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-10T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-11T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, 11 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-11T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-12T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Reddacliee Place sculptures will be lit Blue to support the&amp;nbsp;2025 Oceania Track Championships.&amp;nbsp;
+
+The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;nbsp;
+
+This Light Up is organised by: Brisbane Economic Development Agency&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180136699</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2025 Oceania Track Championships</title>
+			<description>Tuesday, 11 February 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Blue and White to support the&amp;#160;2025 Oceania Track Championships.&amp;#160;&lt;br /&gt;&lt;br /&gt;The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;#160;&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180136700</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s5rkkesev0jmaz5m469wgkktx2</x-trumba:ealink>
+			<category>2025/02/11 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180136700</guid>
+			<xCal:summary>2025 Oceania Track Championships</xCal:summary>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-10T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-11T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, 11 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-11T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-12T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>City Hall will be lit Blue and White to support the&amp;nbsp;2025 Oceania Track Championships.&amp;nbsp;
+
+The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;nbsp;
+
+This Light Up is organised by: Brisbane Economic Development Agency&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180136700</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2025 Oceania Track Championships</title>
+			<description>Tuesday, 11 February 2025 &lt;br/&gt;&lt;br/&gt;The Victoria Bridge will be lit Dark Blue, Light Blue and White to support the&amp;#160;2025 Oceania Track Championships.&amp;#160;&lt;br /&gt;&lt;br /&gt;The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;#160;&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180136696</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/495p3km3jns2j6g9r623ku6jcc</x-trumba:ealink>
+			<category>2025/02/11 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180136696</guid>
+			<xCal:summary>2025 Oceania Track Championships</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-10T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-11T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, 11 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-11T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-12T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Victoria Bridge will be lit Dark Blue, Light Blue and White to support the&amp;nbsp;2025 Oceania Track Championships.&amp;nbsp;
+
+The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;nbsp;
+
+This Light Up is organised by: Brisbane Economic Development Agency&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180136696</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2025 Oceania Track Championships</title>
+			<description>Tuesday, 11 February 2025 &lt;br/&gt;&lt;br/&gt;The Kangaroo Point&amp;#160; Bridge will be lit Dark Blue, Light Blue and White to support the&amp;#160;2025 Oceania Track Championships.&amp;#160;&lt;br /&gt;&lt;br /&gt;The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;#160;&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180136698</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8p8ts671n0yzzdgj51kakmsgrn</x-trumba:ealink>
+			<category>2025/02/11 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180136698</guid>
+			<xCal:summary>2025 Oceania Track Championships</xCal:summary>
+			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-02-10T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-11T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, 11 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-11T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-12T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Kangaroo Point&amp;nbsp; Bridge will be lit Dark Blue, Light Blue and White to support the&amp;nbsp;2025 Oceania Track Championships.&amp;nbsp;
+
+The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;nbsp;
+
+This Light Up is organised by: Brisbane Economic Development Agency&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180136698</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>2025 Oceania Track Championships</title>
+			<description>Tuesday, 11 February 2025 &lt;br/&gt;&lt;br/&gt;The Story Bridge will be lit Dark Blue, Light Blue and White to support the&amp;#160;2025 Oceania Track Championships.&amp;#160;&lt;br /&gt;&lt;br /&gt;The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;#160;&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency&amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180136695</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8hye3b12k3tyz24mkf8kp26k25</x-trumba:ealink>
+			<category>2025/02/11 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180136695</guid>
+			<xCal:summary>2025 Oceania Track Championships</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-02-10T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-11T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, 11 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-11T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-12T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Story Bridge will be lit Dark Blue, Light Blue and White to support the&amp;nbsp;2025 Oceania Track Championships.&amp;nbsp;
+
+The Oceania Cycling Championships is a collection of cycling competitions across several cycling disciplines held annually to determine the Oceania champion in each respective discipline. The Championships bring together the top track cyclists from Australia and New Zealand in a competition for individual and national honours.&amp;nbsp;
+
+This Light Up is organised by: Brisbane Economic Development Agency&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180136695</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Queensland Firebirds First Season Game</title>
+			<description>Wednesday, 12 February 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Purple to support Queensland Firebirds First Season Game&lt;br /&gt;&lt;br /&gt;The first match of the Firebirds 2025 is near and Netball Queensland would like to use this opportunity to inspire women and girls, encourage physical activity and family connection, as Brisbane to gets behind the Firebirds chase for the Super Netball Title. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Netball Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701701</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4sehdf48bmxtsvwr8vugy2cdzg</x-trumba:ealink>
+			<category>2025/02/12 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701701</guid>
+			<xCal:summary>Queensland Firebirds First Season Game</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-11T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-12T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 12 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-12T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-13T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Reddacliff Place sculptures  will be lit Purple to support Queensland Firebirds First Season Game
+
+The first match of the Firebirds 2025 is near and Netball Queensland would like to use this opportunity to inspire women and girls, encourage physical activity and family connection, as Brisbane to gets behind the Firebirds chase for the Super Netball Title. 
+
+This Light Up is organsied by: Netball Queensland</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701701</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Queensland Firebirds First Season Game</title>
+			<description>Wednesday, 12 February 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Purple to support Queensland Firebirds First Season Game&lt;br /&gt;&lt;br /&gt;The first match of the Firebirds 2025 is near and Netball Queensland would like to use this opportunity to inspire women and girls, encourage physical activity and family connection, as Brisbane to gets behind the Firebirds chase for the Super Netball Title. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Netball Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701700</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4dvf2zy46b640ygbsbjzv8c8xs</x-trumba:ealink>
+			<category>2025/02/12 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701700</guid>
+			<xCal:summary>Queensland Firebirds First Season Game</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-02-11T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-12T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 12 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-12T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-13T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Story Bridge will be lit Purple to support Queensland Firebirds First Season Game
+
+The first match of the Firebirds 2025 is near and Netball Queensland would like to use this opportunity to inspire women and girls, encourage physical activity and family connection, as Brisbane to gets behind the Firebirds chase for the Super Netball Title. 
+
+This Light Up is organsied by: Netball Queensland</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701700</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
 			<title>Queensland Firebirds First Season Game</title>
 			<description>Wednesday, 12 February 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Purple to support Queensland Firebirds First Season Game&lt;br /&gt;&lt;br /&gt;The first match of the Firebirds 2025 is near and Netball Queensland would like to use this opportunity to inspire women and girls, encourage physical activity and family connection, as Brisbane to gets behind the Firebirds chase for the Super Netball Title.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Netball Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701702</link>
@@ -861,84 +1050,30 @@ This Light Up is organsied by: Netball Queensland</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>Queensland Firebirds First Season Game</title>
-			<description>Wednesday, 12 February 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Purple to support Queensland Firebirds First Season Game&lt;br /&gt;&lt;br /&gt;The first match of the Firebirds 2025 is near and Netball Queensland would like to use this opportunity to inspire women and girls, encourage physical activity and family connection, as Brisbane to gets behind the Firebirds chase for the Super Netball Title. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Netball Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701700</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4dvf2zy46b640ygbsbjzv8c8xs</x-trumba:ealink>
-			<category>2025/02/12 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701700</guid>
-			<xCal:summary>Queensland Firebirds First Season Game</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-02-11T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-12T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, 12 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-13T00:00:00</x-trumba:localend>
+			<title>CAUTHE 2025 Conference Dinner</title>
+			<description>Thursday, 13 February 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Purple to support the CAUTHE 2025 Conference Dinner.&amp;#160;&lt;br /&gt;&lt;br /&gt;Evvent in City Hall&lt;br /&gt;&lt;br /&gt;This Light Up is organised by:&amp;#160;Leishman Associates Pty Ltd&amp;#160; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180136823</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0ueg7ctcscf8pr8yvy447d9m4x</x-trumba:ealink>
+			<category>2025/02/13 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180136823</guid>
+			<xCal:summary>CAUTHE 2025 Conference Dinner</xCal:summary>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-12T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-13T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, 13 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-13T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-14T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Purple to support Queensland Firebirds First Season Game
+			<xCal:description>City Hall will be lit Purple to support the CAUTHE 2025 Conference Dinner.&amp;nbsp;
 
-The first match of the Firebirds 2025 is near and Netball Queensland would like to use this opportunity to inspire women and girls, encourage physical activity and family connection, as Brisbane to gets behind the Firebirds chase for the Super Netball Title. 
+Evvent in City Hall
 
-This Light Up is organsied by: Netball Queensland</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701700</xCal:uid>
+This Light Up is organised by:&amp;nbsp;Leishman Associates Pty Ltd&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180136823</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Queensland Firebirds First Season Game</title>
-			<description>Wednesday, 12 February 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Purple to support Queensland Firebirds First Season Game&lt;br /&gt;&lt;br /&gt;The first match of the Firebirds 2025 is near and Netball Queensland would like to use this opportunity to inspire women and girls, encourage physical activity and family connection, as Brisbane to gets behind the Firebirds chase for the Super Netball Title. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Netball Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701701</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4sehdf48bmxtsvwr8vugy2cdzg</x-trumba:ealink>
-			<category>2025/02/12 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701701</guid>
-			<xCal:summary>Queensland Firebirds First Season Game</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-02-11T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-12T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, 12 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Purple to support Queensland Firebirds First Season Game
-
-The first match of the Firebirds 2025 is near and Netball Queensland would like to use this opportunity to inspire women and girls, encourage physical activity and family connection, as Brisbane to gets behind the Firebirds chase for the Super Netball Title. 
-
-This Light Up is organsied by: Netball Queensland</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701701</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>SweetHeart Day</title>
-			<description>Friday, 14 February 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Red and Blue to support SweetHeart Day&lt;br /&gt;&lt;br /&gt;The annual SweetHeart Day campaign coincides with Valentines Day, raising awareness and funds to help HeartKids achieve it&amp;#39;s objective to support, educate and advocate for those affected by CoHD throughout their lives. With 250,000 Australians impacted by childhood onset heart disease (CoHD), including nearly 6,400 with rheumatic heart disease (RHD) in regional and remote areas, HeartKids plays a critical role in providing lifelong support, resources, and advocacy.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Heartkids Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701706</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/84p2hawjsg1gt8cny3ua1md1f8</x-trumba:ealink>
-			<category>2025/02/14 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701706</guid>
-			<xCal:summary>SweetHeart Day</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-02-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 14 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Red and Blue to support SweetHeart Day
-
-The annual SweetHeart Day campaign coincides with Valentines Day, raising awareness and funds to help HeartKids achieve it&amp;#39;s objective to support, educate and advocate for those affected by CoHD throughout their lives. With 250,000 Australians impacted by childhood onset heart disease (CoHD), including nearly 6,400 with rheumatic heart disease (RHD) in regional and remote areas, HeartKids plays a critical role in providing lifelong support, resources, and advocacy.
-
-This Light Up is organsied by: Heartkids Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701706</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -965,6 +1100,33 @@ This Light Up is organsied by: Heartkids Ltd</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>SweetHeart Day</title>
+			<description>Friday, 14 February 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Red and Blue to support SweetHeart Day&lt;br /&gt;&lt;br /&gt;The annual SweetHeart Day campaign coincides with Valentines Day, raising awareness and funds to help HeartKids achieve it&amp;#39;s objective to support, educate and advocate for those affected by CoHD throughout their lives. With 250,000 Australians impacted by childhood onset heart disease (CoHD), including nearly 6,400 with rheumatic heart disease (RHD) in regional and remote areas, HeartKids plays a critical role in providing lifelong support, resources, and advocacy. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Heartkids Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701705</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cmkvcg54jvswnpcp5mr4eh5rbg</x-trumba:ealink>
+			<category>2025/02/14 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701705</guid>
+			<xCal:summary>SweetHeart Day</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-13T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-14T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, 14 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-14T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-15T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Victoria Bridge will be lit Red and Blue to support SweetHeart Day
+
+The annual SweetHeart Day campaign coincides with Valentines Day, raising awareness and funds to help HeartKids achieve it's objective to support, educate and advocate for those affected by CoHD throughout their lives. With 250,000 Australians impacted by childhood onset heart disease (CoHD), including nearly 6,400 with rheumatic heart disease (RHD) in regional and remote areas, HeartKids plays a critical role in providing lifelong support, resources, and advocacy. 
+
+This Light Up is organsied by: Heartkids Ltd</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701705</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -997,25 +1159,71 @@ This Light Up is organsied by: Heartkids Ltd</xCal:description>
 		</item>
 		<item>
 			<title>SweetHeart Day</title>
-			<description>Friday, 14 February 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Red and Blue to support SweetHeart Day&lt;br /&gt;&lt;br /&gt;The annual SweetHeart Day campaign coincides with Valentines Day, raising awareness and funds to help HeartKids achieve it&amp;#39;s objective to support, educate and advocate for those affected by CoHD throughout their lives. With 250,000 Australians impacted by childhood onset heart disease (CoHD), including nearly 6,400 with rheumatic heart disease (RHD) in regional and remote areas, HeartKids plays a critical role in providing lifelong support, resources, and advocacy. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Heartkids Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701705</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cmkvcg54jvswnpcp5mr4eh5rbg</x-trumba:ealink>
+			<description>Friday, 14 February 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Red and Blue to support SweetHeart Day&lt;br /&gt;&lt;br /&gt;The annual SweetHeart Day campaign coincides with Valentines Day, raising awareness and funds to help HeartKids achieve it&amp;#39;s objective to support, educate and advocate for those affected by CoHD throughout their lives. With 250,000 Australians impacted by childhood onset heart disease (CoHD), including nearly 6,400 with rheumatic heart disease (RHD) in regional and remote areas, HeartKids plays a critical role in providing lifelong support, resources, and advocacy.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Heartkids Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701706</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/84p2hawjsg1gt8cny3ua1md1f8</x-trumba:ealink>
 			<category>2025/02/14 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701705</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701706</guid>
 			<xCal:summary>SweetHeart Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
 			<xCal:dtstart>2025-02-13T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-14T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Friday, 14 February 2025</x-trumba:formatteddatetime>
 			<xCal:dtend>2025-02-14T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-15T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Red and Blue to support SweetHeart Day
+			<xCal:description>Kangaroo Point Bridge will be lit Red and Blue to support SweetHeart Day
 
-The annual SweetHeart Day campaign coincides with Valentines Day, raising awareness and funds to help HeartKids achieve it's objective to support, educate and advocate for those affected by CoHD throughout their lives. With 250,000 Australians impacted by childhood onset heart disease (CoHD), including nearly 6,400 with rheumatic heart disease (RHD) in regional and remote areas, HeartKids plays a critical role in providing lifelong support, resources, and advocacy. 
+The annual SweetHeart Day campaign coincides with Valentines Day, raising awareness and funds to help HeartKids achieve it&amp;#39;s objective to support, educate and advocate for those affected by CoHD throughout their lives. With 250,000 Australians impacted by childhood onset heart disease (CoHD), including nearly 6,400 with rheumatic heart disease (RHD) in regional and remote areas, HeartKids plays a critical role in providing lifelong support, resources, and advocacy.
 
 This Light Up is organsied by: Heartkids Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701705</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/179701706</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>International Angelman Day</title>
+			<description>Saturday, 15 February 2025 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Story Bridge will be lit Blue to support the International Angelman Day.&lt;/p&gt;&lt;p&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of the rare disease Angelman syndrome.&lt;/p&gt;This Light Up is organised by: Angelman Syndrome Association Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180137010</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/87s6948ghzwd3wgw0tcvpnbstt</x-trumba:ealink>
+			<category>2025/02/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180137010</guid>
+			<xCal:summary>International Angelman Day</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-02-14T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-15T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, 15 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-15T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-16T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>&lt;p&gt;The Story Bridge will be lit Blue to support the International Angelman Day.&lt;/p&gt;&lt;p&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of the rare disease Angelman syndrome.&lt;/p&gt;This Light Up is organised by: Angelman Syndrome Association Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180137010</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>International Angelman Day</title>
+			<description>Saturday, 15 February 2025 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Victoria&amp;#160;Bridge will be lit Blue to support the International Angelman Day.&lt;/p&gt;&lt;p&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of the rare disease Angelman syndrome.&lt;/p&gt;This Light Up is organised by: Angelman Syndrome Association Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180137011</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8enepmcptjt8zbhje06gzt4ksu</x-trumba:ealink>
+			<category>2025/02/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180137011</guid>
+			<xCal:summary>International Angelman Day</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-14T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-15T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, 15 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-15T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-16T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>&lt;p&gt;The Victoria&amp;nbsp;Bridge will be lit Blue to support the International Angelman Day.&lt;/p&gt;&lt;p&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of the rare disease Angelman syndrome.&lt;/p&gt;This Light Up is organised by: Angelman Syndrome Association Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180137011</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
@@ -1023,56 +1231,75 @@ This Light Up is organsied by: Heartkids Ltd</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
+			<title>International Angelman Day</title>
+			<description>Saturday, 15 February 2025 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Reddacliff Place sculpture&amp;#160;will be lit Blue to support the International Angelman Day.&lt;/p&gt;&lt;p&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of the rare disease Angelman syndrome.&lt;/p&gt;This Light Up is organised by: Angelman Syndrome Association Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180137013</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gvz7y3p5g2h7vjhavm1as4w142</x-trumba:ealink>
+			<category>2025/02/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180137013</guid>
+			<xCal:summary>International Angelman Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-14T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-15T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, 15 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-15T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-16T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>&lt;p&gt;The Reddacliff Place sculpture&amp;nbsp;will be lit Blue to support the International Angelman Day.&lt;/p&gt;&lt;p&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of the rare disease Angelman syndrome.&lt;/p&gt;This Light Up is organised by: Angelman Syndrome Association Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180137013</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>International Angelman Day</title>
+			<description>Saturday, 15 February 2025 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;The Kangaroo Point Bridge will be lit Blue to support the International Angelman Day.&lt;/p&gt;&lt;p&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of the rare disease Angelman syndrome.&lt;/p&gt;This Light Up is organised by: Angelman Syndrome Association Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180137012</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sgtty9xeg2ju5mdgr2g04srzm9</x-trumba:ealink>
+			<category>2025/02/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180137012</guid>
+			<xCal:summary>International Angelman Day</xCal:summary>
+			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-02-14T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-15T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, 15 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-15T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-16T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>&lt;p&gt;The Kangaroo Point Bridge will be lit Blue to support the International Angelman Day.&lt;/p&gt;&lt;p&gt;Angelman Syndrome Association Australia (ASAA) is the key advocacy and peer support organisation for people living with Angelman syndrome and their families in Australia. We exist to support, inform, educate, network, promote research, and to advocate for families affected by Angelman syndrome. International Angelman Day occurs on 15 February and is the key national and global event to raise awareness of the rare disease Angelman syndrome.&lt;/p&gt;This Light Up is organised by: Angelman Syndrome Association Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180137012</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
 			<title>Small Steps For Hannah</title>
-			<description>Wednesday, 19 February 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Pink to support Small Steps For Hannah &lt;br /&gt;&lt;br /&gt;The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Small Steps 4 Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701712</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/saxmb1yhdygr2uh1amd9pac9ra</x-trumba:ealink>
+			<description>Wednesday, 19 February 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Pink to support Small Steps For Hannah &lt;br /&gt;&lt;br /&gt;The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Small Steps 4 Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701711</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4340embg18s014z81zy8v92zxu</x-trumba:ealink>
 			<category>2025/02/19 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701712</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701711</guid>
 			<xCal:summary>Small Steps For Hannah</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
 			<xCal:dtstart>2025-02-18T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-19T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Wednesday, 19 February 2025</x-trumba:formatteddatetime>
 			<xCal:dtend>2025-02-19T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Pink to support Small Steps For Hannah 
+			<xCal:description>Reddacliff Place sculptures  will be lit Pink to support Small Steps For Hannah 
 
 The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign. 
 
 This Light Up is organsied by: Small Steps 4 Hannah Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701712</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/179701711</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Small Steps For Hannah</title>
-			<description>Wednesday, 19 February 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Pink to support Small Steps For Hannah&lt;br /&gt;&lt;br /&gt;The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Small Steps 4 Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701713</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/443wrg98grknj11xwasnfxc0rz</x-trumba:ealink>
-			<category>2025/02/19 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701713</guid>
-			<xCal:summary>Small Steps For Hannah</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-02-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, 19 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Pink to support Small Steps For Hannah
-
-The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign.
-
-This Light Up is organsied by: Small Steps 4 Hannah Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701713</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -1105,28 +1332,136 @@ This Light Up is organsied by: Small Steps 4 Hannah Foundation</xCal:description
 		</item>
 		<item>
 			<title>Small Steps For Hannah</title>
-			<description>Wednesday, 19 February 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Pink to support Small Steps For Hannah &lt;br /&gt;&lt;br /&gt;The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Small Steps 4 Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701711</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4340embg18s014z81zy8v92zxu</x-trumba:ealink>
+			<description>Wednesday, 19 February 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Pink to support Small Steps For Hannah&lt;br /&gt;&lt;br /&gt;The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Small Steps 4 Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701713</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/443wrg98grknj11xwasnfxc0rz</x-trumba:ealink>
 			<category>2025/02/19 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701711</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701713</guid>
 			<xCal:summary>Small Steps For Hannah</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
 			<xCal:dtstart>2025-02-18T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-19T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Wednesday, 19 February 2025</x-trumba:formatteddatetime>
 			<xCal:dtend>2025-02-19T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Pink to support Small Steps For Hannah 
+			<xCal:description>Kangaroo Point Bridge will be lit Pink to support Small Steps For Hannah
+
+The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign.
+
+This Light Up is organsied by: Small Steps 4 Hannah Foundation</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701713</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Small Steps For Hannah</title>
+			<description>Wednesday, 19 February 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Pink to support Small Steps For Hannah &lt;br /&gt;&lt;br /&gt;The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Small Steps 4 Hannah Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701712</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/saxmb1yhdygr2uh1amd9pac9ra</x-trumba:ealink>
+			<category>2025/02/19 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701712</guid>
+			<xCal:summary>Small Steps For Hannah</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 19 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Victoria Bridge will be lit Pink to support Small Steps For Hannah 
 
 The aim of the event is to raise awareness of Domestic and Family Violence through remembering victims Hannah Clarke and her 3 children Aaliyah, Laianah and Trey who lost their lives on February 19, 2020. The campaign of 19 days of Handstands is to remember their beautiful and fun lives through handstanding over 19 days (Feb 1 - Feb 19) to bring the community together and celebrate them through something they loved doing together. This will be the 4th year of our Handstand campaign. 
 
 This Light Up is organsied by: Small Steps 4 Hannah Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701711</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/179701712</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Cholangiocarcinomia Cancer Awareness Month</title>
+			<description>Thursday, 20 February 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month&lt;br /&gt;&lt;br /&gt;The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Cholangiocarcinoma Foundation Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701714</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0bwfr5hgk4w9a85r34catr652u</x-trumba:ealink>
+			<category>2025/02/20 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701714</guid>
+			<xCal:summary>World Cholangiocarcinomia Cancer Awareness Month</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-02-19T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, 20 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-20T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-21T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Story Bridge will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month
+
+The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. 
+
+This Light Up is organsied by: Cholangiocarcinoma Foundation Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701714</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Cholangiocarcinomia Cancer Awareness Month</title>
+			<description>Thursday, 20 February 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month&lt;br /&gt;&lt;br /&gt;The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Cholangiocarcinoma Foundation Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701716</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wd7zehfzwrz6jjxrprwrdrnee7</x-trumba:ealink>
+			<category>2025/02/20 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701716</guid>
+			<xCal:summary>World Cholangiocarcinomia Cancer Awareness Month</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-19T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, 20 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-20T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-21T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Reddacliff Place sculptures  will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month
+
+The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. 
+
+This Light Up is organsied by: Cholangiocarcinoma Foundation Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701716</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Cholangiocarcinomia Cancer Awareness Month</title>
+			<description>Thursday, 20 February 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month&lt;br /&gt;&lt;br /&gt;The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Cholangiocarcinoma Foundation Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701715</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cb7e9384y7jtpjbn79gpff2f27</x-trumba:ealink>
+			<category>2025/02/20 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701715</guid>
+			<xCal:summary>World Cholangiocarcinomia Cancer Awareness Month</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-19T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, 20 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-20T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-21T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Victoria Bridge will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month
+
+The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. 
+
+This Light Up is organsied by: Cholangiocarcinoma Foundation Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701715</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -1185,84 +1520,28 @@ This Light Up is organsied by: Cholangiocarcinoma Foundation Australia</xCal:des
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>World Cholangiocarcinomia Cancer Awareness Month</title>
-			<description>Thursday, 20 February 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month&lt;br /&gt;&lt;br /&gt;The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Cholangiocarcinoma Foundation Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701716</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wd7zehfzwrz6jjxrprwrdrnee7</x-trumba:ealink>
-			<category>2025/02/20 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701716</guid>
-			<xCal:summary>World Cholangiocarcinomia Cancer Awareness Month</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-02-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, 20 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-21T00:00:00</x-trumba:localend>
+			<title>Navy Week - Beat to Quarters</title>
+			<description>Friday, 21 February 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Blue to celebrate&amp;#160;Navy Week - Beat to Quarters&lt;br /&gt;&lt;br /&gt;Showcasing Navy&amp;#8217;s importance to the Australian way of life. The Navy will celebrate its traditions and heritage through a number of events across Brisbane for Navy Week and we encourage all to come along. Join us for Beat to Quarters at King George Square. Beat to Quarters is a tradition dating back to the age of sails. It was the sound of a ships drum that would summon the Sailors to action stations when battle was imminent. Today we keep the beat to quarters tradition going to honour the courage and sacrifice of men and women that have served in the Royal Australian Navy.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council&lt;br /&gt;&amp;#160;</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180137025</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4hkpz0r6rj3ggjjf30em0y3zb3</x-trumba:ealink>
+			<category>2025/02/21 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180137025</guid>
+			<xCal:summary>Navy Week - Beat to Quarters</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2025-02-20T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-21T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, 21 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-21T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-22T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month
+			<xCal:description>City Hall will be lit Blue to celebrate&amp;nbsp;Navy Week - Beat to Quarters
 
-The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. 
+Showcasing Navy&amp;rsquo;s importance to the Australian way of life. The Navy will celebrate its traditions and heritage through a number of events across Brisbane for Navy Week and we encourage all to come along. Join us for Beat to Quarters at King George Square. Beat to Quarters is a tradition dating back to the age of sails. It was the sound of a ships drum that would summon the Sailors to action stations when battle was imminent. Today we keep the beat to quarters tradition going to honour the courage and sacrifice of men and women that have served in the Royal Australian Navy.
 
-This Light Up is organsied by: Cholangiocarcinoma Foundation Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701716</xCal:uid>
+This Light Up is organised by: Brisbane City Council
+&amp;nbsp;</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180137025</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Cholangiocarcinomia Cancer Awareness Month</title>
-			<description>Thursday, 20 February 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month&lt;br /&gt;&lt;br /&gt;The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Cholangiocarcinoma Foundation Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701714</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0bwfr5hgk4w9a85r34catr652u</x-trumba:ealink>
-			<category>2025/02/20 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701714</guid>
-			<xCal:summary>World Cholangiocarcinomia Cancer Awareness Month</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-02-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, 20 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month
-
-The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. 
-
-This Light Up is organsied by: Cholangiocarcinoma Foundation Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701714</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Cholangiocarcinomia Cancer Awareness Month</title>
-			<description>Thursday, 20 February 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month&lt;br /&gt;&lt;br /&gt;The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Cholangiocarcinoma Foundation Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701715</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cb7e9384y7jtpjbn79gpff2f27</x-trumba:ealink>
-			<category>2025/02/20 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701715</guid>
-			<xCal:summary>World Cholangiocarcinomia Cancer Awareness Month</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-02-19T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-20T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, 20 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-20T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-21T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Green to support World Cholangiocarcinomia Cancer Awareness Month
-
-The Light Australia Green Initiative is an effort to unite people nationwide around a common goal: A comprehensive annual campaign of green-themed events, symposiums, and innovative initiatives dedicated to raising awareness and driving engagement in bile health and bile-related cancer response strategies. This initiative acts as an overarching umbrella that unites patients, caregivers, families, medical and allied professionals, healthcare providers, researchers, and the science community. 
-
-This Light Up is organsied by: Cholangiocarcinoma Foundation Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701715</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1294,33 +1573,6 @@ This Light Up is organsied by: Encephalitis International</xCal:description>
 		</item>
 		<item>
 			<title>World Encephalitis Day</title>
-			<description>Saturday, 22 February 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support World Encephalitis Day&lt;br /&gt;&lt;br /&gt;On World Encephalitis Day, landmarks around the word will be lighting up in red to shine a light on encephalitis and raise awareness of the devastating and often life-threatening condition, which can leave survivors with lifelong difficulties. Around 500,000 people globally are affected by encephalitis annually, equating to one person every minute, however, almost 80 per cent of people do not know what encephalitis is. Lack of awareness leads to delays in diagnosis and treatment, and poorer patient outcomes. Australian members of global charity Encephalitis International, are hoping to inform other Australians of the seriousness of encephalitis and to elevate encephalitis as a global health priority. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Encephalitis International &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701723</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/821zxd3hee6wsjztzpkbngsf9k</x-trumba:ealink>
-			<category>2025/02/22 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701723</guid>
-			<xCal:summary>World Encephalitis Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-02-21T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-22T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 22 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-22T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-23T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red to support World Encephalitis Day
-
-On World Encephalitis Day, landmarks around the word will be lighting up in red to shine a light on encephalitis and raise awareness of the devastating and often life-threatening condition, which can leave survivors with lifelong difficulties. Around 500,000 people globally are affected by encephalitis annually, equating to one person every minute, however, almost 80 per cent of people do not know what encephalitis is. Lack of awareness leads to delays in diagnosis and treatment, and poorer patient outcomes. Australian members of global charity Encephalitis International, are hoping to inform other Australians of the seriousness of encephalitis and to elevate encephalitis as a global health priority. 
-
-This Light Up is organsied by: Encephalitis International</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701723</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Encephalitis Day</title>
 			<description>Saturday, 22 February 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Red to support World Encephalitis Day&lt;br /&gt;&lt;br /&gt;On World Encephalitis Day, landmarks around the word will be lighting up in red to shine a light on encephalitis and raise awareness of the devastating and often life-threatening condition, which can leave survivors with lifelong difficulties. Around 500,000 people globally are affected by encephalitis annually, equating to one person every minute, however, almost 80 per cent of people do not know what encephalitis is. Lack of awareness leads to delays in diagnosis and treatment, and poorer patient outcomes. Australian members of global charity Encephalitis International, are hoping to inform other Australians of the seriousness of encephalitis and to elevate encephalitis as a global health priority. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Encephalitis International &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701721</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wkzah2ndwwhpxmpmw5rgmdzrh3</x-trumba:ealink>
@@ -1344,6 +1596,33 @@ This Light Up is organsied by: Encephalitis International</xCal:description>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>World Encephalitis Day</title>
+			<description>Saturday, 22 February 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support World Encephalitis Day&lt;br /&gt;&lt;br /&gt;On World Encephalitis Day, landmarks around the word will be lighting up in red to shine a light on encephalitis and raise awareness of the devastating and often life-threatening condition, which can leave survivors with lifelong difficulties. Around 500,000 people globally are affected by encephalitis annually, equating to one person every minute, however, almost 80 per cent of people do not know what encephalitis is. Lack of awareness leads to delays in diagnosis and treatment, and poorer patient outcomes. Australian members of global charity Encephalitis International, are hoping to inform other Australians of the seriousness of encephalitis and to elevate encephalitis as a global health priority. &lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Encephalitis International &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701723</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/821zxd3hee6wsjztzpkbngsf9k</x-trumba:ealink>
+			<category>2025/02/22 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701723</guid>
+			<xCal:summary>World Encephalitis Day</xCal:summary>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-21T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-22T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, 22 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-22T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-23T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>City Hall will be lit Red to support World Encephalitis Day
+
+On World Encephalitis Day, landmarks around the word will be lighting up in red to shine a light on encephalitis and raise awareness of the devastating and often life-threatening condition, which can leave survivors with lifelong difficulties. Around 500,000 people globally are affected by encephalitis annually, equating to one person every minute, however, almost 80 per cent of people do not know what encephalitis is. Lack of awareness leads to delays in diagnosis and treatment, and poorer patient outcomes. Australian members of global charity Encephalitis International, are hoping to inform other Australians of the seriousness of encephalitis and to elevate encephalitis as a global health priority. 
+
+This Light Up is organsied by: Encephalitis International</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701723</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -1402,33 +1681,6 @@ This Light Up is organsied by: Encephalitis International</xCal:description>
 		</item>
 		<item>
 			<title>20th Anniversary of Critical Care Research Group</title>
-			<description>Tuesday, 25 February 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Maroon to support 20th Anniversary of Critical Care Research Group&lt;br /&gt;&lt;br /&gt;The Critical Care Research Group celebrates 20 years of game-changing patient-focused research. Our 20-year anniversary celebrations will raise awareness and funds to help our emerging researchers discover tomorrow&amp;#8217;s best treatments&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: The Prince Charles Hospital Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701726</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cdhy9hzezy2880ap9655tnupab</x-trumba:ealink>
-			<category>2025/02/25 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701726</guid>
-			<xCal:summary>20th Anniversary of Critical Care Research Group</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-02-24T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-25T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, 25 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-25T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-26T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Maroon to support 20th Anniversary of Critical Care Research Group
-
-The Critical Care Research Group celebrates 20 years of game-changing patient-focused research. Our 20-year anniversary celebrations will raise awareness and funds to help our emerging researchers discover tomorrow’s best treatments
-
-This Light Up is organsied by: The Prince Charles Hospital Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701726</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>20th Anniversary of Critical Care Research Group</title>
 			<description>Tuesday, 25 February 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Maroon to support 20th Anniversary of Critical Care Research Group&lt;br /&gt;&lt;br /&gt;The Critical Care Research Group celebrates 20 years of game-changing patient-focused research. Our 20-year anniversary celebrations will raise awareness and funds to help our emerging researchers discover tomorrow&amp;#8217;s best treatments&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: The Prince Charles Hospital Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701725</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m9dbkbc62413mjgv1cmuf2bzd1</x-trumba:ealink>
@@ -1482,58 +1734,29 @@ This Light Up is organsied by: The Prince Charles Hospital Foundation</xCal:desc
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>Rare Disease Day</title>
-			<description>Friday, 28 February 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Blue  to support Rare Disease Day&lt;br /&gt;&lt;br /&gt;Rare Disease Day is marked on the last day of February annually. It is the globally coordinated movement for rare diseases, working to raise awareness and generate change for the 300 million people worldwide and the estimated two million Australians that are living with a rare disease, as well as their families and carers. The Day aims to provide awareness for the need of equity in social opportunity, healthcare, and access to diagnosis and therapies. &lt;br /&gt;Rare Voices Australia (RVA) is the national peak body for Australians living with a rare disease. RVA provides a strong, unified voice to advocate for policy as well as health, disability and other systems that work for people living with a rare disease. Our person-centred focus sees us working with all key stakeholders, including people living with a rare disease, governments, key peak bodies, researchers, clinicians, and industry. We advocate for the best outcomes for Australians living with a rare disease.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Rare Voices Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701729</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wuxm85yeh7hd046cenpz8nux1x</x-trumba:ealink>
-			<category>2025/02/28 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701729</guid>
-			<xCal:summary>Rare Disease Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-02-27T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-28T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 28 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-28T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-01T00:00:00</x-trumba:localend>
+			<title>20th Anniversary of Critical Care Research Group</title>
+			<description>Tuesday, 25 February 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Maroon to support 20th Anniversary of Critical Care Research Group&lt;br /&gt;&lt;br /&gt;The Critical Care Research Group celebrates 20 years of game-changing patient-focused research. Our 20-year anniversary celebrations will raise awareness and funds to help our emerging researchers discover tomorrow&amp;#8217;s best treatments&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: The Prince Charles Hospital Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701726</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cdhy9hzezy2880ap9655tnupab</x-trumba:ealink>
+			<category>2025/02/25 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701726</guid>
+			<xCal:summary>20th Anniversary of Critical Care Research Group</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-24T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-25T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, 25 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-25T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-02-26T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Blue  to support Rare Disease Day
+			<xCal:description>Victoria Bridge will be lit Maroon to support 20th Anniversary of Critical Care Research Group
 
-Rare Disease Day is marked on the last day of February annually. It is the globally coordinated movement for rare diseases, working to raise awareness and generate change for the 300 million people worldwide and the estimated two million Australians that are living with a rare disease, as well as their families and carers. The Day aims to provide awareness for the need of equity in social opportunity, healthcare, and access to diagnosis and therapies. 
-Rare Voices Australia (RVA) is the national peak body for Australians living with a rare disease. RVA provides a strong, unified voice to advocate for policy as well as health, disability and other systems that work for people living with a rare disease. Our person-centred focus sees us working with all key stakeholders, including people living with a rare disease, governments, key peak bodies, researchers, clinicians, and industry. We advocate for the best outcomes for Australians living with a rare disease.
+The Critical Care Research Group celebrates 20 years of game-changing patient-focused research. Our 20-year anniversary celebrations will raise awareness and funds to help our emerging researchers discover tomorrow’s best treatments
 
-This Light Up is organsied by: Rare Voices Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701729</xCal:uid>
+This Light Up is organsied by: The Prince Charles Hospital Foundation</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701726</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Rare Disease Day</title>
-			<description>Friday, 28 February 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Purple, Blue, Pink and Green to support Rare Disease Day&lt;br /&gt;&lt;br /&gt;Rare Disease Day is marked on the last day of February annually. It is the globally coordinated movement for rare diseases, working to raise awareness and generate change for the 300 million people worldwide and the estimated two million Australians that are living with a rare disease, as well as their families and carers. The Day aims to provide awareness for the need of equity in social opportunity, healthcare, and access to diagnosis and therapies.&lt;br /&gt;Rare Voices Australia (RVA) is the national peak body for Australians living with a rare disease. RVA provides a strong, unified voice to advocate for policy as well as health, disability and other systems that work for people living with a rare disease. Our person-centred focus sees us working with all key stakeholders, including people living with a rare disease, governments, key peak bodies, researchers, clinicians, and industry. We advocate for the best outcomes for Australians living with a rare disease.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Rare Voices Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701730</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cyck3dtr445c6kkwha0gvt4jfu</x-trumba:ealink>
-			<category>2025/02/28 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/179701730</guid>
-			<xCal:summary>Rare Disease Day</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-02-27T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-28T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 28 February 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-02-28T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-01T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Purple, Blue, Pink and Green to support Rare Disease Day
-
-Rare Disease Day is marked on the last day of February annually. It is the globally coordinated movement for rare diseases, working to raise awareness and generate change for the 300 million people worldwide and the estimated two million Australians that are living with a rare disease, as well as their families and carers. The Day aims to provide awareness for the need of equity in social opportunity, healthcare, and access to diagnosis and therapies.
-Rare Voices Australia (RVA) is the national peak body for Australians living with a rare disease. RVA provides a strong, unified voice to advocate for policy as well as health, disability and other systems that work for people living with a rare disease. Our person-centred focus sees us working with all key stakeholders, including people living with a rare disease, governments, key peak bodies, researchers, clinicians, and industry. We advocate for the best outcomes for Australians living with a rare disease.
-
-This Light Up is organsied by: Rare Voices Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/179701730</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -1567,6 +1790,34 @@ This Light Up is organsied by: Rare Voices Australia</xCal:description>
 		</item>
 		<item>
 			<title>Rare Disease Day</title>
+			<description>Friday, 28 February 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Purple, Blue, Pink and Green to support Rare Disease Day&lt;br /&gt;&lt;br /&gt;Rare Disease Day is marked on the last day of February annually. It is the globally coordinated movement for rare diseases, working to raise awareness and generate change for the 300 million people worldwide and the estimated two million Australians that are living with a rare disease, as well as their families and carers. The Day aims to provide awareness for the need of equity in social opportunity, healthcare, and access to diagnosis and therapies.&lt;br /&gt;Rare Voices Australia (RVA) is the national peak body for Australians living with a rare disease. RVA provides a strong, unified voice to advocate for policy as well as health, disability and other systems that work for people living with a rare disease. Our person-centred focus sees us working with all key stakeholders, including people living with a rare disease, governments, key peak bodies, researchers, clinicians, and industry. We advocate for the best outcomes for Australians living with a rare disease.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Rare Voices Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701730</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cyck3dtr445c6kkwha0gvt4jfu</x-trumba:ealink>
+			<category>2025/02/28 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701730</guid>
+			<xCal:summary>Rare Disease Day</xCal:summary>
+			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-02-27T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-28T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, 28 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-28T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Kangaroo Point Bridge will be lit Purple, Blue, Pink and Green to support Rare Disease Day
+
+Rare Disease Day is marked on the last day of February annually. It is the globally coordinated movement for rare diseases, working to raise awareness and generate change for the 300 million people worldwide and the estimated two million Australians that are living with a rare disease, as well as their families and carers. The Day aims to provide awareness for the need of equity in social opportunity, healthcare, and access to diagnosis and therapies.
+Rare Voices Australia (RVA) is the national peak body for Australians living with a rare disease. RVA provides a strong, unified voice to advocate for policy as well as health, disability and other systems that work for people living with a rare disease. Our person-centred focus sees us working with all key stakeholders, including people living with a rare disease, governments, key peak bodies, researchers, clinicians, and industry. We advocate for the best outcomes for Australians living with a rare disease.
+
+This Light Up is organsied by: Rare Voices Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701730</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Rare Disease Day</title>
 			<description>Friday, 28 February 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Purple, Blue, Pink and Green to support Rare Disease Day&lt;br /&gt;&lt;br /&gt;Rare Disease Day is marked on the last day of February annually. It is the globally coordinated movement for rare diseases, working to raise awareness and generate change for the 300 million people worldwide and the estimated two million Australians that are living with a rare disease, as well as their families and carers. The Day aims to provide awareness for the need of equity in social opportunity, healthcare, and access to diagnosis and therapies.&lt;br /&gt;Rare Voices Australia (RVA) is the national peak body for Australians living with a rare disease. RVA provides a strong, unified voice to advocate for policy as well as health, disability and other systems that work for people living with a rare disease. Our person-centred focus sees us working with all key stakeholders, including people living with a rare disease, governments, key peak bodies, researchers, clinicians, and industry. We advocate for the best outcomes for Australians living with a rare disease.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Rare Voices Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701728</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4rfucssm7g1aajbu8vxkgg3wn7</x-trumba:ealink>
@@ -1590,6 +1841,34 @@ This Light Up is organsied by: Rare Voices Australia</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Rare Disease Day</title>
+			<description>Friday, 28 February 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Blue  to support Rare Disease Day&lt;br /&gt;&lt;br /&gt;Rare Disease Day is marked on the last day of February annually. It is the globally coordinated movement for rare diseases, working to raise awareness and generate change for the 300 million people worldwide and the estimated two million Australians that are living with a rare disease, as well as their families and carers. The Day aims to provide awareness for the need of equity in social opportunity, healthcare, and access to diagnosis and therapies. &lt;br /&gt;Rare Voices Australia (RVA) is the national peak body for Australians living with a rare disease. RVA provides a strong, unified voice to advocate for policy as well as health, disability and other systems that work for people living with a rare disease. Our person-centred focus sees us working with all key stakeholders, including people living with a rare disease, governments, key peak bodies, researchers, clinicians, and industry. We advocate for the best outcomes for Australians living with a rare disease.&lt;br /&gt;&lt;br /&gt;This Light Up is organsied by: Rare Voices Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d179701729</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wuxm85yeh7hd046cenpz8nux1x</x-trumba:ealink>
+			<category>2025/02/28 (Fri)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/179701729</guid>
+			<xCal:summary>Rare Disease Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-02-27T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-02-28T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Friday, 28 February 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-02-28T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Reddacliff Place sculptures  will be lit Blue  to support Rare Disease Day
+
+Rare Disease Day is marked on the last day of February annually. It is the globally coordinated movement for rare diseases, working to raise awareness and generate change for the 300 million people worldwide and the estimated two million Australians that are living with a rare disease, as well as their families and carers. The Day aims to provide awareness for the need of equity in social opportunity, healthcare, and access to diagnosis and therapies. 
+Rare Voices Australia (RVA) is the national peak body for Australians living with a rare disease. RVA provides a strong, unified voice to advocate for policy as well as health, disability and other systems that work for people living with a rare disease. Our person-centred focus sees us working with all key stakeholders, including people living with a rare disease, governments, key peak bodies, researchers, clinicians, and industry. We advocate for the best outcomes for Australians living with a rare disease.
+
+This Light Up is organsied by: Rare Voices Australia</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/179701729</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
