@@ -5,642 +5,43 @@
 		<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		<description>This calendar includes scheduled lights ups of Council assets including Story Bridge, Reddacliff Place sculptures, Victoria Bridge, Brisbane City Hall, King George Square, William Jolly Bridge and Tropical Dome at Brisbane Botanic Gardens Mt Coot-tha.</description>
 		<language>en-us</language>
-		<lastBuildDate>25 Feb 2025 06:23:29 GMT</lastBuildDate>
+		<lastBuildDate>11 Mar 2025 01:36:22 GMT</lastBuildDate>
 		<image>
 			<title>Calendar Feed powered by Trumba</title>
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.24305//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.24312//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
 		<item>
-			<title>International Women's Day Fun Run</title>
-			<description>Sunday, 9 March 2025 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;Kangaroo Point&amp;#160;Bridge will be lit Pink to support International Women&amp;#39;s Day Fun Run&lt;br /&gt;&lt;br /&gt;International Women&amp;#39;s Day Fun Run presented by Queensland X-Ray raises awareness and funds to support women with breast cancer, to help Mater clinicians and researchers achieve this.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Trustee for Mater Foundation&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d181075138</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/schwf2du983ghbmca89r19cryc</x-trumba:ealink>
-			<category>2025/03/09 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/181075138</guid>
-			<xCal:summary>International Women's Day Fun Run</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-08T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-09T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 9 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-09T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-10T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>&lt;p&gt;Kangaroo Point&amp;nbsp;Bridge will be lit Pink to support International Women&amp;#39;s Day Fun Run
-
-International Women&amp;#39;s Day Fun Run presented by Queensland X-Ray raises awareness and funds to support women with breast cancer, to help Mater clinicians and researchers achieve this.
-
-This Light Up is organised by: The Trustee for Mater Foundation&lt;/p&gt;</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/181075138</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>International Women's Day Fun Run</title>
-			<description>Sunday, 9 March 2025 &lt;br/&gt;&lt;br/&gt;&lt;p&gt;Reddacliff Place sculptures will be lit Pink to support International Women&amp;#39;s Day Fun Run&lt;br /&gt;&lt;br /&gt;International Women&amp;#39;s Day Fun Run presented by Queensland X-Ray raises awareness and funds to support women with breast cancer, to help Mater clinicians and researchers achieve this.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Trustee for Mater Foundation&lt;/p&gt;</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d181075211</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gcf22u26ujs5xn1ge4t14dmwe0</x-trumba:ealink>
-			<category>2025/03/09 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/181075211</guid>
-			<xCal:summary>International Women's Day Fun Run</xCal:summary>
-			<xCal:location />
-			<xCal:dtstart>2025-03-08T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-09T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 9 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-09T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-10T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>&lt;p&gt;Reddacliff Place sculptures will be lit Pink to support International Women&amp;#39;s Day Fun Run
-
-International Women&amp;#39;s Day Fun Run presented by Queensland X-Ray raises awareness and funds to support women with breast cancer, to help Mater clinicians and researchers achieve this.
-
-This Light Up is organised by: The Trustee for Mater Foundation&lt;/p&gt;</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/181075211</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>International Women's Day Fun Run</title>
-			<description>Sunday, 9 March 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Pink to support International Women&amp;#39;s Day Fun Run&lt;br /&gt;&lt;br /&gt;International Women&amp;#39;s Day Fun Run presented by Queensland X-Ray raises awareness and funds to support women with breast cancer, to help Mater clinicians and researchers achieve this.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Trustee for Mater Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863100</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8esabxygp5r50exjjwz9bupu5x</x-trumba:ealink>
-			<category>2025/03/09 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863100</guid>
-			<xCal:summary>International Women's Day Fun Run</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-08T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-09T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 9 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-09T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-10T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Pink to support International Women's Day Fun Run
-
-International Women's Day Fun Run presented by Queensland X-Ray raises awareness and funds to support women with breast cancer, to help Mater clinicians and researchers achieve this.
-
-This Light Up is organised by: The Trustee for Mater Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863100</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>International Women's Day Fun Run</title>
-			<description>Sunday, 9 March 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Pink to support International Women&amp;#39;s Day Fun Run&lt;br /&gt;&lt;br /&gt;International Women&amp;#39;s Day Fun Run presented by Queensland X-Ray raises awareness and funds to support women with breast cancer, to help Mater clinicians and researchers achieve this.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: The Trustee for Mater Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863101</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g8d1yj97mvfhktx1wdxe66g718</x-trumba:ealink>
-			<category>2025/03/09 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863101</guid>
-			<xCal:summary>International Women's Day Fun Run</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-08T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-09T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 9 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-09T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-10T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Pink to support International Women&amp;#39;s Day Fun Run
-
-International Women&amp;#39;s Day Fun Run presented by Queensland X-Ray raises awareness and funds to support women with breast cancer, to help Mater clinicians and researchers achieve this.
-
-This Light Up is organised by: The Trustee for Mater Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863101</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Endometriosis Awareness Month</title>
-			<description>Monday, 10 March 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Yellow to support Endometriosis Awareness Month &lt;br /&gt;&lt;br /&gt;Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and&lt;br /&gt;nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Endometriosis Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863105</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s8r22z59phd4m1he1bjrkut5f2</x-trumba:ealink>
-			<category>2025/03/10 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863105</guid>
-			<xCal:summary>Endometriosis Awareness Month</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-09T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-10T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, 10 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-10T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-11T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Yellow to support Endometriosis Awareness Month 
-
-Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and
-nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition
-
-This Light Up is organised by: Endometriosis Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863105</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Endometriosis Awareness Month</title>
-			<description>Monday, 10 March 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Yellow to support Endometriosis Awareness Month &lt;br /&gt;&lt;br /&gt;Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and&lt;br /&gt;nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Endometriosis Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863102</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/054gh7tggjpcr31dvzsep1snbb</x-trumba:ealink>
-			<category>2025/03/10 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863102</guid>
-			<xCal:summary>Endometriosis Awareness Month</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-09T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-10T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, 10 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-10T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-11T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Yellow to support Endometriosis Awareness Month 
-
-Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and
-nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition
-
-This Light Up is organised by: Endometriosis Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863102</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Endometriosis Awareness Month</title>
-			<description>Monday, 10 March 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Yellow to support Endometriosis Awareness Month &lt;br /&gt;&lt;br /&gt;Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and&lt;br /&gt;nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Endometriosis Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863103</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gpd9amn7vyksaadf0wp9ka8ykn</x-trumba:ealink>
-			<category>2025/03/10 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863103</guid>
-			<xCal:summary>Endometriosis Awareness Month</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-09T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-10T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, 10 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-10T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-11T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Yellow to support Endometriosis Awareness Month 
-
-Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and
-nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition
-
-This Light Up is organised by: Endometriosis Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863103</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Endometriosis Awareness Month</title>
-			<description>Monday, 10 March 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Yellow to support Endometriosis Awareness Month &lt;br /&gt;&lt;br /&gt;Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and&lt;br /&gt;nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Endometriosis Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863104</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/gav3ad7vvemrhezkgc98j2jr8x</x-trumba:ealink>
-			<category>2025/03/10 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863104</guid>
-			<xCal:summary>Endometriosis Awareness Month</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-09T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-10T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, 10 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-10T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-11T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Yellow to support Endometriosis Awareness Month 
-
-Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and
-nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition
-
-This Light Up is organised by: Endometriosis Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863104</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Squash Australian Open</title>
-			<description>Tuesday, 11 March&amp;nbsp;&amp;ndash; Wednesday, 12 March 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Green and Gold to support the Squash Australian Open&lt;br /&gt;&lt;br /&gt;The Squash Australian Open is a Professional Squash Association (PSA) World Tour Gold Event that brings together the world&amp;#39;s top squash players to compete for the title of Australian Open Champion. Hosted in Brisbane in 2025, this exciting tournament showcases high-level squash action as elite athletes battle for glory on one of the sport&amp;#39;s biggest stages. With a festival around the precinct including kid&amp;#8217;s activations, food, and beverage options the event will cater to all sport fans. Don&amp;#8217;t miss your opportunity to be a part of this unforgettable week of Squash!&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863109</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g0m6fv00zu0udp2zry1mzbptek</x-trumba:ealink>
-			<category>2025/03/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863109</guid>
-			<xCal:summary>Squash Australian Open</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, 11 March - Wednesday, 12 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Green and Gold to support the Squash Australian Open
-
-The Squash Australian Open is a Professional Squash Association (PSA) World Tour Gold Event that brings together the world&amp;#39;s top squash players to compete for the title of Australian Open Champion. Hosted in Brisbane in 2025, this exciting tournament showcases high-level squash action as elite athletes battle for glory on one of the sport&amp;#39;s biggest stages. With a festival around the precinct including kid&amp;rsquo;s activations, food, and beverage options the event will cater to all sport fans. Don&amp;rsquo;t miss your opportunity to be a part of this unforgettable week of Squash!
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863109</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Squash Australian Open</title>
-			<description>Tuesday, 11 March&amp;nbsp;&amp;ndash; Wednesday, 12 March 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Green and Gold to support the Squash Australian Open&lt;br /&gt;&lt;br /&gt;The Squash Australian Open is a Professional Squash Association (PSA) World Tour Gold Event that brings together the world&amp;#39;s top squash players to compete for the title of Australian Open Champion. Hosted in Brisbane in 2025, this exciting tournament showcases high-level squash action as elite athletes battle for glory on one of the sport&amp;#39;s biggest stages. With a festival around the precinct including kid&amp;#8217;s activations, food, and beverage options the event will cater to all sport fans. Don&amp;#8217;t miss your opportunity to be a part of this unforgettable week of Squash!&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863106</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4c1cwxxfy9cdj1n1sku0m2dgvz</x-trumba:ealink>
-			<category>2025/03/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863106</guid>
-			<xCal:summary>Squash Australian Open</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, 11 March - Wednesday, 12 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Green and Gold to support the Squash Australian Open
-
-The Squash Australian Open is a Professional Squash Association (PSA) World Tour Gold Event that brings together the world&amp;#39;s top squash players to compete for the title of Australian Open Champion. Hosted in Brisbane in 2025, this exciting tournament showcases high-level squash action as elite athletes battle for glory on one of the sport&amp;#39;s biggest stages. With a festival around the precinct including kid&amp;rsquo;s activations, food, and beverage options the event will cater to all sport fans. Don&amp;rsquo;t miss your opportunity to be a part of this unforgettable week of Squash!
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863106</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Squash Australian Open</title>
-			<description>Tuesday, 11 March&amp;nbsp;&amp;ndash; Wednesday, 12 March 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Green and Gold to support the Squash Australian Open&lt;br /&gt;&lt;br /&gt;The Squash Australian Open is a Professional Squash Association (PSA) World Tour Gold Event that brings together the world&amp;#39;s top squash players to compete for the title of Australian Open Champion. Hosted in Brisbane in 2025, this exciting tournament showcases high-level squash action as elite athletes battle for glory on one of the sport&amp;#39;s biggest stages. With a festival around the precinct including kid&amp;#8217;s activations, food, and beverage options the event will cater to all sport fans. Don&amp;#8217;t miss your opportunity to be a part of this unforgettable week of Squash!&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863107</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/we3gb9yed8s7du1d1e6dh14bb9</x-trumba:ealink>
-			<category>2025/03/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863107</guid>
-			<xCal:summary>Squash Australian Open</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, 11 March - Wednesday, 12 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Green and Gold to support the Squash Australian Open
-
-The Squash Australian Open is a Professional Squash Association (PSA) World Tour Gold Event that brings together the world&amp;#39;s top squash players to compete for the title of Australian Open Champion. Hosted in Brisbane in 2025, this exciting tournament showcases high-level squash action as elite athletes battle for glory on one of the sport&amp;#39;s biggest stages. With a festival around the precinct including kid&amp;rsquo;s activations, food, and beverage options the event will cater to all sport fans. Don&amp;rsquo;t miss your opportunity to be a part of this unforgettable week of Squash!
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863107</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Squash Australian Open</title>
-			<description>Tuesday, 11 March&amp;nbsp;&amp;ndash; Wednesday, 12 March 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures will be lit Green and Gold to support the Squash Australian Open&lt;br /&gt;&lt;br /&gt;The Squash Australian Open is a Professional Squash Association (PSA) World Tour Gold Event that brings together the world&amp;#39;s top squash players to compete for the title of Australian Open Champion. Hosted in Brisbane in 2025, this exciting tournament showcases high-level squash action as elite athletes battle for glory on one of the sport&amp;#39;s biggest stages. With a festival around the precinct including kid&amp;#8217;s activations, food, and beverage options the event will cater to all sport fans. Don&amp;#8217;t miss your opportunity to be a part of this unforgettable week of Squash!&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863108</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w3m40v3f829ffhb5bhc4999jw4</x-trumba:ealink>
-			<category>2025/03/11 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863108</guid>
-			<xCal:summary>Squash Australian Open</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-10T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-11T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, 11 March - Wednesday, 12 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-12T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-13T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures will be lit Green and Gold to support the Squash Australian Open
-
-The Squash Australian Open is a Professional Squash Association (PSA) World Tour Gold Event that brings together the world&amp;#39;s top squash players to compete for the title of Australian Open Champion. Hosted in Brisbane in 2025, this exciting tournament showcases high-level squash action as elite athletes battle for glory on one of the sport&amp;#39;s biggest stages. With a festival around the precinct including kid&amp;rsquo;s activations, food, and beverage options the event will cater to all sport fans. Don&amp;rsquo;t miss your opportunity to be a part of this unforgettable week of Squash!
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863108</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Kidney Day</title>
-			<description>Thursday, 13 March 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support World Kidney Day&lt;br /&gt;&lt;br /&gt;World Kidney Day is 13th March, 2025? yes, yet &amp;#8216;another world day&amp;#8217;? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don&amp;#8217;t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Kidney Health Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863114</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wua5jekdzks61nud0cm1zrz4m0</x-trumba:ealink>
-			<category>2025/03/13 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863114</guid>
-			<xCal:summary>World Kidney Day</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, 13 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red to support World Kidney Day
-
-World Kidney Day is 13th March, 2025? yes, yet ‘another world day’? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don’t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.
-
-This Light Up is organised by: Kidney Health Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863114</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Kidney Day</title>
-			<description>Thursday, 13 March 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Red to support World Kidney Day&lt;br /&gt;&lt;br /&gt;World Kidney Day is 13th March, 2025? yes, yet &amp;#8216;another world day&amp;#8217;? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don&amp;#8217;t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Kidney Health Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863113</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s33jcvrm3nzf56vyjh01vggrdp</x-trumba:ealink>
-			<category>2025/03/13 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863113</guid>
-			<xCal:summary>World Kidney Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, 13 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Red to support World Kidney Day
-
-World Kidney Day is 13th March, 2025? yes, yet ‘another world day’? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don’t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.
-
-This Light Up is organised by: Kidney Health Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863113</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Kidney Day</title>
-			<description>Thursday, 13 March 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Red to support World Kidney Day&lt;br /&gt;&lt;br /&gt;World Kidney Day is 13th March, 2025? yes, yet &amp;#8216;another world day&amp;#8217;? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don&amp;#8217;t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Kidney Health Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863110</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wcgfmv3se0kt0j7rdvj2ckpdfu</x-trumba:ealink>
-			<category>2025/03/13 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863110</guid>
-			<xCal:summary>World Kidney Day</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, 13 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Red to support World Kidney Day
-
-World Kidney Day is 13th March, 2025? yes, yet ‘another world day’? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don’t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.
-
-This Light Up is organised by: Kidney Health Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863110</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Kidney Day</title>
-			<description>Thursday, 13 March 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Red to support World Kidney Day&lt;br /&gt;&lt;br /&gt;World Kidney Day is 13th March, 2025? yes, yet &amp;#8216;another world day&amp;#8217;? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don&amp;#8217;t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Kidney Health Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863111</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c6xswsk35gs2fen6v6p8uc8w4y</x-trumba:ealink>
-			<category>2025/03/13 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863111</guid>
-			<xCal:summary>World Kidney Day</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, 13 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Red to support World Kidney Day
-
-World Kidney Day is 13th March, 2025? yes, yet ‘another world day’? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don’t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.
-
-This Light Up is organised by: Kidney Health Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863111</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>World Kidney Day</title>
-			<description>Thursday, 13 March 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Red to support World Kidney Day&lt;br /&gt;&lt;br /&gt;World Kidney Day is 13th March, 2025? yes, yet &amp;#8216;another world day&amp;#8217;? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don&amp;#8217;t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Kidney Health Australia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180863112</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0r2nuynrmcwwbu7wu34g3p99h5</x-trumba:ealink>
-			<category>2025/03/13 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180863112</guid>
-			<xCal:summary>World Kidney Day</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, 13 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Red to support World Kidney Day
-
-World Kidney Day is 13th March, 2025? yes, yet ‘another world day’? BUT kidney disease is one of the least known diseases despite 3 in 4 Aussies being at risk. Given that 1.8 million Australians have kidney disease and don’t know about it, raising awareness is therefore vital to ensure everyone talks to their GP about their Kidney Health.
-
-This Light Up is organised by: Kidney Health Australia</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180863112</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane Girls Grammar School Celebrating 150 years</title>
-			<description>Friday, 14 March 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Blue to support Brisbane Girls Grammar School Celebrating 150 years&lt;br /&gt;&lt;br /&gt;Event taking place in City Hall&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Girls Grammar School &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880130</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4cyu41543wu9p77uu8u0y7e8ts</x-trumba:ealink>
-			<category>2025/03/14 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180880130</guid>
-			<xCal:summary>Brisbane Girls Grammar School Celebrating 150 years</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 14 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Blue to support Brisbane Girls Grammar School Celebrating 150 years
-
-Event taking place in City Hall
-
-This Light Up is organised by: Brisbane Girls Grammar School</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180880130</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Endometriosis Awareness Month</title>
-			<description>Friday, 14 March 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Yellow to support Endometriosis Awareness Month &lt;br /&gt;&lt;br /&gt;Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and&lt;br /&gt;nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Endometriosis Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880134</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mfb53r2n7yt0sbm5nefvf5e5ue</x-trumba:ealink>
-			<category>2025/03/14 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180880134</guid>
-			<xCal:summary>Endometriosis Awareness Month</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 14 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Yellow to support Endometriosis Awareness Month 
-
-Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and
-nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition
-
-This Light Up is organised by: Endometriosis Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180880134</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Endometriosis Awareness Month</title>
-			<description>Friday, 14 March 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Yellow to support Endometriosis Awareness Month &lt;br /&gt;&lt;br /&gt;Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and&lt;br /&gt;nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Endometriosis Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880131</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mdj3cpuhrexunwbzxcfg3nhzgr</x-trumba:ealink>
-			<category>2025/03/14 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180880131</guid>
-			<xCal:summary>Endometriosis Awareness Month</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 14 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Yellow to support Endometriosis Awareness Month 
-
-Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and
-nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition
-
-This Light Up is organised by: Endometriosis Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180880131</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Endometriosis Awareness Month</title>
-			<description>Friday, 14 March 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Yellow to support Endometriosis Awareness Month &lt;br /&gt;&lt;br /&gt;Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and&lt;br /&gt;nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Endometriosis Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880132</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8yud42kphedkbyum56pc9v1nwk</x-trumba:ealink>
-			<category>2025/03/14 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180880132</guid>
-			<xCal:summary>Endometriosis Awareness Month</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 14 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Yellow to support Endometriosis Awareness Month 
-
-Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and
-nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition
-
-This Light Up is organised by: Endometriosis Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180880132</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Endometriosis Awareness Month</title>
-			<description>Friday, 14 March 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Yellow to support Endometriosis Awareness Month &lt;br /&gt;&lt;br /&gt;Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and&lt;br /&gt;nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Endometriosis Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880133</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c69sjfrj0n3er8utttadwtc0pw</x-trumba:ealink>
-			<category>2025/03/14 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180880133</guid>
-			<xCal:summary>Endometriosis Awareness Month</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-03-13T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-14T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 14 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-14T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-15T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Yellow to support Endometriosis Awareness Month 
-
-Endometriosis is a chronic disease affecting 1 in 7 women and those presumed female at birth by the age of 49 impacting approximately 200 million people worldwide and
-nearly 1 million in Australia. While about 50% of the population has heard of endometriosis, awareness remains surface-level, with many unaware of its profound impact on daily life and long-term health. By illuminating landmarks across towns and cities, we strive to amplify our message nationally to drive deeper understanding and greater awareness of this often-overlooked condition
-
-This Light Up is organised by: Endometriosis Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180880133</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>20th Anniversary of Dance for Daniel</title>
-			<description>Saturday, 15 March 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support 20th Anniversary of Dance for Daniel&lt;br /&gt;&lt;br /&gt;The Daniel Morcombe Foundation are thrilled to invite you to the 20th milestone event of Dance for Daniel, taking place on Saturday, 15 March 2025, at the iconic Brisbane City Hall and King George Square. This special evening promises a delightful experience, including a three-course dinner, live entertainment, silent and live auctions, raffles, and plenty of dancing!&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Daniel Morcombe Foundation &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880138</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sfabjcyhe6gfdhdkhthsp5ssub</x-trumba:ealink>
+			<title>St Patrick's Day Parade and Brisbane Irish Festival</title>
+			<description>Saturday, 15 March&amp;nbsp;&amp;ndash; Sunday, 16 March 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures will be lit Green to celebrate the St Patrick&amp;#39;s Day Parade and Brisbane Irish Festival&lt;br /&gt;&lt;br /&gt;The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;#8217;s Day, Irish culture and its contribution to the state of Queensland. This year the festival runs from the 2nd to the 17th of March with events, concerts and gatherings. Come and join us as we paint the town green again on Saturday 15th March 2025 for the St Patrick&amp;#8217;s Day Parade.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880137</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m0a0geygkx8uyvy519fk72e8e1</x-trumba:ealink>
 			<category>2025/03/15 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180880138</guid>
-			<xCal:summary>20th Anniversary of Dance for Daniel</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180880137</guid>
+			<xCal:summary>St Patrick's Day Parade and Brisbane Irish Festival</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
 			<xCal:dtstart>2025-03-14T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 15 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-15T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-16T00:00:00</x-trumba:localend>
+			<x-trumba:formatteddatetime>Saturday, 15 March - Sunday, 16 March 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-03-16T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-17T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red to support 20th Anniversary of Dance for Daniel
+			<xCal:description>Reddacliff Place sculptures will be lit Green to celebrate the St Patrick&amp;#39;s Day Parade and Brisbane Irish Festival
 
-The Daniel Morcombe Foundation are thrilled to invite you to the 20th milestone event of Dance for Daniel, taking place on Saturday, 15 March 2025, at the iconic Brisbane City Hall and King George Square. This special evening promises a delightful experience, including a three-course dinner, live entertainment, silent and live auctions, raffles, and plenty of dancing!
+The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;rsquo;s Day, Irish culture and its contribution to the state of Queensland. This year the festival runs from the 2nd to the 17th of March with events, concerts and gatherings. Come and join us as we paint the town green again on Saturday 15th March 2025 for the St Patrick&amp;rsquo;s Day Parade.
 
-This Light Up is organised by: Daniel Morcombe Foundation</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180880138</xCal:uid>
+This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180880137</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
@@ -672,60 +73,6 @@ This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incor
 		</item>
 		<item>
 			<title>St Patrick's Day Parade and Brisbane Irish Festival</title>
-			<description>Saturday, 15 March&amp;nbsp;&amp;ndash; Sunday, 16 March 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Green to celebrate the St Patrick&amp;#39;s Day Parade and Brisbane Irish Festival&lt;br /&gt;&lt;br /&gt;The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;#8217;s Day, Irish culture and its contribution to the state of Queensland. This year the festival runs from the 2nd to the 17th of March with events, concerts and gatherings. Come and join us as we paint the town green again on Saturday 15th March 2025 for the St Patrick&amp;#8217;s Day Parade.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880136</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c6emtbdegb6yax8xstvt4gywr3</x-trumba:ealink>
-			<category>2025/03/15 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180880136</guid>
-			<xCal:summary>St Patrick's Day Parade and Brisbane Irish Festival</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 15 March - Sunday, 16 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Green to celebrate the St Patrick&amp;#39;s Day Parade and Brisbane Irish Festival
-
-The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;rsquo;s Day, Irish culture and its contribution to the state of Queensland. This year the festival runs from the 2nd to the 17th of March with events, concerts and gatherings. Come and join us as we paint the town green again on Saturday 15th March 2025 for the St Patrick&amp;rsquo;s Day Parade.
-
-This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180880136</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>St Patrick's Day Parade and Brisbane Irish Festival</title>
-			<description>Saturday, 15 March&amp;nbsp;&amp;ndash; Sunday, 16 March 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures will be lit Green to celebrate the St Patrick&amp;#39;s Day Parade and Brisbane Irish Festival&lt;br /&gt;&lt;br /&gt;The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;#8217;s Day, Irish culture and its contribution to the state of Queensland. This year the festival runs from the 2nd to the 17th of March with events, concerts and gatherings. Come and join us as we paint the town green again on Saturday 15th March 2025 for the St Patrick&amp;#8217;s Day Parade.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880137</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/m0a0geygkx8uyvy519fk72e8e1</x-trumba:ealink>
-			<category>2025/03/15 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180880137</guid>
-			<xCal:summary>St Patrick's Day Parade and Brisbane Irish Festival</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-14T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-15T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 15 March - Sunday, 16 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-16T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-17T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures will be lit Green to celebrate the St Patrick&amp;#39;s Day Parade and Brisbane Irish Festival
-
-The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;rsquo;s Day, Irish culture and its contribution to the state of Queensland. This year the festival runs from the 2nd to the 17th of March with events, concerts and gatherings. Come and join us as we paint the town green again on Saturday 15th March 2025 for the St Patrick&amp;rsquo;s Day Parade.
-
-This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180880137</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>St Patrick's Day Parade and Brisbane Irish Festival</title>
 			<description>Saturday, 15 March&amp;nbsp;&amp;ndash; Sunday, 16 March 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Green to celebrate the St Patrick&amp;#39;s Day Parade and Brisbane Irish Festival&lt;br /&gt;&lt;br /&gt;The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;#8217;s Day, Irish culture and its contribution to the state of Queensland. This year the festival runs from the 2nd to the 17th of March with events, concerts and gatherings. Come and join us as we paint the town green again on Saturday 15th March 2025 for the St Patrick&amp;#8217;s Day Parade.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880135</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8wc6bb3wz4z7nb5c9n97u5s32s</x-trumba:ealink>
@@ -748,6 +95,33 @@ This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incor
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>St Patrick's Day Parade and Brisbane Irish Festival</title>
+			<description>Saturday, 15 March&amp;nbsp;&amp;ndash; Sunday, 16 March 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Green to celebrate the St Patrick&amp;#39;s Day Parade and Brisbane Irish Festival&lt;br /&gt;&lt;br /&gt;The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;#8217;s Day, Irish culture and its contribution to the state of Queensland. This year the festival runs from the 2nd to the 17th of March with events, concerts and gatherings. Come and join us as we paint the town green again on Saturday 15th March 2025 for the St Patrick&amp;#8217;s Day Parade.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880136</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c6emtbdegb6yax8xstvt4gywr3</x-trumba:ealink>
+			<category>2025/03/15 (Sat)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180880136</guid>
+			<xCal:summary>St Patrick's Day Parade and Brisbane Irish Festival</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-03-14T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-15T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Saturday, 15 March - Sunday, 16 March 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-03-16T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-17T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Victoria Bridge will be lit Green to celebrate the St Patrick&amp;#39;s Day Parade and Brisbane Irish Festival
+
+The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;rsquo;s Day, Irish culture and its contribution to the state of Queensland. This year the festival runs from the 2nd to the 17th of March with events, concerts and gatherings. Come and join us as we paint the town green again on Saturday 15th March 2025 for the St Patrick&amp;rsquo;s Day Parade.
+
+This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180880136</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -807,6 +181,33 @@ This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incor
 		</item>
 		<item>
 			<title>St Patrick's Day</title>
+			<description>Monday, 17 March 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures will be lit Green to celebrate St Patrick&amp;#39;s Day&lt;br /&gt;&lt;br /&gt;The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;#8217;s Day, Irish culture and its contribution to the state of Queensland. The St Patrick&amp;#8217;s Day Parade has been held amidst the streets of Brisbane city since 1989, flooding the inner-city district with a colourful convoy of more than 80 floats and displays representing Irish culture that provide free community-oriented entertainment for all ages.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880142</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ck3y4ws9e1hau1ebwps3f86sue</x-trumba:ealink>
+			<category>2025/03/17 (Mon)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/180880142</guid>
+			<xCal:summary>St Patrick's Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-03-16T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-17T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Monday, 17 March 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-03-17T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-18T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Reddacliff Place sculptures will be lit Green to celebrate St Patrick&amp;#39;s Day
+
+The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;rsquo;s Day, Irish culture and its contribution to the state of Queensland. The St Patrick&amp;rsquo;s Day Parade has been held amidst the streets of Brisbane city since 1989, flooding the inner-city district with a colourful convoy of more than 80 floats and displays representing Irish culture that provide free community-oriented entertainment for all ages.
+
+This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/180880142</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>St Patrick's Day</title>
 			<description>Monday, 17 March 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Green to&amp;#160;celebrate St Patrick&amp;#39;s Day&lt;br /&gt;&lt;br /&gt;The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;#8217;s Day, Irish culture and its contribution to the state of Queensland. The St Patrick&amp;#8217;s Day Parade has been held amidst the streets of Brisbane city since 1989, flooding the inner-city district with a colourful convoy of more than 80 floats and displays representing Irish culture that provide free community-oriented entertainment for all ages.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880140</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mnp740kgcu4ac5eam8e586r53d</x-trumba:ealink>
@@ -856,33 +257,6 @@ This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incor
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>St Patrick's Day</title>
-			<description>Monday, 17 March 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures will be lit Green to celebrate St Patrick&amp;#39;s Day&lt;br /&gt;&lt;br /&gt;The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;#8217;s Day, Irish culture and its contribution to the state of Queensland. The St Patrick&amp;#8217;s Day Parade has been held amidst the streets of Brisbane city since 1989, flooding the inner-city district with a colourful convoy of more than 80 floats and displays representing Irish culture that provide free community-oriented entertainment for all ages.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d180880142</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ck3y4ws9e1hau1ebwps3f86sue</x-trumba:ealink>
-			<category>2025/03/17 (Mon)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/180880142</guid>
-			<xCal:summary>St Patrick's Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-03-16T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-17T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Monday, 17 March 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-03-17T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-18T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures will be lit Green to celebrate St Patrick&amp;#39;s Day
-
-The Brisbane Irish Festival is a long-standing annual event that promotes and celebrates the occasion of St Patrick&amp;rsquo;s Day, Irish culture and its contribution to the state of Queensland. The St Patrick&amp;rsquo;s Day Parade has been held amidst the streets of Brisbane city since 1989, flooding the inner-city district with a colourful convoy of more than 80 floats and displays representing Irish culture that provide free community-oriented entertainment for all ages.
-
-This Light Up is organised by: St Patrick&amp;#39;s Day Parade Association Incorporated</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/180880142</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -988,6 +362,141 @@ The Alliance Francaise French Film Festival will be presenting its 36th edition 
 
 This Light Up is organised by: Alliance Francaise de Brisbane</xCal:description>
 			<xCal:uid>http://uid.trumba.com/event/181269988</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Neurodiversity Celebration Week</title>
+			<description>Wednesday, 19 March 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit All Colours to support Neurodiversity Celebration Week&lt;br /&gt;&lt;br /&gt;Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council - BrisAbility &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d181269994</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/set6n9d0h48xz35egwpj54zzrj</x-trumba:ealink>
+			<category>2025/03/19 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/181269994</guid>
+			<xCal:summary>Neurodiversity Celebration Week</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-03-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 19 March 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-03-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Reddacliff Place sculptures  will be lit All Colours to support Neurodiversity Celebration Week
+
+Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. 
+
+This Light Up is organised by: Brisbane City Council - BrisAbility</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/181269994</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Neurodiversity Celebration Week</title>
+			<description>Wednesday, 19 March 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Purple, Orange, Blue, Yellow, Pink, Green to support Neurodiversity Celebration Week&lt;br /&gt;&lt;br /&gt;Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council - BrisAbility &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d181269995</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/s6p7mug784epy0250bzmeg9hmp</x-trumba:ealink>
+			<category>2025/03/19 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/181269995</guid>
+			<xCal:summary>Neurodiversity Celebration Week</xCal:summary>
+			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-03-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 19 March 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-03-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>City Hall will be lit Purple, Orange, Blue, Yellow, Pink, Green to support Neurodiversity Celebration Week
+
+Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. 
+
+This Light Up is organised by: Brisbane City Council - BrisAbility</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/181269995</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Neurodiversity Celebration Week</title>
+			<description>Wednesday, 19 March 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Purple, Orange, Blue, Yellow, Pink, Green to support Neurodiversity Celebration Week&lt;br /&gt;&lt;br /&gt;Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council - BrisAbility &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d181269993</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4yts3x7cu57pbjnkdzkc3gku7w</x-trumba:ealink>
+			<category>2025/03/19 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/181269993</guid>
+			<xCal:summary>Neurodiversity Celebration Week</xCal:summary>
+			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-03-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 19 March 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-03-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Kangaroo Point Bridge will be lit Purple, Orange, Blue, Yellow, Pink, Green to support Neurodiversity Celebration Week
+
+Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. 
+
+This Light Up is organised by: Brisbane City Council - BrisAbility</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/181269993</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Neurodiversity Celebration Week</title>
+			<description>Wednesday, 19 March 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Purple, Orange, Blue, Yellow, Pink, Green to support Neurodiversity Celebration Week&lt;br /&gt;&lt;br /&gt;Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council - BrisAbility &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d181269991</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w5m1thsy3pcykmsrnrxmeukexf</x-trumba:ealink>
+			<category>2025/03/19 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/181269991</guid>
+			<xCal:summary>Neurodiversity Celebration Week</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-03-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 19 March 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-03-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Story Bridge will be lit Purple, Orange, Blue, Yellow, Pink, Green to support Neurodiversity Celebration Week
+
+Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. 
+
+This Light Up is organised by: Brisbane City Council - BrisAbility</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/181269991</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Neurodiversity Celebration Week</title>
+			<description>Wednesday, 19 March 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Purple, Orange, Blue, Yellow, Pink, Green to support Neurodiversity Celebration Week&lt;br /&gt;&lt;br /&gt;Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council - BrisAbility &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/laws-and-permits/laws-and-permits-for-businesses/light-up-brisbane-and-hang-a-bridge-banner/light-up-brisbane?trumbaEmbed=view%3devent%26eventid%3d181269992</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/80gb3cu3drrvfjp1xs5dynum9x</x-trumba:ealink>
+			<category>2025/03/19 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/181269992</guid>
+			<xCal:summary>Neurodiversity Celebration Week</xCal:summary>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-03-18T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-03-19T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 19 March 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-03-19T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-03-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Victoria Bridge will be lit Purple, Orange, Blue, Yellow, Pink, Green to support Neurodiversity Celebration Week
+
+Neurodiversity Celebration Week is being held 17-23 March. The awareness week is a worldwide initiative that challenges stereotypes and misconceptions about neurological differences. It aims to transform how neurodivergent individuals are perceived and supported by providing schools, universities, organisations, and others around the world with the opportunity to recognise the many skills and talents of neurodivergent individuals, while creating more inclusive and equitable cultures that celebrate differences and empower every individual. 
+
+This Light Up is organised by: Brisbane City Council - BrisAbility</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/181269992</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
