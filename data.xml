@@ -11,444 +11,12 @@
 			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
 			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar</link>
 		</image>
-		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.24710//EN</xCal:prodid>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.24715//EN</xCal:prodid>
 		<xCal:version>2.0</xCal:version>
 		<xCal:method>PUBLISH</xCal:method>
 		<xCal:calscale>GREGORIAN</xCal:calscale>
 		<xCal:calname>Brisbane's calendar|Light up Brisbane</xCal:calname>
 		<xCal:timezone>Australia/Brisbane</xCal:timezone>
-		<item>
-			<title>NAIDOC Week</title>
-			<description>Sunday, 13 July 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Black Yellow Red and Blue White Green to recognise NAIDOC Week&lt;br /&gt;&lt;br /&gt;NAIDOC Week is held between 6-13 July 2025 honouring this year&amp;#8217;s theme of &amp;#39;The Next Generation: Strength, Vision and Legacy&amp;#8217;. This year&amp;#8217;s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185099922</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cn3m0j6d9rnzypea6x77u95sj1</x-trumba:ealink>
-			<category>2025/07/13 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185099922</guid>
-			<xCal:summary>NAIDOC Week</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 13 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Black Yellow Red and Blue White Green to recognise NAIDOC Week
-
-NAIDOC Week is held between 6-13 July 2025 honouring this year’s theme of 'The Next Generation: Strength, Vision and Legacy’. This year’s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185099922</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>NAIDOC Week</title>
-			<description>Sunday, 13 July 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Black Yellow Red and Blue White Green to recognise NAIDOC Week&lt;br /&gt;&lt;br /&gt;NAIDOC Week is held between 6-13 July 2025 honouring this year&amp;#8217;s theme of &amp;#39;The Next Generation: Strength, Vision and Legacy&amp;#8217;. This year&amp;#8217;s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185099945</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8yj3369wyzzvh1c7nhp4uyzyk7</x-trumba:ealink>
-			<category>2025/07/13 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185099945</guid>
-			<xCal:summary>NAIDOC Week</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 13 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Black Yellow Red and Blue White Green to recognise NAIDOC Week
-
-NAIDOC Week is held between 6-13 July 2025 honouring this year’s theme of 'The Next Generation: Strength, Vision and Legacy’. This year’s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185099945</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>NAIDOC Week</title>
-			<description>Sunday, 13 July 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Black Yellow Red and Blue White Green to recognise NAIDOC Week&lt;br /&gt;&lt;br /&gt;NAIDOC Week is held between 6-13 July 2025 honouring this year&amp;#8217;s theme of &amp;#39;The Next Generation: Strength, Vision and Legacy&amp;#8217;. This year&amp;#8217;s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185099902</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8n0hh6frhrg97r4dputu5nnyua</x-trumba:ealink>
-			<category>2025/07/13 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185099902</guid>
-			<xCal:summary>NAIDOC Week</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-07-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 13 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Black Yellow Red and Blue White Green to recognise NAIDOC Week
-
-NAIDOC Week is held between 6-13 July 2025 honouring this year’s theme of 'The Next Generation: Strength, Vision and Legacy’. This year’s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185099902</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>NAIDOC Week</title>
-			<description>Sunday, 13 July 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Black, Yellow, Red and Blue, White, Green to recognise NAIDOC Week&lt;br /&gt;&lt;br /&gt;NAIDOC Week is held between 6-13 July 2025 honouring this year&amp;#8217;s theme of &amp;#39;The Next Generation: Strength, Vision and Legacy&amp;#8217;. This year&amp;#8217;s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185099896</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0ucu97wz5pxfe3ym725h88rph3</x-trumba:ealink>
-			<category>2025/07/13 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185099896</guid>
-			<xCal:summary>NAIDOC Week</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-07-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 13 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Black, Yellow, Red and Blue, White, Green to recognise NAIDOC Week
-
-NAIDOC Week is held between 6-13 July 2025 honouring this year’s theme of 'The Next Generation: Strength, Vision and Legacy’. This year’s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185099896</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>NAIDOC Week</title>
-			<description>Sunday, 13 July 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Black Yellow Red and Blue White Green to recognise NAIDOC Week&lt;br /&gt;&lt;br /&gt;NAIDOC Week is held between 6-13 July 2025 honouring this year&amp;#8217;s theme of &amp;#39;The Next Generation: Strength, Vision and Legacy&amp;#8217;. This year&amp;#8217;s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane City Council &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185099899</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wc272wyph9rg3ee4ymfdf3d7ys</x-trumba:ealink>
-			<category>2025/07/13 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185099899</guid>
-			<xCal:summary>NAIDOC Week</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-12T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-13T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 13 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-13T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-14T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Black Yellow Red and Blue White Green to recognise NAIDOC Week
-
-NAIDOC Week is held between 6-13 July 2025 honouring this year’s theme of 'The Next Generation: Strength, Vision and Legacy’. This year’s theme celebrates not only the achievements of the past but the bright future ahead, empowered by the strength of our young leaders, the vision of our communities, and the legacy of our ancestors. NAIDOC Week is usually celebrated in the first full week of July each year. NAIDOC stands for the National Aboriginal and Islander Day of Observance Committee.
-
-This Light Up is organised by: Brisbane City Council</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185099899</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane Open House</title>
-			<description>Friday, 18 July 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Orange to celebrate Brisbane Open House&lt;br /&gt;&lt;br /&gt;Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane&amp;#8217;s built environment. The experience opens people&amp;#8217;s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Open House Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104939</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c0cg0ymyyksa2h1jdgnvfbcyhx</x-trumba:ealink>
-			<category>2025/07/18 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104939</guid>
-			<xCal:summary>Brisbane Open House</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-07-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 18 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Orange to celebrate Brisbane Open House
-
-Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane’s built environment. The experience opens people’s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.
-
-This Light Up is organised by: Brisbane Open House Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104939</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane Open House</title>
-			<description>Friday, 18 July 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Orange to celebrate Brisbane Open House&lt;br /&gt;&lt;br /&gt;Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane&amp;#8217;s built environment. The experience opens people&amp;#8217;s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Open House Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104940</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cc4vv8aa6ew14d8zgfcgdh5cdu</x-trumba:ealink>
-			<category>2025/07/18 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104940</guid>
-			<xCal:summary>Brisbane Open House</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 18 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Orange to celebrate Brisbane Open House
-
-Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane’s built environment. The experience opens people’s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.
-
-This Light Up is organised by: Brisbane Open House Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104940</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane Open House</title>
-			<description>Friday, 18 July 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Orange to celebrate Brisbane Open House&lt;br /&gt;&lt;br /&gt;Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane&amp;#8217;s built environment. The experience opens people&amp;#8217;s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Open House Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104938</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/su6d1245s7y13sfzssg1u42cct</x-trumba:ealink>
-			<category>2025/07/18 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104938</guid>
-			<xCal:summary>Brisbane Open House</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 18 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Orange to celebrate Brisbane Open House
-
-Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane’s built environment. The experience opens people’s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.
-
-This Light Up is organised by: Brisbane Open House Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104938</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane Open House</title>
-			<description>Friday, 18 July 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Orange to celebrate Brisbane Open House&lt;br /&gt;&lt;br /&gt;Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane&amp;#8217;s built environment. The experience opens people&amp;#8217;s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Open House Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104936</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sdmfdp0fzxzzxrep7um1jn4910</x-trumba:ealink>
-			<category>2025/07/18 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104936</guid>
-			<xCal:summary>Brisbane Open House</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-07-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 18 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Orange to celebrate Brisbane Open House
-
-Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane’s built environment. The experience opens people’s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.
-
-This Light Up is organised by: Brisbane Open House Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104936</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Brisbane Open House</title>
-			<description>Friday, 18 July 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Orange to celebrate Brisbane Open House&lt;br /&gt;&lt;br /&gt;Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane&amp;#8217;s built environment. The experience opens people&amp;#8217;s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Open House Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104937</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/w7huu3yddyfht9eswdhyn8k8ah</x-trumba:ealink>
-			<category>2025/07/18 (Fri)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104937</guid>
-			<xCal:summary>Brisbane Open House</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-17T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-18T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Friday, 18 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-18T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Orange to celebrate Brisbane Open House
-
-Brisbane Open House Weekend is an annual community festival, providing Brisbane residents and visitors with the rare opportunity to discover the hidden wealth of architecture, engineering and history in buildings and places around Brisbane city. Running 18 to 20 July 2025, selected buildings are open to the public with guided and self-guided tours encouraging visitors to explore, re-examine and engage with Brisbane’s built environment. The experience opens people’s eyes and minds to good design and curious spaces, as we evolve into an Olympic city.
-
-This Light Up is organised by: Brisbane Open House Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104937</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Queensland WaterAid Gala Ball</title>
-			<description>Saturday, 19 July 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Red to support Queensland WaterAid Gala Ball&lt;br /&gt;&lt;br /&gt;Event taking place in City Hall&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Wateraid Australia Ltd &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104946</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/c79tn3jcnachwdzx5p4zwcpjbe</x-trumba:ealink>
-			<category>2025/07/19 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104946</guid>
-			<xCal:summary>Queensland WaterAid Gala Ball</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 19 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Red to support Queensland WaterAid Gala Ball
-
-Event taking place in City Hall
-
-This Light Up is organised by: Wateraid Australia Ltd</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104946</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Wallabies v The British &#38; Irish Lions</title>
-			<description>Saturday, 19 July 2025 &lt;br/&gt;&lt;br/&gt;City Hall will be lit Green and Gold to celebrate Wallabies v The British &amp;amp; Irish Lions&lt;br /&gt;&lt;br /&gt;The Lions are coming! For the first time in 12 years, The British &amp;amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions &amp;#8212; a team of the best men&amp;#8217;s rugby players from England, Ireland, Scotland and Wales &amp;#8211; play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let&amp;#8217;s get behind the Wallabies for this International match. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=266279&amp;amp;objecttype=19243&amp;amp;seotitle=Brisbane-City-Hall-Brisbane-City&amp;amp;key=65ee334ef4ba718a978e0c8387376cbf&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Brisbane City Hall, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=64+Adelaide+St%2c+Brisbane+City+QLD+4000%2c+Australia" target="_blank" rel="noopener"&gt;Brisbane City Hall, 64 Adelaide Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Library, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104945</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/49hunw6ka33deu7d1nj0dkz6au</x-trumba:ealink>
-			<category>2025/07/19 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104945</guid>
-			<xCal:summary>Wallabies v The British &amp; Irish Lions</xCal:summary>
-			<xCal:location>Brisbane City Hall, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 19 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>City Hall will be lit Green and Gold to celebrate Wallabies v The British &amp; Irish Lions
-
-The Lions are coming! For the first time in 12 years, The British &amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions — a team of the best men’s rugby players from England, Ireland, Scotland and Wales – play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let’s get behind the Wallabies for this International match. 
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104945</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Brisbane City Hall, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Brisbane City Hall, 64 Adelaide Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Library,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Wallabies v The British &#38; Irish Lions</title>
-			<description>Saturday, 19 July 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Green and Gold to celebrate the Wallabies v The British &amp;amp; Irish Lions&lt;br /&gt;&lt;br /&gt;The Lions are coming! For the first time in 12 years, The British &amp;amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions &amp;#8212; a team of the best men&amp;#8217;s rugby players from England, Ireland, Scotland and Wales &amp;#8211; play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let&amp;#8217;s get behind the Wallabies for this International match. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104941</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4sx3ta262rd5byke4f28kaaffc</x-trumba:ealink>
-			<category>2025/07/19 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104941</guid>
-			<xCal:summary>Wallabies v The British &amp; Irish Lions</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-07-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 19 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Green and Gold to celebrate the Wallabies v The British &amp; Irish Lions
-
-The Lions are coming! For the first time in 12 years, The British &amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions — a team of the best men’s rugby players from England, Ireland, Scotland and Wales – play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let’s get behind the Wallabies for this International match. 
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104941</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Wallabies v The British &#38; Irish Lions</title>
-			<description>Saturday, 19 July 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Green and Gold to celebrate Wallabies v The British &amp;amp; Irish Lions&lt;br /&gt;&lt;br /&gt;The Lions are coming! For the first time in 12 years, The British &amp;amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions &amp;#8212; a team of the best men&amp;#8217;s rugby players from England, Ireland, Scotland and Wales &amp;#8211; play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let&amp;#8217;s get behind the Wallabies for this International match. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104944</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/g5f3uz1e9ptgjzdyd94e995wjd</x-trumba:ealink>
-			<category>2025/07/19 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104944</guid>
-			<xCal:summary>Wallabies v The British &amp; Irish Lions</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 19 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Green and Gold to celebrate Wallabies v The British &amp; Irish Lions
-
-The Lions are coming! For the first time in 12 years, The British &amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions — a team of the best men’s rugby players from England, Ireland, Scotland and Wales – play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let’s get behind the Wallabies for this International match. 
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104944</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Wallabies v The British &#38; Irish Lions</title>
-			<description>Saturday, 19 July 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Green and Gold to celebrate the Wallabies v The British &amp;amp; Irish Lions&lt;br /&gt;&lt;br /&gt;The Lions are coming! For the first time in 12 years, The British &amp;amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions &amp;#8212; a team of the best men&amp;#8217;s rugby players from England, Ireland, Scotland and Wales &amp;#8211; play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let&amp;#8217;s get behind the Wallabies for this International match. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104942</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4r3115bza6z25vvrw9fdngb2ks</x-trumba:ealink>
-			<category>2025/07/19 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104942</guid>
-			<xCal:summary>Wallabies v The British &amp; Irish Lions</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 19 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Green and Gold to celebrate the Wallabies v The British &amp; Irish Lions
-
-The Lions are coming! For the first time in 12 years, The British &amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions — a team of the best men’s rugby players from England, Ireland, Scotland and Wales – play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let’s get behind the Wallabies for this International match. 
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104942</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Wallabies v The British &#38; Irish Lions</title>
-			<description>Saturday, 19 July 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Green and Gold to celebrate Wallabies v The British &amp;amp; Irish Lions&lt;br /&gt;&lt;br /&gt;The Lions are coming! For the first time in 12 years, The British &amp;amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions &amp;#8212; a team of the best men&amp;#8217;s rugby players from England, Ireland, Scotland and Wales &amp;#8211; play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let&amp;#8217;s get behind the Wallabies for this International match. &lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Brisbane Economic Development Agency &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104943</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/83f84un5rapp64patkkre0pe2y</x-trumba:ealink>
-			<category>2025/07/19 (Sat)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104943</guid>
-			<xCal:summary>Wallabies v The British &amp; Irish Lions</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-07-18T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-19T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Saturday, 19 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-19T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-20T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Green and Gold to celebrate Wallabies v The British &amp; Irish Lions
-
-The Lions are coming! For the first time in 12 years, The British &amp; Irish Lions Tour will return to Australia for a festival of Rugby across the country. The Tour will be the first in Australia since 2013, and will see the Lions — a team of the best men’s rugby players from England, Ireland, Scotland and Wales – play nine matches across Australia, including three Test matches against the Wallabies. The first is in Brisbane so let’s get behind the Wallabies for this International match. 
-
-This Light Up is organised by: Brisbane Economic Development Agency</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104943</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
 		<item>
 			<title>National Day of Colombia</title>
 			<description>Sunday, 20 July 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Red, Blue and Yellow to celebrate National Day of Colombia&lt;br /&gt;&lt;br /&gt;The Commemoration of the Colombian National Day holds great significance for the Colombian community, as it marked a turning point in the struggle for independence and became a defining moment in the birth of the Colombian Nation. By celebrating this we wish to recognize the Colombian community in Brisbane, a vibrant, inclusive and prosperous city which many of our nationals call home.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Embassy of the Republic of Colombia &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
@@ -1280,33 +848,6 @@ This Light Up is organised by: Relationships Australia Qld</xCal:description>
 		</item>
 		<item>
 			<title>Gambling Harm Awareness Week</title>
-			<description>Sunday, 27 July 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Green to support Gambling Harm Awareness Week &lt;br /&gt;&lt;br /&gt;Relationships Australia Qld is the predominate deliverer of Gambling Help service in Queensland and is tasked each year to deliver the state launch of Gambling Harm Awareness Week in Brisbane. A portion of our community experience gambling harm and in turn so does the family and supports. This week is to raise awareness to those experiencing harms that help is available.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Relationships Australia Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104990</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wgfg7ers92ukpfvk8jm0pw8d0z</x-trumba:ealink>
-			<category>2025/07/27 (Sun)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104990</guid>
-			<xCal:summary>Gambling Harm Awareness Week</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-07-26T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-27T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Sunday, 27 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-27T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-28T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Green to support Gambling Harm Awareness Week 
-
-Relationships Australia Qld is the predominate deliverer of Gambling Help service in Queensland and is tasked each year to deliver the state launch of Gambling Harm Awareness Week in Brisbane. A portion of our community experience gambling harm and in turn so does the family and supports. This week is to raise awareness to those experiencing harms that help is available.
-
-This Light Up is organised by: Relationships Australia Qld</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104990</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Gambling Harm Awareness Week</title>
 			<description>Sunday, 27 July 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Green to support Gambling Harm Awareness Week &lt;br /&gt;&lt;br /&gt;Relationships Australia Qld is the predominate deliverer of Gambling Help service in Queensland and is tasked each year to deliver the state launch of Gambling Harm Awareness Week in Brisbane. A portion of our community experience gambling harm and in turn so does the family and supports. This week is to raise awareness to those experiencing harms that help is available.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Relationships Australia Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104991</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/cf78mkx1fcy4x5mkv49fsjwkdy</x-trumba:ealink>
@@ -1329,6 +870,33 @@ This Light Up is organised by: Relationships Australia Qld</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Gambling Harm Awareness Week</title>
+			<description>Sunday, 27 July 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Green to support Gambling Harm Awareness Week &lt;br /&gt;&lt;br /&gt;Relationships Australia Qld is the predominate deliverer of Gambling Help service in Queensland and is tasked each year to deliver the state launch of Gambling Harm Awareness Week in Brisbane. A portion of our community experience gambling harm and in turn so does the family and supports. This week is to raise awareness to those experiencing harms that help is available.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Relationships Australia Qld &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104990</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/wgfg7ers92ukpfvk8jm0pw8d0z</x-trumba:ealink>
+			<category>2025/07/27 (Sun)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/185104990</guid>
+			<xCal:summary>Gambling Harm Awareness Week</xCal:summary>
+			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-07-26T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-27T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Sunday, 27 July 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-07-27T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-28T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Kangaroo Point Bridge will be lit Green to support Gambling Harm Awareness Week 
+
+Relationships Australia Qld is the predominate deliverer of Gambling Help service in Queensland and is tasked each year to deliver the state launch of Gambling Harm Awareness Week in Brisbane. A portion of our community experience gambling harm and in turn so does the family and supports. This week is to raise awareness to those experiencing harms that help is available.
+
+This Light Up is organised by: Relationships Australia Qld</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/185104990</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -1469,33 +1037,6 @@ This Light Up is organised by: Hepatitis Queensland</xCal:description>
 		</item>
 		<item>
 			<title>DonateLife Week</title>
-			<description>Tuesday, 29 July 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Magenta to support DonateLife Week&lt;br /&gt;&lt;br /&gt;DonateLife aims to save the lives of the 1800 patients waitlisted for an organ transplant by encouraging more Australians to sign up as organ and tissue donors and talk to their families. The annual national DonateLife Week encourages Australians to register as organ and tissue donors, helping DonateLife save the lives of those on the transplant waitlist. DonateLife Qld runs events throughout this week.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Metro Health South &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105000</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sgcm2bnyg7g0f8en0jh3er8xb6</x-trumba:ealink>
-			<category>2025/07/29 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185105000</guid>
-			<xCal:summary>DonateLife Week</xCal:summary>
-			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-28T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-29T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Tuesday, 29 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-29T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-30T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Victoria Bridge will be lit Magenta to support DonateLife Week
-
-DonateLife aims to save the lives of the 1800 patients waitlisted for an organ transplant by encouraging more Australians to sign up as organ and tissue donors and talk to their families. The annual national DonateLife Week encourages Australians to register as organ and tissue donors, helping DonateLife save the lives of those on the transplant waitlist. DonateLife Qld runs events throughout this week.
-
-This Light Up is organised by: Metro Health South</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185105000</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>DonateLife Week</title>
 			<description>Tuesday, 29 July 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures will be lit Magenta to support DonateLife Week&lt;br /&gt;&lt;br /&gt;DonateLife aims to save the lives of the 1800 patients waitlisted for an organ transplant by encouraging more Australians to sign up as organ and tissue donors and talk to their families. The annual national DonateLife Week encourages Australians to register as organ and tissue donors, helping DonateLife save the lives of those on the transplant waitlist. DonateLife Qld runs events throughout this week.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Metro Health South &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104998</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/4fktgwkfjp6xx9286cuc4nvc1n</x-trumba:ealink>
@@ -1523,28 +1064,28 @@ This Light Up is organised by: Metro Health South</xCal:description>
 		</item>
 		<item>
 			<title>DonateLife Week</title>
-			<description>Tuesday, 29 July 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Magenta to support DonateLife Week&lt;br /&gt;&lt;br /&gt;DonateLife aims to save the lives of the 1800 patients waitlisted for an organ transplant by encouraging more Australians to sign up as organ and tissue donors and talk to their families. The annual national DonateLife Week encourages Australians to register as organ and tissue donors, helping DonateLife save the lives of those on the transplant waitlist. DonateLife Qld runs events throughout this week.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Metro Health South &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104997</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ws2gnv6he0vghm5mrzkawrre38</x-trumba:ealink>
+			<description>Tuesday, 29 July 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Magenta to support DonateLife Week&lt;br /&gt;&lt;br /&gt;DonateLife aims to save the lives of the 1800 patients waitlisted for an organ transplant by encouraging more Australians to sign up as organ and tissue donors and talk to their families. The annual national DonateLife Week encourages Australians to register as organ and tissue donors, helping DonateLife save the lives of those on the transplant waitlist. DonateLife Qld runs events throughout this week.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Metro Health South &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105000</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/sgcm2bnyg7g0f8en0jh3er8xb6</x-trumba:ealink>
 			<category>2025/07/29 (Tue)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185104997</guid>
+			<guid isPermaLink="false">http://uid.trumba.com/event/185105000</guid>
 			<xCal:summary>DonateLife Week</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:location>Victoria Bridge, Brisbane City</xCal:location>
 			<xCal:dtstart>2025-07-28T14:00:00Z</xCal:dtstart>
 			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-29T00:00:00</x-trumba:localstart>
 			<x-trumba:formatteddatetime>Tuesday, 29 July 2025</x-trumba:formatteddatetime>
 			<xCal:dtend>2025-07-29T14:00:00Z</xCal:dtend>
 			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-30T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Magenta to support DonateLife Week
+			<xCal:description>Victoria Bridge will be lit Magenta to support DonateLife Week
 
 DonateLife aims to save the lives of the 1800 patients waitlisted for an organ transplant by encouraging more Australians to sign up as organ and tissue donors and talk to their families. The annual national DonateLife Week encourages Australians to register as organ and tissue donors, helping DonateLife save the lives of those on the transplant waitlist. DonateLife Qld runs events throughout this week.
 
 This Light Up is organised by: Metro Health South</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185104997</xCal:uid>
+			<xCal:uid>http://uid.trumba.com/event/185105000</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -1576,56 +1117,29 @@ This Light Up is organised by: Metro Health South</xCal:description>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
 		<item>
-			<title>Eve of World Ranger Day</title>
-			<description>Wednesday, 30 July 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Green to support the Eve of World Ranger Day &lt;br /&gt;&lt;br /&gt;Queensland Ranger Association connects people working in protected area management (National Parks) and wildlife conservation (rangers, wildlife rangers) across Queensland. We provide networking, upskilling and sponsorship to various events nationally and internationally. We raise awareness for fallen Rangers in Oceania and supported by global foundations, like the Thin Green Line and International Ranger Federation. We have members from Department of Environment, Great Barrier Reef Authority, local land councils as well as First Nations Land &amp;amp; Sea Ranger Organisations.&amp;#160;The annual World Ranger Day on July 31st raises awareness each year to reflect on sacrifices and lives lost by rangers around the world, and Australia. It is also a day to celebrate the incredible work that rangers, wildlife rangers do in national parks and with biodiversity conservation to protect Queensland and the world&amp;#39;s natural treasures and cultural heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Ranger Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105003</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/84xt0ffh1xg4enwz5yzd4cwmr9</x-trumba:ealink>
-			<category>2025/07/30 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185105003</guid>
-			<xCal:summary>Eve of World Ranger Day</xCal:summary>
-			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-07-29T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-30T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, 30 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-30T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-31T00:00:00</x-trumba:localend>
+			<title>DonateLife Week</title>
+			<description>Tuesday, 29 July 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Magenta to support DonateLife Week&lt;br /&gt;&lt;br /&gt;DonateLife aims to save the lives of the 1800 patients waitlisted for an organ transplant by encouraging more Australians to sign up as organ and tissue donors and talk to their families. The annual national DonateLife Week encourages Australians to register as organ and tissue donors, helping DonateLife save the lives of those on the transplant waitlist. DonateLife Qld runs events throughout this week.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Metro Health South &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185104997</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/ws2gnv6he0vghm5mrzkawrre38</x-trumba:ealink>
+			<category>2025/07/29 (Tue)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/185104997</guid>
+			<xCal:summary>DonateLife Week</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-07-28T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-29T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Tuesday, 29 July 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-07-29T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-30T00:00:00</x-trumba:localend>
 			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Kangaroo Point Bridge will be lit Green to support the Eve of World Ranger Day 
+			<xCal:description>Story Bridge will be lit Magenta to support DonateLife Week
 
-Queensland Ranger Association connects people working in protected area management (National Parks) and wildlife conservation (rangers, wildlife rangers) across Queensland. We provide networking, upskilling and sponsorship to various events nationally and internationally. We raise awareness for fallen Rangers in Oceania and supported by global foundations, like the Thin Green Line and International Ranger Federation. We have members from Department of Environment, Great Barrier Reef Authority, local land councils as well as First Nations Land &amp; Sea Ranger Organisations. The annual World Ranger Day on July 31st raises awareness each year to reflect on sacrifices and lives lost by rangers around the world, and Australia. It is also a day to celebrate the incredible work that rangers, wildlife rangers do in national parks and with biodiversity conservation to protect Queensland and the world's natural treasures and cultural heritage.
+DonateLife aims to save the lives of the 1800 patients waitlisted for an organ transplant by encouraging more Australians to sign up as organ and tissue donors and talk to their families. The annual national DonateLife Week encourages Australians to register as organ and tissue donors, helping DonateLife save the lives of those on the transplant waitlist. DonateLife Qld runs events throughout this week.
 
-This Light Up is organised by: Queensland Ranger Association</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185105003</xCal:uid>
+This Light Up is organised by: Metro Health South</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/185104997</xCal:uid>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Eve of World Ranger Day</title>
-			<description>Wednesday, 30 July 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Green to support the Eve of World Ranger Day &lt;br /&gt;&lt;br /&gt;Queensland Ranger Association connects people working in protected area management (National Parks) and wildlife conservation (rangers, wildlife rangers) across Queensland. We provide networking, upskilling and sponsorship to various events nationally and internationally. We raise awareness for fallen Rangers in Oceania and supported by global foundations, like the Thin Green Line and International Ranger Federation. We have members from Department of Environment, Great Barrier Reef Authority, local land councils as well as First Nations Land &amp;amp; Sea Ranger Organisations.&amp;#160;The annual World Ranger Day on July 31st raises awareness each year to reflect on sacrifices and lives lost by rangers around the world, and Australia. It is also a day to celebrate the incredible work that rangers, wildlife rangers do in national parks and with biodiversity conservation to protect Queensland and the world&amp;#39;s natural treasures and cultural heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Ranger Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105004</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8e8wke83hs8zxp6acjarzgdydn</x-trumba:ealink>
-			<category>2025/07/30 (Wed)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185105004</guid>
-			<xCal:summary>Eve of World Ranger Day</xCal:summary>
-			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
-			<xCal:dtstart>2025-07-29T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-30T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Wednesday, 30 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-30T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-31T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Reddacliff Place sculptures  will be lit Green to support the Eve of World Ranger Day 
-
-Queensland Ranger Association connects people working in protected area management (National Parks) and wildlife conservation (rangers, wildlife rangers) across Queensland. We provide networking, upskilling and sponsorship to various events nationally and internationally. We raise awareness for fallen Rangers in Oceania and supported by global foundations, like the Thin Green Line and International Ranger Federation. We have members from Department of Environment, Great Barrier Reef Authority, local land councils as well as First Nations Land &amp; Sea Ranger Organisations. The annual World Ranger Day on July 31st raises awareness each year to reflect on sacrifices and lives lost by rangers around the world, and Australia. It is also a day to celebrate the incredible work that rangers, wildlife rangers do in national parks and with biodiversity conservation to protect Queensland and the world's natural treasures and cultural heritage.
-
-This Light Up is organised by: Queensland Ranger Association</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185105004</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -1658,6 +1172,33 @@ This Light Up is organised by: Queensland Ranger Association</xCal:description>
 		</item>
 		<item>
 			<title>Eve of World Ranger Day</title>
+			<description>Wednesday, 30 July 2025 &lt;br/&gt;&lt;br/&gt;Reddacliff Place sculptures  will be lit Green to support the Eve of World Ranger Day &lt;br /&gt;&lt;br /&gt;Queensland Ranger Association connects people working in protected area management (National Parks) and wildlife conservation (rangers, wildlife rangers) across Queensland. We provide networking, upskilling and sponsorship to various events nationally and internationally. We raise awareness for fallen Rangers in Oceania and supported by global foundations, like the Thin Green Line and International Ranger Federation. We have members from Department of Environment, Great Barrier Reef Authority, local land councils as well as First Nations Land &amp;amp; Sea Ranger Organisations.&amp;#160;The annual World Ranger Day on July 31st raises awareness each year to reflect on sacrifices and lives lost by rangers around the world, and Australia. It is also a day to celebrate the incredible work that rangers, wildlife rangers do in national parks and with biodiversity conservation to protect Queensland and the world&amp;#39;s natural treasures and cultural heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Ranger Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=200260&amp;amp;objecttype=19243&amp;amp;seotitle=Reddacliff-Place-Brisbane-City&amp;amp;key=593953da12e1c4a4e010c1e88822ff6d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Reddacliff Place, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.471025,153.023132(Reddacliff+Place%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Reddacliff Place, 266 George Street, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105004</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/8e8wke83hs8zxp6acjarzgdydn</x-trumba:ealink>
+			<category>2025/07/30 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/185105004</guid>
+			<xCal:summary>Eve of World Ranger Day</xCal:summary>
+			<xCal:location>Reddacliff Place, Brisbane City</xCal:location>
+			<xCal:dtstart>2025-07-29T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-30T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 30 July 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-07-30T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-31T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Reddacliff Place sculptures  will be lit Green to support the Eve of World Ranger Day 
+
+Queensland Ranger Association connects people working in protected area management (National Parks) and wildlife conservation (rangers, wildlife rangers) across Queensland. We provide networking, upskilling and sponsorship to various events nationally and internationally. We raise awareness for fallen Rangers in Oceania and supported by global foundations, like the Thin Green Line and International Ranger Federation. We have members from Department of Environment, Great Barrier Reef Authority, local land councils as well as First Nations Land &amp; Sea Ranger Organisations. The annual World Ranger Day on July 31st raises awareness each year to reflect on sacrifices and lives lost by rangers around the world, and Australia. It is also a day to celebrate the incredible work that rangers, wildlife rangers do in national parks and with biodiversity conservation to protect Queensland and the world's natural treasures and cultural heritage.
+
+This Light Up is organised by: Queensland Ranger Association</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/185105004</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Reddacliff Place, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Reddacliff Place, 266 George Street, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Eve of World Ranger Day</title>
 			<description>Wednesday, 30 July 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Green to support the Eve of World Ranger Day &lt;br /&gt;&lt;br /&gt;Queensland Ranger Association connects people working in protected area management (National Parks) and wildlife conservation (rangers, wildlife rangers) across Queensland. We provide networking, upskilling and sponsorship to various events nationally and internationally. We raise awareness for fallen Rangers in Oceania and supported by global foundations, like the Thin Green Line and International Ranger Federation. We have members from Department of Environment, Great Barrier Reef Authority, local land councils as well as First Nations Land &amp;amp; Sea Ranger Organisations.&amp;#160;The annual World Ranger Day on July 31st raises awareness each year to reflect on sacrifices and lives lost by rangers around the world, and Australia. It is also a day to celebrate the incredible work that rangers, wildlife rangers do in national parks and with biodiversity conservation to protect Queensland and the world&amp;#39;s natural treasures and cultural heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Ranger Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105002</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0895fjyvvnd7aw4gbn4smx3nrc</x-trumba:ealink>
@@ -1680,6 +1221,33 @@ This Light Up is organised by: Queensland Ranger Association</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Eve of World Ranger Day</title>
+			<description>Wednesday, 30 July 2025 &lt;br/&gt;&lt;br/&gt;Kangaroo Point Bridge will be lit Green to support the Eve of World Ranger Day &lt;br /&gt;&lt;br /&gt;Queensland Ranger Association connects people working in protected area management (National Parks) and wildlife conservation (rangers, wildlife rangers) across Queensland. We provide networking, upskilling and sponsorship to various events nationally and internationally. We raise awareness for fallen Rangers in Oceania and supported by global foundations, like the Thin Green Line and International Ranger Federation. We have members from Department of Environment, Great Barrier Reef Authority, local land councils as well as First Nations Land &amp;amp; Sea Ranger Organisations.&amp;#160;The annual World Ranger Day on July 31st raises awareness each year to reflect on sacrifices and lives lost by rangers around the world, and Australia. It is also a day to celebrate the incredible work that rangers, wildlife rangers do in national parks and with biodiversity conservation to protect Queensland and the world&amp;#39;s natural treasures and cultural heritage.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Queensland Ranger Association &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=2018825&amp;amp;objecttype=19243&amp;amp;seotitle=Kangaroo-Point-Bridge-Kangaroo-Point&amp;amp;key=28c2b150f1f914f2c2eeb354279cb92d&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Kangaroo Point Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;Kangaroo Point Bridge, Scott Street, Kangaroo Point &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105003</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/84xt0ffh1xg4enwz5yzd4cwmr9</x-trumba:ealink>
+			<category>2025/07/30 (Wed)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/185105003</guid>
+			<xCal:summary>Eve of World Ranger Day</xCal:summary>
+			<xCal:location>Kangaroo Point Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-07-29T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-30T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Wednesday, 30 July 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-07-30T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-07-31T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Kangaroo Point Bridge will be lit Green to support the Eve of World Ranger Day 
+
+Queensland Ranger Association connects people working in protected area management (National Parks) and wildlife conservation (rangers, wildlife rangers) across Queensland. We provide networking, upskilling and sponsorship to various events nationally and internationally. We raise awareness for fallen Rangers in Oceania and supported by global foundations, like the Thin Green Line and International Ranger Federation. We have members from Department of Environment, Great Barrier Reef Authority, local land councils as well as First Nations Land &amp; Sea Ranger Organisations. The annual World Ranger Day on July 31st raises awareness each year to reflect on sacrifices and lives lost by rangers around the world, and Australia. It is also a day to celebrate the incredible work that rangers, wildlife rangers do in national parks and with biodiversity conservation to protect Queensland and the world's natural treasures and cultural heritage.
+
+This Light Up is organised by: Queensland Ranger Association</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/185105003</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Kangaroo Point Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Kangaroo Point Bridge, Scott Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
@@ -1712,33 +1280,6 @@ This Light Up is organised by: Rural Fire Service Queensland</xCal:description>
 		</item>
 		<item>
 			<title>Rural Fire Service Queensland Week</title>
-			<description>Thursday, 31 July 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Yellow to support Rural Fire Service Queensland&amp;#160;Week&lt;br /&gt;&lt;br /&gt;Rural Fire Service Queensland (RFSQ) has a state-wide volunteer workforce comprised of dedicated people who are ready to support their communities when needed. RFSQ Week 2025 will commence from Sunday, 27 July to Saturday, 2 August and will highlight the dedication and commitment of RFSQ volunteer members. Rural Fire Service Queensland Week is a state-wide celebration held each year in recognition of the critical and invaluable role volunteer members perform in emergency service delivery in Queensland.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Rural Fire Service Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
-			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105005</link>
-			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mrjg4km8hpwtjmawhxvbnxb3c7</x-trumba:ealink>
-			<category>2025/07/31 (Thu)</category>
-			<guid isPermaLink="false">http://uid.trumba.com/event/185105005</guid>
-			<xCal:summary>Rural Fire Service Queensland Week</xCal:summary>
-			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
-			<xCal:dtstart>2025-07-30T14:00:00Z</xCal:dtstart>
-			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-31T00:00:00</x-trumba:localstart>
-			<x-trumba:formatteddatetime>Thursday, 31 July 2025</x-trumba:formatteddatetime>
-			<xCal:dtend>2025-07-31T14:00:00Z</xCal:dtend>
-			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-08-01T00:00:00</x-trumba:localend>
-			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
-			<xCal:description>Story Bridge will be lit Yellow to support Rural Fire Service Queensland&amp;nbsp;Week
-
-Rural Fire Service Queensland (RFSQ) has a state-wide volunteer workforce comprised of dedicated people who are ready to support their communities when needed. RFSQ Week 2025 will commence from Sunday, 27 July to Saturday, 2 August and will highlight the dedication and commitment of RFSQ volunteer members. Rural Fire Service Queensland Week is a state-wide celebration held each year in recognition of the critical and invaluable role volunteer members perform in emergency service delivery in Queensland.
-
-This Light Up is organised by: Rural Fire Service Queensland</xCal:description>
-			<xCal:uid>http://uid.trumba.com/event/185105005</xCal:uid>
-			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
-			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
-			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
-			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
-		</item>
-		<item>
-			<title>Rural Fire Service Queensland Week</title>
 			<description>Thursday, 31 July 2025 &lt;br/&gt;&lt;br/&gt;Victoria Bridge will be lit Yellow to support Rural Fire Service&amp;#160;Queensland&amp;#160; Week&lt;br /&gt;&lt;br /&gt;Rural Fire Service Queensland (RFSQ) has a state-wide volunteer workforce comprised of dedicated people who are ready to support their communities when needed. RFSQ Week 2025 will commence from Sunday, 27 July to Saturday, 2 August and will highlight the dedication and commitment of RFSQ volunteer members. Rural Fire Service Queensland Week is a state-wide celebration held each year in recognition of the critical and invaluable role volunteer members perform in emergency service delivery in Queensland.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Rural Fire Service Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964861&amp;amp;objecttype=19243&amp;amp;seotitle=Victoria-Bridge-Brisbane-City&amp;amp;key=7fb8dfadd72e32a53654b0bd1ad46fc6&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.4722996,153.0188074(Victoria+Bridge%2c+Brisbane+City)" target="_blank" rel="noopener"&gt;Victoria Bridge, Brisbane City&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
 			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105006</link>
 			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/0x0rwu1ta7d8gm2efrytm8s4kx</x-trumba:ealink>
@@ -1761,6 +1302,33 @@ This Light Up is organised by: Rural Fire Service Queensland</xCal:description>
 			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
 			<x-trumba:customfield name="Light up asset" id="67489" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
 			<x-trumba:customfield name="Venue address" id="22505" type="text">Victoria Bridge, Brisbane City</x-trumba:customfield>
+			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
+			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Rural Fire Service Queensland Week</title>
+			<description>Thursday, 31 July 2025 &lt;br/&gt;&lt;br/&gt;Story Bridge will be lit Yellow to support Rural Fire Service Queensland&amp;#160;Week&lt;br /&gt;&lt;br /&gt;Rural Fire Service Queensland (RFSQ) has a state-wide volunteer workforce comprised of dedicated people who are ready to support their communities when needed. RFSQ Week 2025 will commence from Sunday, 27 July to Saturday, 2 August and will highlight the dedication and commitment of RFSQ volunteer members. Rural Fire Service Queensland Week is a state-wide celebration held each year in recognition of the critical and invaluable role volunteer members perform in emergency service delivery in Queensland.&lt;br /&gt;&lt;br /&gt;This Light Up is organised by: Rural Fire Service Queensland &lt;br/&gt;&lt;br/&gt;&lt;b&gt;Light up asset&lt;/b&gt;:&amp;nbsp;&lt;a href="javascript:Nav(&amp;#39;objectid=964835&amp;amp;objecttype=19243&amp;amp;seotitle=Story-Bridge-Kangaroo-Point&amp;amp;key=007c3d18c863bafaddf8444539526a01&amp;amp;view=object&amp;amp;-childview=&amp;amp;-index=&amp;#39;,&amp;#39;detailBase&amp;#39;)"&gt;Story Bridge, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue address&lt;/b&gt;:&amp;nbsp;&lt;a href="http://maps.google.com/?q=-27.463298,153.035756(Story+Bridge%2c+Kangaroo+Point)" target="_blank" rel="noopener"&gt;Story Bridge, Main Street, Kangaroo Point&lt;/a&gt; &lt;br/&gt;&lt;b&gt;Venue type&lt;/b&gt;:&amp;nbsp;General Council venue, Light up asset</description>
+			<link>https://www.brisbane.qld.gov.au/events-arts-and-culture/creative-programs-and-awards/creative-lighting/asset-light-up-calendar#calendar?trumbaEmbed=view%3devent%26eventid%3d185105005</link>
+			<x-trumba:ealink>https://eventactions.com/eventactions/light-up-brisbane#/actions/mrjg4km8hpwtjmawhxvbnxb3c7</x-trumba:ealink>
+			<category>2025/07/31 (Thu)</category>
+			<guid isPermaLink="false">http://uid.trumba.com/event/185105005</guid>
+			<xCal:summary>Rural Fire Service Queensland Week</xCal:summary>
+			<xCal:location>Story Bridge, Kangaroo Point</xCal:location>
+			<xCal:dtstart>2025-07-30T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EAST" tzCode="260">2025-07-31T00:00:00</x-trumba:localstart>
+			<x-trumba:formatteddatetime>Thursday, 31 July 2025</x-trumba:formatteddatetime>
+			<xCal:dtend>2025-07-31T14:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EAST" tzCode="260">2025-08-01T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Story Bridge will be lit Yellow to support Rural Fire Service Queensland&amp;nbsp;Week
+
+Rural Fire Service Queensland (RFSQ) has a state-wide volunteer workforce comprised of dedicated people who are ready to support their communities when needed. RFSQ Week 2025 will commence from Sunday, 27 July to Saturday, 2 August and will highlight the dedication and commitment of RFSQ volunteer members. Rural Fire Service Queensland Week is a state-wide celebration held each year in recognition of the critical and invaluable role volunteer members perform in emergency service delivery in Queensland.
+
+This Light Up is organised by: Rural Fire Service Queensland</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/185105005</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Light up Brisbane</x-trumba:customfield>
+			<x-trumba:customfield name="Light up asset" id="67489" type="text">Story Bridge, Kangaroo Point</x-trumba:customfield>
+			<x-trumba:customfield name="Venue address" id="22505" type="text">Story Bridge, Main Street, Kangaroo Point</x-trumba:customfield>
 			<x-trumba:customfield name="Venue type" id="23389" type="text">General Council venue,Light up asset</x-trumba:customfield>
 			<x-trumba:categorycalendar>Brisbane's calendar|Light up Brisbane</x-trumba:categorycalendar>
 		</item>
